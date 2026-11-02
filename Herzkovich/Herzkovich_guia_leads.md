@@ -337,655 +337,655 @@ Todos estos se eligieron por tema y se revisaron. **Transcripción**: si había 
 
 | # | Título | Tipo | Fecha | URL | Transcripción | Aportó | NotebookLM |
 |---|---|---|---|---|---|---|---|
-| 1 | Adrián Herzkovich: En un momento hacés un click y empezás a entender todo / Scalabl España | entrevista (Scalabl) | 2019-11-06 | https://www.youtube.com/watch?v=ENJIfFCC6hM | Sí | No | Sí |
-| 2 | TOTEM Live. Parte 16. Andy Stalman y Adrián Herzkovich | entrevista (Andy Stalman (TOTEM Live)) | 2020-04-10 | https://www.youtube.com/watch?v=8FpzwDgvj_s | No (solo hay pista en inglés) | No | Sí |
-| 3 | 250. 40plusleague con Adrián Herzkovich | entrevista (Jordi Garcia Codina) | 2021-04-24 | https://www.youtube.com/watch?v=simBXAQ3pAQ | Sí | Sí | Sí |
-| 4 | 40+ League (Adrian Herzkovich) | entrevista (Jaume Pujol Capllonch (Empersona)) | 2021-06-12 | https://www.youtube.com/watch?v=_L0OrbslCQY | Sí | Sí | Sí |
-| 5 | Reinvención después de los 40, la historia de Adrián Herzkovich / AQUÍ ESTOY | entrevista (Linda González (Aquí Estoy)) | 2023-02-08 | https://www.youtube.com/watch?v=HYHG67Seh-s | Sí | Sí | Sí |
-| 6 | Cada vez nos acercamos más rápido al futuro  / Adrian Herzkovich · The Coach | entrevista (El pensador crítico) | 2023-06-23 | https://www.youtube.com/watch?v=_bfLTVI3ANU | Sí | Sí | Sí |
-| 7 | ✅Episodio #126 - Cómo escapar de la matrix luego de los 40 / Adrian Herzkovich | entrevista (Javier Yranzo (Marketing para David)) | 2023-08-08 | https://www.youtube.com/watch?v=yBGHffBxyk0 | Sí | Sí | Sí |
-| 8 | ¡Secretos para triunfar después de los 40! | entrevista (Susana Goitia) | 2024-09-28 | https://www.youtube.com/watch?v=iwG4iKUv6M0 | Sí | Sí | Sí |
-| 9 | CEO 360 con Adrian Herzkovich: Cómo Redefinir el Éxito | entrevista (Alfredo Bustos (CEO 360)) | 2024-12-18 | https://www.youtube.com/watch?v=LzVaWKwIVL8 | Sí | Sí | Sí |
-| 10 | Adrian Herzkovich, CEO y Fundador de 40+ League | entrevista (CEO Talks) | 2025-01-10 | https://www.youtube.com/watch?v=v3Ie5n6XnPc | Sí | Sí | Sí |
-| 11 | Un giro de vida radical que lo llevó al éxito de su marca personal | entrevista (Guillermo González Pimiento) | 2025-02-04 | https://www.youtube.com/watch?v=IpkT6qyfETk | Sí | Sí | Sí |
-| 12 | Marca Personal para Ejecutivos: El Plan para Asegurar tu Futuro / Adrian Herzkovich | entrevista (Sebastián Lora) | 2025-09-29 | https://www.youtube.com/watch?v=vpxJ7RVhNU4 | Sí | Sí | Sí |
-| 13 | Adrian Herzkovich   MediaHerz   Executive Coaching   South Summit | video | 2019-10-03 | https://www.youtube.com/watch?v=Z0l-IxJT6qM | Sí | Sí | No |
-| 14 | How to improve your current profile picture, for free, right now, and in a very easy way? | video | 2019-10-07 | https://www.youtube.com/watch?v=KmnwT2z-MVI | Sí | No | No |
-| 15 | Entrevista a Adrian Herzkovich, Executive Coach & Reinvention Expert, por Jorge Branger en LinkedIn. | video | 2020-05-08 | https://www.youtube.com/watch?v=x66i_2ehxag | Sí | Sí | Sí |
-| 16 | How to become a rock star while you are in a Zoom call? 🎸🤟 | video | 2020-09-15 | https://www.youtube.com/watch?v=CgnuGo-s8K8 | No (video en inglés; la traducción automática al español dio error 429) | No | No |
-| 17 | 💰 TODOS TENEMOS LA CAPACIDAD PARA FACTURAR, PERO POCOS EL MINDSET PARA HACERLO 💰 | video | 2022-06-29 | https://www.youtube.com/watch?v=6K5UACDiZAI | Sí | Sí | No |
-| 18 | 🤔 ¿CUÁLES SON LAS 3 KEYWORDS QUE TE DEFINEN PROFESIONALMENTE? 🤔 | video | 2022-07-03 | https://www.youtube.com/watch?v=WSy2rNWhyHs | Sí | Sí | No |
-| 19 | 🚫 ¡NO TRABAJES NUNCA A SOLO COMISIÓN! 🚫 | video | 2022-07-08 | https://www.youtube.com/watch?v=xkK9cqbQWy4 | Sí | Sí | No |
-| 20 | 😲 CADA VEZ QUE CONOCES A ALGUIEN ESTÁS QUEMANDO UNA BALA DE PLATA 😲 | video | 2022-07-21 | https://www.youtube.com/watch?v=kOimjzbQbwU | Sí | Sí | No |
-| 21 | Planta bandera en LinkedIn, aduéñate de UN SOLO TEMA y conviértete en el número 1️⃣ | video | 2022-08-22 | https://www.youtube.com/watch?v=xb9v-Z2W4QU | Sí | Sí | No |
-| 22 | Para cerrar 1 venta, deberás realizar 99 NO ventas 🤦🏻‍♂️ | video | 2022-09-13 | https://www.youtube.com/watch?v=X2FHUfUvnCU | Sí | Sí | Sí |
-| 23 | Sé tu propio asesor de TU marca personal 😉 | video | 2022-10-06 | https://www.youtube.com/watch?v=A8yyZ83LgJM | Sí | Sí | No |
-| 24 | 👩‍💻 Al iniciar tu nuevo negocio, siempre empieza por vender horas ⌚ | video | 2022-10-11 | https://www.youtube.com/watch?v=iJU-Km6QIHE | Sí | Sí | No |
-| 25 | Company of One: La solución a tus problemas presentes y futuros 😉 | video | 2022-10-27 | https://www.youtube.com/watch?v=fNddgbU3vwM | Sí | No | No |
-| 26 | Si no puedes definirte en 3 palabras, estás perdiendo tiempo y dinero 😱 | video | 2022-11-09 | https://www.youtube.com/watch?v=NK21QY0CkdM | Sí | Sí | No |
-| 27 | Si quieres ser reconocido como un EXPERTO en un tema, habla ÚNICAMENTE de ESE tema 💬 | video | 2022-11-30 | https://www.youtube.com/watch?v=BNPLqamJ9FM | Sí | Sí | No |
-| 28 | Se experto en 1 tema | video | 2022-12-09 | https://www.youtube.com/watch?v=qmPOC982y6g | Sí | Sí | No |
-| 29 | Cómo publicar con un objetivo concreto en LinkedIn | video | 2022-12-13 | https://www.youtube.com/watch?v=t77q-idv9sI | Sí | Sí | No |
-| 30 | La diferencia está en los detalles | video | 2022-12-15 | https://www.youtube.com/watch?v=nAi327mMsyc | Sí | Sí | No |
-| 31 | Cómo vender nuestro servicio en 2 minutos | video | 2022-12-16 | https://www.youtube.com/watch?v=eD1Yp03J3xg | Sí | Sí | Sí |
-| 32 | Cómo demostrar tu valor usando solo tres palabras | video | 2022-12-19 | https://www.youtube.com/watch?v=MpzsY3iVwcM | Sí | Sí | No |
-| 33 | Si no defines el valor de tus servicios, no tienes nada | video | 2022-12-21 | https://www.youtube.com/watch?v=LT0WsAZ_pV8 | Sí | Sí | No |
-| 34 | Eres la imagen que das de ti mismo | video | 2022-12-22 | https://www.youtube.com/watch?v=NTqv7-AdB6E | Sí | No | No |
-| 35 | Cómo convertirte en un profesional único y salir del molde | video | 2022-12-27 | https://www.youtube.com/watch?v=ere75tpl94g | Sí | No | No |
-| 36 | Cómo venderte y superar las expectativas | video | 2022-12-28 | https://www.youtube.com/watch?v=VC-5up3VvT8 | Sí | Sí | No |
-| 37 | Encuentra palabras que te definan como profesional | video | 2022-12-29 | https://www.youtube.com/watch?v=PqNQE1ER03M | Sí | No | No |
-| 38 | La pregunta del millón: ¿Cómo lo ves? | video | 2023-01-09 | https://www.youtube.com/watch?v=W4PSWhDT0bM | Sí | Sí | Sí |
-| 39 | Qué es el Newsletter y cómo aprovecharlo al máximo | video | 2023-01-12 | https://www.youtube.com/watch?v=-6WAJG8Sffg | Sí | No | No |
-| 40 | Cómo hacer plata sin ser empleado | video | 2023-01-18 | https://www.youtube.com/watch?v=8fdYMUnE-iU | Sí | No | No |
-| 41 | Las ventajas de ser un profesional diferente | video | 2023-01-20 | https://www.youtube.com/watch?v=0y7m-obidtE | Sí | Sí | No |
-| 42 | Arma tu presentación como un relato perfecto | video | 2023-01-25 | https://www.youtube.com/watch?v=S7JimMKb79E | Sí | Sí | No |
-| 43 | Cómo publicar como un PRO en LinkedIn | video | 2023-02-02 | https://www.youtube.com/watch?v=7Uk4tGMkEAE | Sí | Sí | No |
-| 44 | Cómo cobrar por nuestros servicios | video | 2023-02-02 | https://www.youtube.com/watch?v=VuOUs3cEOBE | Sí | Sí | No |
-| 45 | Por qué es esencial tener una marca personal para vender tus servicios | video | 2023-02-03 | https://www.youtube.com/watch?v=lglb-jwYRnU | Sí | Sí | No |
-| 46 | Tu cliente ideal es quien le tira plata al problema | video | 2023-02-15 | https://www.youtube.com/watch?v=2-3fQqZydo4 | Sí | Sí | Sí |
-| 47 | Tener una cuenta de LinkedIn Premium te da una gran ventaja | video | 2023-02-20 | https://www.youtube.com/watch?v=h_YB8520NIw | Sí | Sí | No |
-| 48 | Las 3️⃣ reglas esenciales para tu Company of One | video | 2023-02-27 | https://www.youtube.com/watch?v=vimP3ShEBvA | Sí | No | No |
-| 49 | La importancia de las conexiones en LinkedIn | video | 2023-03-02 | https://www.youtube.com/watch?v=-PUizXwIVmo | Sí | Sí | No |
-| 50 | Vuélvete un experto y vende tus habilidades únicas | video | 2023-03-06 | https://www.youtube.com/watch?v=mI0_8yQrP30 | Sí | No | No |
-| 51 | 3 formas de cubrir tu costo de vida anual | video | 2023-03-15 | https://www.youtube.com/watch?v=Da8D7sQnmH4 | Sí | No | No |
-| 52 | Cuenta tu experiencia como una película de tu vida | video | 2023-03-21 | https://www.youtube.com/watch?v=Zlb28vTlHA0 | Sí | Sí | No |
-| 53 | Armar tu Company of One implica prueba y error 🧪 | video | 2023-03-22 | https://www.youtube.com/watch?v=9B7AXKGQTNc | Sí | No | No |
-| 54 | Planifica una estrategia en LinkedIn y cumple tus objetivos | video | 2023-03-27 | https://www.youtube.com/watch?v=8vIP7FVZ0Zo | Sí | Sí | No |
-| 55 | En el mundo actual, debes ser y parecer para probar tu valor | video | 2023-04-12 | https://www.youtube.com/watch?v=se9M__ui0Qg | Sí | Sí | No |
-| 56 | Es esencial que sepas cómo presentarte | video | 2023-06-08 | https://www.youtube.com/watch?v=w6t46qUTDhs | Sí | Sí | No |
-| 57 | ¿Cómo presentarte en menos de un minuto? | video | 2023-07-07 | https://www.youtube.com/watch?v=Jc9Lk3AUGVM | Sí | Sí | No |
-| 58 | Las 3 reglas para armar tu Company of One 👨‍💻 | video | 2023-07-07 | https://www.youtube.com/watch?v=BxG_NbV8KQA | Sí | No | No |
-| 59 | ¡No trabajes gratis! Debes valorar tu talento | video | 2023-07-10 | https://www.youtube.com/watch?v=Lf3nR10M4RE | Sí | Sí | No |
-| 60 | Encuentra el balance entre tu mayor talento y aquello que te apasiona | video | 2023-07-17 | https://www.youtube.com/watch?v=2-qt32JX5l8 | Sí | No | No |
-| 61 | Define tu marca personal para ser reconocido por tu verdadero valor 🌟 | video | 2023-07-27 | https://www.youtube.com/watch?v=EF09w_OTg00 | Sí | Sí | No |
-| 62 | Debes definirte en tres palabras clave | video | 2023-08-03 | https://www.youtube.com/watch?v=2VWsd_EXY7I | Sí | Sí | No |
-| 63 | Expresa fácilmente en qué eres muy bueno | video | 2023-08-07 | https://www.youtube.com/watch?v=NzkYKZ9qQec | Sí | Sí | No |
-| 64 | Planifica tus posteos de forma eficiente y atraerás a más clientes 🧲 | video | 2023-08-24 | https://www.youtube.com/watch?v=SKtCvtKnuGM | Sí | Sí | No |
-| 65 | Cómo vender siendo un Knowmad 💻 | video | 2023-08-28 | https://www.youtube.com/watch?v=h6--37llyI4 | Sí | Sí | No |
-| 66 | ¿Cómo facturar con tu Company of One? 💰 | video | 2023-09-04 | https://www.youtube.com/watch?v=3XGPKaaKLTM | Sí | No | No |
-| 67 | ¿Cómo hacer para destacar tu contenido de LinkedIn? 🌟 | video | 2023-09-14 | https://www.youtube.com/watch?v=o2BZm7dOtJQ | Sí | No | No |
-| 68 | Encuentra tus tres keywords para destacar tu Marca Personal ✨ | video | 2023-09-25 | https://www.youtube.com/watch?v=WvjQiIONseI | Sí | Sí | No |
-| 69 | Si quieres ser exitoso, muéstrate como un Plus ⚡ | video | 2023-10-11 | https://www.youtube.com/watch?v=7dkY6etEsaY | Sí | No | No |
-| 70 | Siempre anuncia tus victorias, pero nunca tus pérdidas | video | 2023-10-12 | https://www.youtube.com/watch?v=TufOZVJzUYo | Sí | Sí | No |
-| 71 | Usa la misma foto en todas tus redes sociales 📷 | video | 2023-10-18 | https://www.youtube.com/watch?v=OyElkpR7Ud4 | Sí | Sí | No |
-| 72 | Comparte contenido de valor y evita las polémicas 💬 | video | 2023-10-27 | https://www.youtube.com/watch?v=AgKuPqP1Gyc | Sí | No | No |
-| 73 | Sé estratégico con tu contenido en redes 🎯 | video | 2023-10-27 | https://www.youtube.com/watch?v=oDoEIhUaXug | Sí | No | No |
-| 74 | Incentiva la interacción en tus posteos y mejora tu engagement | video | 2023-11-02 | https://www.youtube.com/watch?v=iGSqCL3t6fM | Sí | No | No |
-| 75 | 3 objetivos clave para vender más usando ChatGPT 🤖 | video | 2023-11-03 | https://www.youtube.com/watch?v=9dbExi8zgbg | Sí | No | No |
-| 76 | Debes estar siempre listo para presentarte | video | 2023-11-20 | https://www.youtube.com/watch?v=zk6N0oDSqqc | Sí | Sí | No |
-| 77 | Vas a tener muchos más clientes de los que piensas | video | 2023-11-21 | https://www.youtube.com/watch?v=ZyuI04eOP6w | Sí | Sí | No |
-| 78 | Debes conocer la estructura de tu negocio a fondo para poder vender más | video | 2023-11-22 | https://www.youtube.com/watch?v=TvkTAxjjEts | Sí | Sí | No |
-| 79 | Usa las redes sociales para demostrar tu valor ✨ | video | 2023-12-05 | https://www.youtube.com/watch?v=8FGX20sFGnI | Sí | Sí | No |
-| 80 | Las nuevas tecnologías requieren un cambio de mindset | video | 2023-12-18 | https://www.youtube.com/watch?v=fwMT0A_TEEE | Sí | No | No |
-| 81 | La forma más simple de generar engagement en tus redes 💬 | video | 2023-12-18 | https://www.youtube.com/watch?v=7Qq-mfQ-Xug | Sí | No | No |
-| 82 | Brilla en redes sociales y consigue más leads con tu marca personal 👤 | video | 2023-12-20 | https://www.youtube.com/watch?v=17zqFTwTCVo | Sí | Sí | No |
-| 83 | Aprovecha al máximo tu red de conexiones de LinkedIn | video | 2023-12-27 | https://www.youtube.com/watch?v=5aSz_LSqcCw | Sí | Sí | No |
-| 84 | Define qué vendes, a quién y cuál es la transformación que ofreces 🌟 | video | 2023-12-27 | https://www.youtube.com/watch?v=cF9eIGV4fEk | Sí | Sí | No |
-| 85 | Planifica tus posteos en LinkedIn para atraer a más clientes 🤩 | video | 2023-12-29 | https://www.youtube.com/watch?v=DRnKtnbWrs8 | Sí | Sí | No |
-| 86 | ¿Por qué tu contenido debe estar asociado a tres tendencias? 🔀 | video | 2024-01-03 | https://www.youtube.com/watch?v=pg28z9PqZfc | Sí | No | No |
-| 87 | ¿Cómo aprovechar tu network para vender más? 📊 | video | 2024-01-04 | https://www.youtube.com/watch?v=lVSqZ4m-9dQ | Sí | Sí | No |
-| 88 | Por qué tu primera compañía va a ser de consultoría 💻 | video | 2024-01-05 | https://www.youtube.com/watch?v=53N-YWAtLSo | Sí | Sí | No |
-| 89 | El secreto para vender con tu Company of One 💹 | video | 2024-01-09 | https://www.youtube.com/watch?v=1_kAKwOVp3M | Sí | No | No |
-| 90 | La Company of One es tu billete a la independencia profesional ✨ | video | 2024-01-11 | https://www.youtube.com/watch?v=eR2nK1pfv2s | Sí | Sí | Sí |
-| 91 | Tu mercado es el mundo entero 🌍 | video | 2024-01-16 | https://www.youtube.com/watch?v=PYE11ikv9Bc | Sí | Sí | No |
-| 92 | La escalabilidad es la clave para el éxito de tu negocio 📊 | video | 2024-01-17 | https://www.youtube.com/watch?v=P4lC9MetVDY | Sí | Sí | No |
-| 93 | Company of One: Ventajas, desafíos y principios | video | 2024-01-18 | https://www.youtube.com/watch?v=ce38b6iA2iU | Sí | Sí | Sí |
-| 94 | Necesitas saber cuánto gastas para saber cuánto facturar 💰 | video | 2024-01-22 | https://www.youtube.com/watch?v=bYTwnNSzKjE | Sí | Sí | No |
-| 95 | Crea posteos que generen curiosidad en tu audiencia 🧐 | video | 2024-01-23 | https://www.youtube.com/watch?v=tLBkpe_g5Zs | Sí | Sí | No |
-| 96 | Si eres 40+, necesitas una Company of One si o si 👊 | video | 2024-01-24 | https://www.youtube.com/watch?v=3iBhYs8Yr3M | Sí | Sí | No |
-| 97 | ¿Qué es y que no es una Company of One? ☑ | video | 2024-01-25 | https://www.youtube.com/watch?v=g0eoX9erMbA | Sí | No | No |
-| 98 | 3 reglas para empezar a emprender con tu Company of One 💻 | video | 2024-01-26 | https://www.youtube.com/watch?v=uri29zigPPA | Sí | Sí | No |
-| 99 | Véndete como el CEO de tu propia compañía y factura más 💹 | video | 2024-01-30 | https://www.youtube.com/watch?v=VCQI42OgQYY | Sí | Sí | No |
-| 100 | Estos son los desafíos más comunes cuando empiezas tu Company of One | video | 2024-01-31 | https://www.youtube.com/watch?v=7KuxpQlHlxU | Sí | Sí | No |
-| 101 | Siempre empieza tu compañía vendiendo servicios | video | 2024-02-01 | https://www.youtube.com/watch?v=ge0rKCAHTVM | Sí | Sí | No |
-| 102 | Calcula el precio de tus servicios por cantidad de ventas anuales | video | 2024-02-05 | https://www.youtube.com/watch?v=Xxv2r3I6w4I | Sí | Sí | No |
-| 103 | Por qué debes retener a tus clientes habituales | video | 2024-02-05 | https://www.youtube.com/watch?v=KKI2sDIUFBI | Sí | Sí | No |
-| 104 | ¿Cómo asegurar el nombre de tu Company of One? ✔ | video | 2024-02-07 | https://www.youtube.com/watch?v=xstCRX-paIY | Sí | No | No |
-| 105 | La Company of One te obliga a salir de tu zona de confort 💢 | video | 2024-02-09 | https://www.youtube.com/watch?v=Hpa92ThRDTg | Sí | No | No |
-| 106 | No regales tu tiempo ni tu experiencia a cualquier cliente ✋ | video | 2024-02-21 | https://www.youtube.com/watch?v=EwAbJa1WWYs | Sí | Sí | No |
-| 107 | Hoy es más fácil que nunca crear tu propia compañía 👍 | video | 2024-03-01 | https://www.youtube.com/watch?v=DSDo0zfZNMY | Sí | Sí | No |
-| 108 | Las bases de una buena marca personal ✨ | video | 2024-03-04 | https://www.youtube.com/watch?v=jDnpiNaf7Bw | Sí | Sí | No |
-| 109 | Debes estar en todas las redes sociales 💻 | video | 2024-03-06 | https://www.youtube.com/watch?v=eSzjPorLojQ | Sí | Sí | No |
-| 110 | ¿Por qué vas a armar muchas compañías? | video | 2024-03-11 | https://www.youtube.com/watch?v=nEztxTz6joA | Sí | No | No |
-| 111 | ¿Cómo hacer para evitar trabajos por comisión con tu Company of One? 🚫 | video | 2024-03-14 | https://www.youtube.com/watch?v=3EtQDuUne6w | Sí | Sí | No |
-| 112 | Encuentra tu audiencia, comunica tus ideas e impulsa tu negocio 💹 | video | 2024-03-19 | https://www.youtube.com/watch?v=j7CBG5SbPLs | Sí | No | No |
-| 113 | Define tu mercado y ofrece exclusividad ✨ | video | 2024-03-19 | https://www.youtube.com/watch?v=FJ0aU9YDJwg | Sí | Sí | No |
-| 114 | Si tienes más de 40 años, la Company of One es tu camino al éxito 🚀 | video | 2024-03-27 | https://www.youtube.com/watch?v=_hfoxLCAm1c | Sí | No | No |
-| 115 | Si eres bueno en algo ¡Nunca lo hagas gratis! 🆓 | video | 2024-03-27 | https://www.youtube.com/watch?v=VBEAQ8lThq8 | Sí | Sí | No |
-| 116 | Necesitas aprender a cobrar por tus servicios 💰 | video | 2024-03-28 | https://www.youtube.com/watch?v=uPqfZc3WVHk | Sí | Sí | No |
-| 117 | La Company of One tiene costos, pero son inversiones a futuro 💲 | video | 2024-03-28 | https://www.youtube.com/watch?v=Wlk5BvqwQ3U | Sí | No | No |
-| 118 | Preséntate como el CEO & fundador de tu compañía, no como autónomo | video | 2024-04-09 | https://www.youtube.com/watch?v=SFcBlvL5lXw | Sí | Sí | No |
-| 119 | La clave del emprendimiento: Metas y Objetivos 🎯 | video | 2024-04-10 | https://www.youtube.com/watch?v=ChKj4Ert-eg | Sí | No | No |
-| 120 | No es tan caro empezar varias Companies of One | video | 2024-04-15 | https://www.youtube.com/watch?v=N8byHO2Ejcc | Sí | No | No |
-| 121 | Ofrece un valor único y tus clientes vendrán a buscarte 🤩 | video | 2024-04-17 | https://www.youtube.com/watch?v=5b8gSIUIiNY | Sí | Sí | No |
-| 122 | Tu experiencia se vende al precio justo 💲 | video | 2024-04-18 | https://www.youtube.com/watch?v=dGyDPFrYITQ | Sí | Sí | No |
-| 123 | La gran ventaja de la Company of One: Libertad absoluta | video | 2024-04-22 | https://www.youtube.com/watch?v=eMFGD0S3oKM | Sí | No | No |
-| 124 | Eres el reflejo viviente de lo que vendes 👤 | video | 2024-04-23 | https://www.youtube.com/watch?v=jIF6gvdv9ZA | Sí | Sí | No |
-| 125 | ¿Cuánto cobrar por mis servicios? 🤔 | video | 2024-04-23 | https://www.youtube.com/watch?v=Vf7878a_Ys4 | Sí | Sí | Sí |
-| 126 | Tu Company of One no va a tener sitio web 🚫 | video | 2024-04-29 | https://www.youtube.com/watch?v=_gtOl8BZP3M | Sí | No | No |
-| 127 | Eres el único responsable del éxito de tu compañía | video | 2024-04-30 | https://www.youtube.com/watch?v=Dxh9d_jZWc8 | Sí | Sí | No |
-| 128 | Asegura tu presencia en todas las redes sociales 💻 | video | 2024-05-02 | https://www.youtube.com/watch?v=mNGJ9Vkwz_s | Sí | No | No |
-| 129 | Usa todas tus redes sociales de manera profesional y marca la diferencia 👊 | video | 2024-05-02 | https://www.youtube.com/watch?v=3-U7ji0ZFSM | Sí | Sí | No |
-| 130 | Tu Company of One transforma tu experiencia pasada en un valor único 🌟 | video | 2024-05-06 | https://www.youtube.com/watch?v=E45mgyX411c | Sí | Sí | No |
-| 131 | 📃 Sin lista de precios, tu compañía no existe 💥 | video | 2024-05-07 | https://www.youtube.com/watch?v=v1vhKhIOmEU | Sí | Sí | No |
-| 132 | Tu Company of One funciona a TU manera 🙋‍♂️ | video | 2024-05-10 | https://www.youtube.com/watch?v=m9w5GM01Dm8 | Sí | Sí | No |
-| 133 | Siempre cobra por adelantado | video | 2024-05-14 | https://www.youtube.com/watch?v=ubQKgxQYPFw | Sí | Sí | Sí |
-| 134 | Nunca trabajes por comisión 🚫 | video | 2024-05-15 | https://www.youtube.com/watch?v=pXCZ-6sfeTc | Sí | Sí | No |
-| 135 | La fórmula perfecta para generar cashflow constante 💹 | video | 2024-05-27 | https://www.youtube.com/watch?v=7DSRNYjCeY8 | Sí | No | No |
-| 136 | ¿Cómo conseguir más "leads"? Aprende a comentar posteos de otras personas 💬 | video | 2024-05-30 | https://www.youtube.com/watch?v=BANXtCDmYXU | Sí | Sí | No |
-| 137 | Esta es la mejor forma de redactar tus posteos 👨‍💻 | video | 2024-06-04 | https://www.youtube.com/watch?v=fDVq8-g8mMo | Sí | No | No |
-| 138 | Preséntate de forma precisa ante tu audiencia 🙋‍♂️ | video | 2024-06-07 | https://www.youtube.com/watch?v=3ujJbdOV3t0 | Sí | Sí | No |
-| 139 | Si vas a vender, empieza vendiendo servicios | video | 2024-06-10 | https://www.youtube.com/watch?v=F_BCJr6WVuI | Sí | Sí | No |
-| 140 | No vas a ayudar a nadie, vas a cobrar por brindar soluciones 💵 | video | 2024-06-11 | https://www.youtube.com/watch?v=VC-xFazV7Sc | Sí | Sí | No |
-| 141 | Tu nueva compañía necesita estar en todas las redes sociales 💻 | video | 2024-06-12 | https://www.youtube.com/watch?v=-bknz4EecnQ | Sí | Sí | No |
-| 142 | Capitaliza tus posteos en redes sociales y consigue más ventas 🤑 | video | 2024-06-18 | https://www.youtube.com/watch?v=nYidK8Hr2jQ | Sí | Sí | No |
-| 143 | La última evolución de las ventas está en TikTok 📱 | video | 2024-06-19 | https://www.youtube.com/watch?v=CNaTcK9QVII | Sí | Sí | No |
-| 144 | Descríbete con estos tipos de keywords e impacta a tus clientes 🗣 | video | 2024-06-24 | https://www.youtube.com/watch?v=-jr6EbpZaDA | Sí | Sí | No |
-| 145 | 💬 El idioma no te limita, es una oportunidad de negocio 🗣 | video | 2024-06-25 | https://www.youtube.com/watch?v=4Z5il5W3ZO4 | Sí | Sí | No |
-| 146 | La mejor manera de captar clientes es "atacarlos" con tu experiencia 😉 | video | 2024-06-26 | https://www.youtube.com/watch?v=6dpLvREigGM | Sí | Sí | Sí |
-| 147 | Aprende a identificar el problema de tus clientes 💢 | video | 2024-06-27 | https://www.youtube.com/watch?v=UZrNJ8RuiE4 | Sí | Sí | No |
-| 148 | Cómo demostrar que eres el N°1 en lo que haces 🥇 | video | 2024-07-10 | https://www.youtube.com/watch?v=KJphbhV3-K8 | Sí | Sí | No |
-| 149 | Tu audiencia define cómo debes venderte 🗣 | video | 2024-07-11 | https://www.youtube.com/watch?v=dXdyOoBH2ow | Sí | Sí | No |
-| 150 | Cómo presentarte de manera eficaz para atraer a nuevos clientes 🌟 | video | 2024-07-17 | https://www.youtube.com/watch?v=RulGNWjsG5M | Sí | Sí | No |
-| 151 | Cómo empezar tu reinvención profesional teniendo más de 40 años | video | 2024-07-18 | https://www.youtube.com/watch?v=fHKA-QoJhy0 | Sí | Sí | No |
-| 152 | ¿La mejor manera de impresionar a tus clientes? Sabiendo más que ellos 🤓 | video | 2024-07-22 | https://www.youtube.com/watch?v=1xCjnckUh6c | Sí | Sí | No |
-| 153 | Encuentra tu "long tail" y factura más 🤑 | video | 2024-07-25 | https://www.youtube.com/watch?v=XxV1scX1WhE | Sí | Sí | No |
-| 154 | Hoy puede ser buena idea convertirte en consultor o freelancer 👨‍💻 | video | 2024-07-30 | https://www.youtube.com/watch?v=Ndz7NTUnxvA | Sí | Sí | No |
-| 155 | Es tan importante ser bueno como parecerlo 😎 | video | 2024-08-02 | https://www.youtube.com/watch?v=zt5eKDzlryA | Sí | Sí | No |
-| 156 | En LinkedIn, más siempre es mejor ➕ | video | 2024-08-06 | https://www.youtube.com/watch?v=EEm8Pf31rMc | Sí | Sí | No |
-| 157 | Descubre dos modelos efectivos para generar ingresos después de los 40 | video | 2024-08-08 | https://www.youtube.com/watch?v=86VUs0A35EI | Sí | Sí | No |
-| 158 | Revolución en LinkedIn: ¡Llega la era del video! 📹 | video | 2024-08-09 | https://www.youtube.com/watch?v=K1aJpwhpL3c | Sí | Sí | No |
-| 159 | Aprende a crear contenido y compartirlo en diferentes redes sociales como un PRO 👊 | video | 2024-08-09 | https://www.youtube.com/watch?v=84l3c6OnZ2s | Sí | Sí | No |
-| 160 | Por qué tu LinkedIn debería estar armado en inglés ☑ | video | 2024-08-13 | https://www.youtube.com/watch?v=N_iMauEo8Rc | Sí | Sí | No |
-| 161 | Por qué deberías evitar trabajos a comisión ❌ | video | 2024-08-15 | https://www.youtube.com/watch?v=xf03buWXhH0 | Sí | Sí | No |
-| 162 | El factor definitivo para crear oportunidades de negocio 💰 | video | 2024-08-19 | https://www.youtube.com/watch?v=h8L6jganJ_w | Sí | Sí | No |
-| 163 | ¿Cómo atraer nuevos clientes en LinkedIn? Aporta valor en sus posteos ✨ | video | 2024-08-21 | https://www.youtube.com/watch?v=4DQUcJQwYQo | Sí | Sí | No |
-| 164 | 🤔 ¿Cómo ganar dinero sin ser empleado? Con tu Company of One 🚀 | video | 2024-08-22 | https://www.youtube.com/watch?v=-PKfpbCeGzY | Sí | Sí | No |
-| 165 | ¿Por qué hoy conviene estar en todas las redes sociales? 💻 | video | 2024-08-26 | https://www.youtube.com/watch?v=N1tf9gS7mBs | Sí | Sí | No |
-| 166 | Aprovecha la nueva función colaborativa de LinkedIn 🤝 | video | 2024-08-27 | https://www.youtube.com/watch?v=wEpt59_VvRI | Sí | No | No |
-| 167 | Rodearte de las personas adecuadas puede llevarte al Éxito Profesional - Executive Experience 2024 | video | 2024-08-29 | https://www.youtube.com/watch?v=UJv84O9Os5Q | Sí | Sí | No |
-| 168 | Lo que necesitas saber antes de empezar a emprender con tu Company of One 👨‍💻 | video | 2024-08-30 | https://www.youtube.com/watch?v=IbcheTaqc4s | Sí | Sí | No |
-| 169 | Hoy puedes (y deberías) tener lanzadas varias Companies of One 💻 | video | 2024-09-04 | https://www.youtube.com/watch?v=0M1NGoOg66M | Sí | Sí | No |
-| 170 | Tu Company of One existe siempre que puedas facturar 💲 | video | 2024-09-05 | https://www.youtube.com/watch?v=jqJZx0bWdBs | Sí | Sí | No |
-| 171 | ¿La parte más difícil de empezar tu Company of One? Hacer tu primera factura 📄 | video | 2024-09-12 | https://www.youtube.com/watch?v=RvfQauTXCPc | Sí | Sí | No |
-| 172 | Monetizando Nuestra Marca Personal  - Adrian The Coach | video | 2024-09-20 | https://www.youtube.com/watch?v=q2Fo2Fv5nbU | Sí | Sí | Sí |
-| 173 | 📈 ¿Cómo crecer tu audiencia fácilmente? Hazte notar en posts de otros 💬 | video | 2024-09-23 | https://www.youtube.com/watch?v=mZKYoaSK8PQ | Sí | Sí | No |
-| 174 | Define tu posicionamiento en TikTok y aumenta tus ventas con contenido de valor ⏫ | video | 2024-09-24 | https://www.youtube.com/watch?v=oiaAncKc8qY | Sí | Sí | No |
-| 175 | La estrategia ganadora para crecer tu negocio gracias a YouTube 📺 | video | 2024-09-26 | https://www.youtube.com/watch?v=IfSBpJOGVrk | Sí | No | No |
-| 176 | ¿Quieres comerte al mundo? Arma tu propio personaje 🦸‍♂️ | video | 2024-10-17 | https://www.youtube.com/watch?v=R_CqbRD_S4Y | Sí | Sí | No |
-| 177 | Cuando te presentes, evita el "sincericidio" y destaca lo que te hace único 🌟 | video | 2024-10-18 | https://www.youtube.com/watch?v=3PwW8O6rZd4 | Sí | Sí | No |
-| 178 | 🗣 Cuenta tu historia profesional utilizando la fórmula del "viaje del héroe" ⚔ | video | 2024-10-21 | https://www.youtube.com/watch?v=g2tXWaNvLqQ | Sí | Sí | No |
-| 179 | No hagas beneficencia con tus clientes, cóbrales por tu talento 💰 | video | 2024-10-28 | https://www.youtube.com/watch?v=BMpuHBxrYxg | Sí | Sí | No |
-| 180 | En redes sociales, siempre muestra tu mejor faceta 😎 | video | 2024-11-06 | https://www.youtube.com/watch?v=hyQBm744vYA | Sí | Sí | No |
-| 181 | ¿Por qué debes utilizar LinkedIn en un solo idioma? 🗣 | video | 2024-11-11 | https://www.youtube.com/watch?v=lgxRj7vYCVw | Sí | Sí | No |
-| 182 | Las 4 variables que pueden potenciar tu perfil de LinkedIn | video | 2024-11-13 | https://www.youtube.com/watch?v=c9jXWtyyHPE | Sí | No | No |
-| 183 | ¿Cómo destacar y ser influyente teniendo más de 40 años? | video | 2024-11-13 | https://www.youtube.com/watch?v=osnf58PfTTw | Sí | Sí | No |
-| 184 | Esta es la forma más sencilla de conseguir nuevos clientes 🤝 | video | 2024-11-20 | https://www.youtube.com/watch?v=gqm_wPY_-NU | Sí | Sí | Sí |
-| 185 | La técnica infalible para comentar posteos de otras personas 💬 | video | 2024-11-21 | https://www.youtube.com/watch?v=bUMglGz7Zoc | Sí | Sí | No |
-| 186 | Cómo escribir posteos más atractivos para tu audiencia en redes sociales ✍ | video | 2024-11-22 | https://www.youtube.com/watch?v=B8lhQ4JT9Hs | Sí | No | No |
-| 187 | Vende tu experiencia como dueño de tu Company of One y cobra más 😎 | video | 2024-12-05 | https://www.youtube.com/watch?v=D3tDovTx_OA | Sí | Sí | Sí |
-| 188 | Esta es la mejor forma de monetizar tu experiencia 🌟 | video | 2024-12-09 | https://www.youtube.com/watch?v=Im7myo6EyB4 | Sí | Sí | Sí |
-| 189 | ¿Qué se necesita para armar una Company of One exitosa? 🚀 | video | 2024-12-10 | https://www.youtube.com/watch?v=SnkwpD5CGYs | Sí | Sí | Sí |
-| 190 | Al emprender, tu compañía o negocio va a cambiar según tus objetivos 🎯 | video | 2024-12-12 | https://www.youtube.com/watch?v=Lvcl4OYRyA8 | Sí | Sí | Sí |
-| 191 | Piensa en una solución a un problema de tus clientes 🔧 | video | 2024-12-18 | https://www.youtube.com/watch?v=AaR5VUWls84 | Sí | Sí | Sí |
-| 192 | ¿Cómo identificar a tus potenciales clientes? Define tu lista de precios 💲 | video | 2024-12-23 | https://www.youtube.com/watch?v=fn4lw_dqAKE | Sí | Sí | Sí |
-| 193 | El error más grave al emprender es no valorar tu tiempo ni tu talento 🚩 | video | 2024-12-26 | https://www.youtube.com/watch?v=VmiJ9SQ0dWs | Sí | Sí | Sí |
-| 194 | ¿Cómo facturar más y cubrir tu costo de vida anual? Diversifica tus servicios 💲 | video | 2024-12-30 | https://www.youtube.com/watch?v=eUrRh4pQfDc | Sí | Sí | Sí |
-| 195 | Empieza cobrando poco y tendrás más clientes ✅ | video | 2024-12-30 | https://www.youtube.com/watch?v=yLH3QN0lsAs | Sí | Sí | Sí |
-| 196 | ¿Quieres que tu nueva compañía se vea mucho más profesional? Cambia a un mail de empresa 📧 | video | 2024-12-31 | https://www.youtube.com/watch?v=wIzEkopzgf4 | Sí | Sí | No |
-| 197 | Debes asegurar el dominio de tu negocio y tu "username" en redes sociales 👤 | video | 2025-01-02 | https://www.youtube.com/watch?v=B9cJ9vOMZRU | Sí | No | No |
-| 198 | En tu Company of One, tú eres el único encargado de promocionarte y vender 🙋‍♂️ | video | 2025-01-08 | https://www.youtube.com/watch?v=mXgsCBozHVA | Sí | Sí | Sí |
-| 199 | MVP: El arma secreta de tu Company of One 🚀 | video | 2025-01-13 | https://www.youtube.com/watch?v=p1gBLEBhKBc | Sí | Sí | Sí |
-| 200 | Cómo transformé mi negocio y mejoré la forma de cobrar por mis servicios 🫰 | video | 2025-01-20 | https://www.youtube.com/watch?v=Zd-ZkybOjvE | Sí | Sí | Sí |
-| 201 | ¿Cómo resolver o llegar al fondo del problema de tu cliente? 🔎 | video | 2025-01-21 | https://www.youtube.com/watch?v=sGXqUnHjIdA | Sí | Sí | Sí |
-| 202 | Conecta con personas que te aporten valor 🤝 | video | 2025-01-22 | https://www.youtube.com/watch?v=h-KfAfg3BUM | Sí | No | Sí |
-| 203 | Cómo identificar al cliente adecuado para tu negocio y cobrar lo que realmente mereces 💰 | video | 2025-03-11 | https://www.youtube.com/watch?v=jma6teI3LN0 | Sí | Sí | Sí |
-| 204 | ¿Cómo presentarte en público para vender tus servicios como un PRO? 📣 | video | 2025-03-13 | https://www.youtube.com/watch?v=gWjKEvupQ0U | Sí | Sí | Sí |
-| 205 | Necesitas solo 3 "keywords" para presentarte como profesional 🗣 | video | 2025-05-07 | https://www.youtube.com/watch?v=88QjIyQogYs | Sí | Sí | No |
-| 206 | Tu experiencia pasada no limita lo que puedas vender HOY ☑ | video | 2025-05-09 | https://www.youtube.com/watch?v=k-HYBghKJLU | Sí | Sí | No |
-| 207 | ¿Cómo hacer mejores posteos en redes sociales? 🤔 | video | 2025-06-23 | https://www.youtube.com/watch?v=sjMz61-ln-k | Sí | No | No |
-| 208 | Cómo reinventarte a tus 40 sin perder el rumbo - Adrian The Coach x The Council Podcast | video | 2025-07-02 | https://www.youtube.com/watch?v=_2CBpaeNxkQ | Sí | Sí | Sí |
-| 209 | Diseña tu Plan B antes de que tu trabajo desaparezca | video | 2025-07-17 | https://www.youtube.com/watch?v=zw5vihOWeP0 | Sí | Sí | No |
-| 210 | Hoy, emprender nunca fue tan accesible (y tan barato) 🫰 | video | 2025-09-10 | https://www.youtube.com/watch?v=63yXtz95W40 | Sí | Sí | Sí |
-| 211 | Debes ser claro al ofrecer tus servicios a tus clientes 🫰 | video | 2025-09-19 | https://www.youtube.com/watch?v=5_FIpHYAXJc | Sí | Sí | Sí |
-| 212 | Por qué es tan importante definir tu marca personal para ser exitoso emprendiendo 👤 | video | 2025-09-25 | https://www.youtube.com/watch?v=V-fo-9FINjE | Sí | Sí | Sí |
-| 213 | Plan PASO A PASO Después del DESPIDO 40+ (Guía Completa) | video | 2025-11-05 | https://www.youtube.com/watch?v=Inqy-8WAGI8 | Sí | Sí | No |
-| 214 | Cómo REINVENTAR tu CARRERA PROFESIONAL con tu MARCA PERSONAL 40+ | video | 2025-11-17 | https://www.youtube.com/watch?v=4wBagccIzvw | Sí | Sí | Sí |
-| 215 | Esta es la realidad de los profesionales 40+ que quieran emprender 👨‍💻 | video | 2026-02-04 | https://www.youtube.com/watch?v=MFD4cdELOsQ | Sí | Sí | Sí |
-| 216 | La mejor forma para emprender a tus 40+ es con tu propia Company of One 👨‍💻 | video | 2026-05-16 | https://www.youtube.com/watch?v=vjpuptISZRY | Sí | Sí | No |
-| 217 | Los 3️⃣ principios básicos para una Company of One exitosa | video | 2026-05-18 | https://www.youtube.com/watch?v=am6Dlq_vu20 | Sí | No | Sí |
-| 218 | Acomoda tu estrategia de ventas a tu contexto de ventas y de tu cliente ideal 🔀☑️ | video | 2026-06-01 | https://www.youtube.com/watch?v=PB56RKwj5L4 | Sí | Sí | Sí |
-| 219 | La mejor manera de atraer nuevos clientes en LinkedIn 🧲 | video | 2026-06-29 | https://www.youtube.com/watch?v=NPfllSOwJII | Sí | Sí | Sí |
-| 220 | ¿Cómo saber si estoy cobrando bien por mis productos y/o servicios? 🫰 | video | 2026-09-09 | https://www.youtube.com/watch?v=Z5YDnDDDpEQ | Sí | Sí | Sí |
-| 221 | 🚀 Define tu "Long Tail" y multiplica tus ventas 🚀 | video | NA | https://www.youtube.com/watch?v=pxgW0o3y5-M | Sí | Sí | No |
-| 222 | Sé experto en un solo tema 1️⃣ #shorts | short | 2023-01-20 | https://www.youtube.com/watch?v=nRaW8KNnOak | Sí | Sí | No |
-| 223 | Antes de postear en LinkedIn, definí tu objetivo 🎯 #shorts | short | 2023-01-31 | https://www.youtube.com/watch?v=x1ZnNk2JTn8 | Sí | Sí | No |
-| 224 | Siempre empieza vendiendo horas ⌚ #shorts | short | 2023-02-01 | https://www.youtube.com/watch?v=mwI-y4xt0CI | Sí | Sí | No |
-| 225 | Invierte tiempo y dinero en ti mismo 🕑💰 #shorts | short | 2023-02-08 | https://www.youtube.com/watch?v=1xBK6Zow9GI | Sí | No | No |
-| 226 | Sé tu propio asesor de TÚ marca personal 👊 #shorts | short | 2023-02-09 | https://www.youtube.com/watch?v=kadJ6PMSILI | Sí | Sí | No |
-| 227 | Disfruta y planifica tu estilo de vida gracias a tu Company of One 😎 #shorts | short | 2023-02-13 | https://www.youtube.com/watch?v=T8ibDFyhL34 | Sí | No | No |
-| 228 | 💬 ¿Qué palabras te definen como profesional? 👨‍💼 #shorts | short | 2023-02-14 | https://www.youtube.com/watch?v=0C80Y6cxQd4 | Sí | No | No |
-| 229 | Si tienes más de 40 años, “FAKE IT TILL YOU MAKE IT” 🔥 #shorts | short | 2023-02-16 | https://www.youtube.com/watch?v=qtVTeQr1jbo | Sí | No | No |
-| 230 | Las 3️⃣ características de una Company of One exitosa #shorts | short | 2023-02-17 | https://www.youtube.com/watch?v=RewMajvu1-Y | Sí | No | No |
-| 231 | Mejora tu presentación para asombrar y convencer a los demás 😲 #shorts | short | 2023-02-18 | https://www.youtube.com/watch?v=YAE6ysHb9cw | Sí | Sí | No |
-| 232 | Crea un personaje propio pensado para tu target 🎯 #shorts | short | 2023-02-19 | https://www.youtube.com/watch?v=QzTRc9bRr-0 | Sí | Sí | No |
-| 233 | Mi compañía, mis reglas ✅ #shorts | short | 2023-02-20 | https://www.youtube.com/watch?v=KofmVLu_HaI | Sí | Sí | No |
-| 234 | 🚀 Define tu "Long Tail" y multiplica tus ventas 📈 #shorts | short | 2023-02-23 | https://www.youtube.com/watch?v=Csrjgu51NG8 | Sí | Sí | No |
-| 235 | Encuentra la "keyword" perfecta para tu cliente 💬 #shorts | short | 2023-02-25 | https://www.youtube.com/watch?v=wErmWUAfTh8 | Sí | Sí | No |
-| 236 | Bienvenido a la Company of One, el principio de tu futuro laboral 🙌 #shorts | short | 2023-02-28 | https://www.youtube.com/watch?v=EOT537XmKCQ | Sí | No | No |
-| 237 | Transforma tus habilidades en ingresos ⚡💲 #shorts | short | 2023-03-01 | https://www.youtube.com/watch?v=C-zIU2UjXDk | Sí | Sí | No |
-| 238 | Siempre ten preparada tu lista de servicios y precios 📝 #shorts | short | 2023-03-02 | https://www.youtube.com/watch?v=gJDZenoydx8 | Sí | Sí | No |
-| 239 | La pregunta clave para cerrar ventas: ¿Cómo lo ves? 🤔 #shorts | short | 2023-03-03 | https://www.youtube.com/watch?v=IBS06JGwGHQ | Sí | Sí | No |
-| 240 | Tienes una bala de plata ante cada persona que conoces 🗣 #shorts | short | 2023-03-07 | https://www.youtube.com/watch?v=oW9w6bickK4 | Sí | Sí | No |
-| 241 | Encuentra aquellas aptitudes en las que seas mejor que otros ➕ #shorts | short | 2023-03-17 | https://www.youtube.com/watch?v=CawDKn1gMIM | Sí | No | No |
-| 242 | Identifica el problema de tu target para ofrecerle tu servicio 🤝 #shorts | short | 2023-03-27 | https://www.youtube.com/watch?v=pJXygBPBdiE | Sí | Sí | No |
-| 243 | La ventaja de tener LinkedIn Premium ⭐ #shorts | short | 2023-04-11 | https://www.youtube.com/watch?v=kPz-UXO1q3c | Sí | Sí | No |
-| 244 | Adelántate al futuro antes que nadie y saca ventaja 🔮 #shorts | short | 2023-05-02 | https://www.youtube.com/watch?v=NTT5NVNbDBQ | Sí | No | No |
-| 245 | Si quieres éxito en tu futuro, preocúpate y ¡ocúpate! ✋ #shorts | short | 2023-05-03 | https://www.youtube.com/watch?v=mhbZX12G3NQ | Sí | No | No |
-| 246 | ¡Sácale provecho a tu experiencia! ⚡ #shorts | short | 2023-05-15 | https://www.youtube.com/watch?v=SQrbVFHQsm0 | Sí | No | No |
-| 247 | Debes poder expresar en qué eres muy bueno 💪 #shorts | short | 2023-06-07 | https://www.youtube.com/watch?v=pq5O_BfCLrA | Sí | Sí | No |
-| 248 | Elije 3️⃣ keywords por las que los demás te reconozcan #shorts | short | 2023-07-01 | https://www.youtube.com/watch?v=BiVJ-zJITKw | Sí | Sí | No |
-| 249 | Diferencia eso en lo que eres muy bueno de tus hobbies 🚴‍♀️ #shorts | short | 2023-07-02 | https://www.youtube.com/watch?v=kAxI0D7NwoE | Sí | No | No |
-| 250 | Define cómo quieres que te reconozcan 💁‍♂️ #shorts | short | 2023-07-06 | https://www.youtube.com/watch?v=ASKDphwFzxI | Sí | Sí | No |
-| 251 | Debes estar siempre listo para presentarte 🎤 #shorts | short | 2023-07-20 | https://www.youtube.com/watch?v=_ZygWBMFiEA | Sí | Sí | No |
-| 252 | Si pides ayuda a tu audiencia tendrás más engagement 💬 #shorts | short | 2023-07-24 | https://www.youtube.com/watch?v=Lgs5gV0VwRc | Sí | No | No |
-| 253 | ¿Conviene ser Autónomo o una Compañía? | short | 2023-09-04 | https://www.youtube.com/watch?v=Aze4kB8-J8s | Sí | Sí | No |
-| 254 | Cobra el precio justo por tus productos y servicios 💲 #shorts | short | 2023-09-14 | https://www.youtube.com/watch?v=hxZfW6MmEKI | Sí | Sí | No |
-| 255 | Debes retener los clientes que ya tienes 👐 #shorts | short | 2023-10-05 | https://www.youtube.com/watch?v=fpXZ_fF1pIk | Sí | Sí | No |
-| 256 | En tu propia compañía, tú te encargas de TODO 😬 #shorts | short | 2023-10-06 | https://www.youtube.com/watch?v=3EYHmNkBL3w | Sí | No | No |
-| 257 | No hay excusas para no armar tu Company of One hoy mismo 👨‍💻 #shorts | short | 2023-10-07 | https://www.youtube.com/watch?v=b1IlknAXIyY | Sí | No | No |
-| 258 | Véndete como el CEO de tu propia compañía y factura más 👨‍💼 #shorts | short | 2023-10-09 | https://www.youtube.com/watch?v=dVwa8aT7JLk | Sí | Sí | No |
-| 259 | Cubre tu costo de vida calculando Precio x Cantidad 🧮 #shorts | short | 2023-10-10 | https://www.youtube.com/watch?v=mKox0T8v5w8 | Sí | Sí | No |
-| 260 | Asegura el nombre y el dominio online de tu compañía 📧 #shorts | short | 2023-10-11 | https://www.youtube.com/watch?v=gpoVJpppG8E | Sí | No | No |
-| 261 | Tu Company of One tiene que estar en todas las redes sociales 👩‍💻 #shorts | short | 2023-10-12 | https://www.youtube.com/watch?v=uPXAqUaEGsU | Sí | No | No |
-| 262 | La Company of One te permite controlar tu destino 🔮 #shorts | short | 2023-10-25 | https://www.youtube.com/watch?v=1AW76hQRTjM | Sí | No | No |
-| 263 | Una Company of One puede crecer más allá de tu control 📈 #shorts | short | 2023-10-26 | https://www.youtube.com/watch?v=ofhhDz6KLpo | Sí | No | No |
-| 264 | La Company of One no te va a hacer millonario, pero te da cashflow 💰 #shorts | short | 2023-10-27 | https://www.youtube.com/watch?v=dCjpEt1ke14 | Sí | No | No |
-| 265 | La Company of One no necesita socios ni inversores 🤝🚫 #shorts | short | 2023-10-28 | https://www.youtube.com/watch?v=Pyx-GGLOQZk | Sí | No | No |
-| 266 | Tu compañía va a empezar vendiendo servicios 💇‍♂️ #shorts | short | 2023-10-30 | https://www.youtube.com/watch?v=q57Z8Kjc22Y | Sí | Sí | No |
-| 267 | ¿Qué vas a vender y a quién le vas a vender? 🤔 #shorts | short | 2023-10-31 | https://www.youtube.com/watch?v=ADKR9UozXEs | Sí | Sí | No |
-| 268 | Adapta tus productos y servicios para ofrecer opciones variadas a tus clientes 🔀 #shorts | short | 2023-11-14 | https://www.youtube.com/watch?v=Kpds5G-Zv44 | Sí | Sí | No |
-| 269 | ¿En qué formato vas a vender servicios con tu Company of One? 👩‍💻 #shorts | short | 2023-11-14 | https://www.youtube.com/watch?v=8Bw8OA7pEZ4 | Sí | Sí | No |
-| 270 | Si tienes una compañía, preocúpate por ti mismo y olvídate de tu ego ❌ #shorts | short | 2024-01-18 | https://www.youtube.com/watch?v=Ha8TskJRblk | Sí | No | No |
-| 271 | ¿Cuál es el objetivo de tener una Company of One? 🎯 #shorts | short | 2024-01-23 | https://www.youtube.com/watch?v=rCbyz5un8v8 | Sí | No | No |
-| 272 | La diferencia entre trabajar de empleado y la Company of One 🔀 #shorts | short | 2024-01-24 | https://www.youtube.com/watch?v=P96jdaPF4FI | Sí | No | No |
-| 273 | Debes ser el reflejo viviente de lo que vendes 👥 #shorts | short | 2024-01-25 | https://www.youtube.com/watch?v=mKfF2_BA2-w | Sí | No | No |
-| 274 | Necesitas tener todo esto resuelto para empezar tu propia compañía ❗ #shorts | short | 2024-01-26 | https://www.youtube.com/watch?v=J6s56_iw-P0 | Sí | No | No |
-| 275 | ¿Cómo vender tus servicios con tu compañía siendo autónomo? #shorts | short | 2024-01-30 | https://www.youtube.com/watch?v=6cdds_4MDaM | Sí | Sí | No |
-| 276 | Cómo alcanzar tu "velocity escape" y cubrir tu costo de vida💨 #shorts | short | 2024-01-31 | https://www.youtube.com/watch?v=hJLLVycHfk8 | Sí | No | No |
-| 277 | Empieza vendiendo servicios, no productos ❌ #shorts | short | 2024-02-02 | https://www.youtube.com/watch?v=2ZO3njhd4eI | Sí | Sí | No |
-| 278 | No vas a ayudar a nadie, vas a vender una solución 💡 #shorts | short | 2024-02-03 | https://www.youtube.com/watch?v=yOhVEQxnJ3E | Sí | Sí | No |
-| 279 | Tu compañía debe estar en todas las redes sociales 🌐 #shorts | short | 2024-02-05 | https://www.youtube.com/watch?v=2KOX4NuDxuI | Sí | Sí | No |
-| 280 | Postea regularmente y consigue más leads a largo plazo 💹 #shorts | short | 2024-02-06 | https://www.youtube.com/watch?v=ebhP3woTkV4 | Sí | Sí | No |
-| 281 | Debes ser el "curador" de tu marca personal en todas tus redes 👤 #shorts | short | 2024-02-07 | https://www.youtube.com/watch?v=EWuW5_kp2vQ | Sí | Sí | No |
-| 282 | Pásate a TikTok y mejora tu funnel de ventas 🤳 #shorts | short | 2024-02-14 | https://www.youtube.com/watch?v=S_GdGchf9O4 | Sí | Sí | No |
-| 283 | La gente vive más, así que aprovecha ese nicho para tu negocio 👴 #shorts | short | 2024-02-15 | https://www.youtube.com/watch?v=TKrnEcKv6AU | Sí | No | No |
-| 284 | Nunca regales tu experiencia, valora tu talento, porque nadie más lo hará 💪 #shorts | short | 2024-02-21 | https://www.youtube.com/watch?v=5D0R94UG7z8 | Sí | Sí | No |
-| 285 | Un cliente es quien necesita tu servicio y tiene la plata para pagarte 💶 #shorts | short | 2024-03-08 | https://www.youtube.com/watch?v=tPpMxW606mM | Sí | Sí | No |
-| 286 | Si decides volver a la corporación, vuelve como consultor 💼 #shorts | short | 2024-03-27 | https://www.youtube.com/watch?v=iWHDddaCZaA | Sí | Sí | No |
-| 287 | ¿Quieres mejorar tu compañía? Copia a quienes admiras 🤩 #shorts | short | 2024-04-16 | https://www.youtube.com/watch?v=-Otv4oM81tU | Sí | No | No |
-| 288 | Herramientas esenciales para emprender: Stripe + Calendly 📆 #shorts | short | 2024-04-17 | https://www.youtube.com/watch?v=9ZNs36m1c28 | Sí | Sí | No |
-| 289 | Si vas a emprender, tienes que empezar como consultor 💬 #shorts | short | 2024-04-18 | https://www.youtube.com/watch?v=VCuC0kVyNmQ | Sí | Sí | No |
-| 290 | Genera que tus clientes necesiten tus productos o servicios 🤩 #shorts | short | 2024-06-06 | https://www.youtube.com/watch?v=8s4ee6GpFlo | Sí | Sí | No |
-| 291 | El formato va a cambiar, pero tu valor es lo que te van a comprar ✨ #shorts | short | 2024-06-10 | https://www.youtube.com/watch?v=MT_8ehmoBh0 | Sí | Sí | No |
-| 292 | Vende sin miedo y querrán contratarte 😎 #shorts | short | 2024-07-11 | https://www.youtube.com/watch?v=_tOaC9xxjig | Sí | Sí | No |
-| 293 | ¿Cómo vender tu experiencia? Así de fácil 👌 #shorts | short | 2024-07-16 | https://www.youtube.com/watch?v=h-n71f1H16A | Sí | Sí | No |
-| 294 | Hay un océano de oportunidades en tu audiencia de +70 años 👴 #shorts | short | 2024-07-23 | https://www.youtube.com/watch?v=SSnQfpnuBgo | Sí | No | No |
-| 295 | El desafío más grande de emprender: Cobrar la primera factura 💰 #shorts | short | 2024-07-27 | https://www.youtube.com/watch?v=oIRPJLHiVmk | Sí | Sí | No |
-| 296 | Busca tu "long tail" y conviértete en el líder de tu mercado 😎 #shorts | short | 2024-07-30 | https://www.youtube.com/watch?v=Qj0vSzR_51M | Sí | Sí | No |
-| 297 | ¿Cómo aportar valor a tu audiencia? ✨ #shorts | short | 2024-08-15 | https://www.youtube.com/watch?v=1wl15pPcn0s | Sí | Sí | No |
-| 298 | Si quieres triunfar en redes, empieza a crear contenido de valor 📺 #shorts | short | 2024-08-27 | https://www.youtube.com/watch?v=tb1vsTaegLk | Sí | No | No |
-| 299 | Define los ejes temáticos de tu contenido y crecerás tu audiencia 🗣 #shorts | short | 2024-08-29 | https://www.youtube.com/watch?v=pnPyWefuaew | Sí | Sí | No |
-| 300 | Por qué NO deberías empezar vendiendo un producto ❌ #shorts | short | 2024-09-04 | https://www.youtube.com/watch?v=78qBEbVuZQ4 | Sí | Sí | No |
-| 301 | Debes cobrar por tus servicos para validar tu talento 💲 #shorts | short | 2024-09-05 | https://www.youtube.com/watch?v=YZqG2wJXjjw | Sí | Sí | No |
-| 302 | Elige las "keywords" más adecuadas para presentarte 💬 #shorts | short | 2024-09-09 | https://www.youtube.com/watch?v=eumNixzCSTI | Sí | No | No |
-| 303 | LinkedIn Premium = ➕VENTAS #shorts | short | 2024-09-30 | https://www.youtube.com/watch?v=qM_J6Bx3Kjw | Sí | Sí | No |
-| 304 | Tu perfil de LinkedIn NUNCA debe estar en dos idiomas 💬 #shorts | short | 2024-10-01 | https://www.youtube.com/watch?v=Gjn3JsTwezg | Sí | No | No |
-| 305 | Evita el sincericidio al momento de vender tu expertise 🔚 #shorts | short | 2024-10-07 | https://www.youtube.com/watch?v=7prVpDK0r5k | Sí | Sí | No |
-| 306 | Puedes lanzar varias compañías, pero debes tener una de back-up 💻 #shorts | short | 2024-10-16 | https://www.youtube.com/watch?v=2jXjZqptngU | Sí | No | No |
-| 307 | Si eres bueno y no lo pareces, serás malo a los ojos del mundo 👁 #shorts | short | 2024-10-28 | https://www.youtube.com/watch?v=iFh4R5PYgEE | Sí | Sí | No |
-| 308 | Preséntate demostrando en qué eres muy bueno y por qué eres el N.º 1 😎 #shorts | short | 2024-11-06 | https://www.youtube.com/watch?v=DYG1OGtvq-c | Sí | Sí | No |
-| 309 | Mis 2️⃣ recomendaciones para una vida profesional exitosa ✨ #shorts | short | 2024-11-08 | https://www.youtube.com/watch?v=2CByrPpW_v0 | Sí | No | No |
-| 310 | ¿Cómo monetizar tu experiencia fácilmente? Cuéntale al mundo en qué eres muy bueno 👍 | short | 2025-01-17 | https://www.youtube.com/watch?v=LfX6hocL7uc | Sí | Sí | No |
-| 311 | Tu nueva compañía será la evolución de tu experiencia pasada 💪 | short | 2025-01-27 | https://www.youtube.com/watch?v=ai9fpR9ucD4 | Sí | No | No |
-| 312 | Tus clientes te van a contratar por tu talento, no por tus hobbies 😉 | short | 2025-01-28 | https://www.youtube.com/watch?v=RsyW02IiVuY | Sí | Sí | No |
-| 313 | Define tu nicho, ofrece exclusividad y cómete al mercado 🤑 | short | 2025-01-29 | https://www.youtube.com/watch?v=Z-Rq-gM3t30 | Sí | Sí | No |
-| 314 | Hoy podemos emprender con muy poco dinero 💰 #companyofone #negocios #emprender | short | 2025-02-17 | https://www.youtube.com/watch?v=G57mq2eSs2Q | Sí | No | No |
-| 315 | ¿Qué necesitas para cobrarle a alguien siendo emprendedor? 💰 | short | 2025-02-20 | https://www.youtube.com/watch?v=NC_c0YYXKz8 | Sí | Sí | No |
-| 316 | ¡Ojo con el SINCERICIDIO! | short | 2025-02-23 | https://www.youtube.com/watch?v=ljKnBR6RUnE | Sí | Sí | No |
-| 317 | Siempre muéstrate como el mejor del mundo en lo que sabes hacer 🥇 | short | 2025-02-24 | https://www.youtube.com/watch?v=xfno8Kiwpww | Sí | Sí | No |
-| 318 | Seguir vs. Conectar en LinkedIn: ¿Estás aprovechando bien tu red? 🌐 | short | 2025-02-27 | https://www.youtube.com/watch?v=sWVH4RSKhbI | Sí | Sí | No |
-| 319 | Tu conocimiento vale mucho 💰 ¡Véndelo! | short | 2025-03-02 | https://www.youtube.com/watch?v=mHYJSxCfGyQ | Sí | No | No |
-| 320 | ¡NO CAIGAS EN ESTA TRAMPA! | short | 2025-03-03 | https://www.youtube.com/watch?v=zEJDecRwSfw | Sí | Sí | No |
-| 321 | Si no haces esto, estás perdiendo mucho tiempo (y dinero) 😉 | short | 2025-04-05 | https://www.youtube.com/watch?v=79gP_ZQEQqM | Sí | No | No |
-| 322 | Preséntate como el LÍDER de tu propia comunidad o audiencia 😎 | short | 2025-04-08 | https://www.youtube.com/watch?v=dp03-H_oYnY | Sí | Sí | No |
-| 323 | 🎯 ¿Estás hablando al mercado correcto pero con el mensaje equivocado? 🗣️ | short | 2025-06-09 | https://www.youtube.com/watch?v=HbUxd2uc-aU | Sí | Sí | No |
-| 324 | Cómo elegir a tu cliente ideal 👥 | short | 2025-06-14 | https://www.youtube.com/watch?v=0nQkN0ChkgM | Sí | Sí | No |
-| 325 | Cómo proyectar tus ingresos y alcanzar la perpetuidad 🔁💰 | short | 2025-06-15 | https://www.youtube.com/watch?v=wmWhfi0KWyA | Sí | No | No |
-| 326 | Trabaja en tu marca personal para saber venderte antes de armar tu plan 🅱️ | short | 2025-06-18 | https://www.youtube.com/watch?v=oo2GNZeCBcA | Sí | No | No |
-| 327 | ¿Cómo armar un posteo atractivo en LinkedIn fácilmente? ✍️💻 | short | 2025-06-19 | https://www.youtube.com/watch?v=9UWleQEX2Cs | Sí | Sí | No |
-| 328 | ¿Cómo comentar los posteos de otros de manera profesional? 💬 | short | 2025-06-23 | https://www.youtube.com/watch?v=JkhIO-3TXcA | Sí | Sí | No |
-| 329 | Por qué nunca debes repostear publicaciones de otros en LinkedIn 🚫🔁 | short | 2025-06-24 | https://www.youtube.com/watch?v=4WNwiwaeScQ | Sí | No | No |
-| 330 | Hoy es más fácil y barato que nunca lanzar tu nueva compañía 💻 | short | 2025-06-28 | https://www.youtube.com/watch?v=p1nJ9XW7Xy0 | Sí | No | No |
-| 331 | Ser bueno en algo no alcanza, debes demostrarlo 😎✨ | short | 2025-07-01 | https://www.youtube.com/watch?v=UIFGfZ9zWFs | Sí | Sí | No |
-| 332 | Apunta al mercado hispanohablante y vuélvete un líder en tu expertise 🥇 | short | 2025-07-03 | https://www.youtube.com/watch?v=7QMX0lZ4fkI | Sí | Sí | No |
-| 333 | Por qué deberías poner tu LinkedIn en inglés 👤🆗 | short | 2025-07-04 | https://www.youtube.com/watch?v=aUQGidkScpg | Sí | Sí | No |
-| 334 | No necesitas salir a buscar clientes, necesitas una marca personal que hable por ti 💬 | short | 2025-10-14 | https://www.youtube.com/watch?v=Oxs5vliQnU0 | Sí | Sí | No |
-| 335 | Así puedes estructurar la lista de precios de tu Company of One 📄🫰 | short | 2025-10-16 | https://www.youtube.com/watch?v=3noUMzFUp0o | Sí | Sí | No |
-| 336 | Si no tienes un Personal Brand Kit, no estás listo para salir al mercado 🙅 | short | 2025-11-27 | https://www.youtube.com/watch?v=mUv_zd7vVN4 | Sí | No | No |
-| 337 | Tienes que armar tu Company of One si quieres monetizar tu experiencia 💰 | short | 2025-12-31 | https://www.youtube.com/watch?v=aBf4mzUd2GE | Sí | No | No |
-| 338 | Así se compone la estructura ideal de tu Company of One 🧑‍💻 | short | 2026-01-02 | https://www.youtube.com/watch?v=c0k9OMi6ngU | Sí | No | No |
-| 339 | Si eres bueno en algo, comunícalo ¡y te vendrán a buscar para contratarte! | short | 2026-01-14 | https://www.youtube.com/watch?v=BUTy0SOAWZQ | Sí | Sí | No |
-| 340 | ¿Tienes más de 40 años? Es hora de monetizar tu experiencia 💰 | short | 2026-05-15 | https://www.youtube.com/watch?v=cAXbVrFSyEQ | Sí | No | No |
-| 341 | Por qué la Company of One es un estilo de vida perfecto para los 40 pluses su➕ | short | 2026-05-17 | https://www.youtube.com/watch?v=4q1lCXh6LH8 | Sí | No | No |
-| 342 | No seas "Open to Work", sé el CEO de tu Company of One 😎 | short | 2026-05-19 | https://www.youtube.com/watch?v=tY1Rzv16VuI | Sí | Sí | No |
-| 343 | Preséntate y véndete como compañía, no como persona autónoma 👤 | short | 2026-05-20 | https://www.youtube.com/watch?v=tYNY8Zbrimw | Sí | Sí | No |
-| 344 | Por qué comenzar vendiendo servicios en vez de productos | short | 2026-05-21 | https://www.youtube.com/watch?v=4h-0fzlqRcM | Sí | Sí | No |
-| 345 | Te van a pisar como hormiga si no empiezas vendiendo B2C 🐜 | short | 2026-05-22 | https://www.youtube.com/watch?v=_eBV0xkZdeg | Sí | Sí | No |
-| 346 | Aprende los “temores" o "dolores" de tus clientes para brindar mejores soluciones 💉 | short | 2026-05-23 | https://www.youtube.com/watch?v=dXRE69ybs-c | Sí | Sí | No |
-| 347 | No necesitas una página web, necesitas presencia en redes sociales 💻✨ | short | 2026-05-27 | https://www.youtube.com/watch?v=BCee0PSfQ7M | Sí | Sí | No |
-| 348 | A nadie le importa el nombre de tu compañía, pero sí el valor único que ofrezcas 🌟 | short | 2026-05-29 | https://www.youtube.com/watch?v=DKzKWkSXqCk | Sí | Sí | No |
-| 349 | ¿En qué momento de tu vida deberías tener una Company of One? 🤔 | short | 2026-05-30 | https://www.youtube.com/watch?v=eMLPz41B7aU | Sí | Sí | No |
-| 350 | Por qué vas a tener que empezar a vender saliendo de tu zona de confort 😳 | short | 2026-05-31 | https://www.youtube.com/watch?v=Ju_GJ59Aze4 | Sí | Sí | No |
-| 351 | Tu presentación va a ser premeditada y planificiada 📝👤 | short | 2026-06-16 | https://www.youtube.com/watch?v=AtvjRmwrnI4 | Sí | Sí | No |
-| 352 | ¿Cómo promocionarte en LinkedIn cuando todavía eres empleado? | short | 2026-06-22 | https://www.youtube.com/watch?v=J4QY1AfcqrY | Sí | No | No |
-| 353 | Cómo controlar la información que Google muestra de ti mismo 🕵️ | short | 2026-06-23 | https://www.youtube.com/watch?v=1nAq9qeFUd0 | Sí | No | No |
-| 354 | Siempre busca tener más conexiones en LinkedIn 🌐 | short | 2026-06-24 | https://www.youtube.com/watch?v=dUm_33j3qXU | Sí | No | No |
-| 355 | Expande tu audiencia al presentar tu perfil en inglés en redes sociales | short | 2026-06-25 | https://www.youtube.com/watch?v=xsMgedvmHv4 | Sí | No | No |
-| 356 | Debes poder definirte profesionalmente en solo 3️⃣ palabras clave | short | 2026-06-26 | https://www.youtube.com/watch?v=BM-x1As56iU | Sí | Sí | No |
-| 357 | ¿Eres un profesional necesitado o tus clientes te vienen a buscar? | short | 2026-06-30 | https://www.youtube.com/watch?v=lXStZjPmHJw | Sí | Sí | No |
-| 358 | No uses más tu currículum, empieza a compartir valor en redes 🤳✨ | short | 2026-09-04 | https://www.youtube.com/watch?v=9X-XtHDN2P0 | Sí | Sí | No |
-| 359 | Mi recomendación para empezar a emprender a tus 40 años 🧑‍💻 | short | 2026-09-08 | https://www.youtube.com/watch?v=2uY7QRSO-bY | Sí | Sí | No |
-| 360 | ¿En qué eres tan bueno que otros te pagarían por eso que ofreces? | short | 2026-09-19 | https://www.youtube.com/watch?v=99l6PpBL5vE | Sí | Sí | No |
-| 361 | Tu valor está en brindar una solución a un problema concreto de un nicho de personas 🔧👥 | short | 2026-09-20 | https://www.youtube.com/watch?v=lIJGDjKya9k | Sí | Sí | No |
-| 362 | Cómo lidiar con las propuestas de negocios rechazadas ✋ | short | 2026-09-21 | https://www.youtube.com/watch?v=_yTca--7Qr0 | Sí | Sí | No |
-| 363 | Cómo manejar tu Company of One tú solo sin complicarte la vida ✅ | short | 2026-09-24 | https://www.youtube.com/watch?v=sc37ap6OfY4 | Sí | Sí | No |
-| 364 | Así puedes ajustar el precio de tus productos o servicios según tus objetivos de cashflow 💹 | short | 2026-09-25 | https://www.youtube.com/watch?v=Es_Rdifii9Y | Sí | Sí | No |
-| 365 | Por qué insisto con crear y subir contenido en todas las redes sociales 🤳 | short | 2026-09-29 | https://www.youtube.com/watch?v=PKaTnmhQR1Q | Sí | Sí | No |
-| 366 | Cada profesional tiene un personaje propio 👤 | short | 2026-09-30 | https://www.youtube.com/watch?v=HBr3F1NmeuE | Sí | Sí | No |
+| 1 | Adrián Herzkovich: En un momento hacés un click y empezás a entender todo / Scalabl España | entrevista (Scalabl) | 2019-11-06 | https://youtu.be/ENJIfFCC6hM | Sí | No | Sí |
+| 2 | TOTEM Live. Parte 16. Andy Stalman y Adrián Herzkovich | entrevista (Andy Stalman (TOTEM Live)) | 2020-04-10 | https://youtu.be/8FpzwDgvj_s | No (solo hay pista en inglés) | No | Sí |
+| 3 | 250. 40plusleague con Adrián Herzkovich | entrevista (Jordi Garcia Codina) | 2021-04-24 | https://youtu.be/simBXAQ3pAQ | Sí | Sí | Sí |
+| 4 | 40+ League (Adrian Herzkovich) | entrevista (Jaume Pujol Capllonch (Empersona)) | 2021-06-12 | https://youtu.be/_L0OrbslCQY | Sí | Sí | Sí |
+| 5 | Reinvención después de los 40, la historia de Adrián Herzkovich / AQUÍ ESTOY | entrevista (Linda González (Aquí Estoy)) | 2023-02-08 | https://youtu.be/HYHG67Seh-s | Sí | Sí | Sí |
+| 6 | Cada vez nos acercamos más rápido al futuro  / Adrian Herzkovich · The Coach | entrevista (El pensador crítico) | 2023-06-23 | https://youtu.be/_bfLTVI3ANU | Sí | Sí | Sí |
+| 7 | ✅Episodio #126 - Cómo escapar de la matrix luego de los 40 / Adrian Herzkovich | entrevista (Javier Yranzo (Marketing para David)) | 2023-08-08 | https://youtu.be/yBGHffBxyk0 | Sí | Sí | Sí |
+| 8 | ¡Secretos para triunfar después de los 40! | entrevista (Susana Goitia) | 2024-09-28 | https://youtu.be/iwG4iKUv6M0 | Sí | Sí | Sí |
+| 9 | CEO 360 con Adrian Herzkovich: Cómo Redefinir el Éxito | entrevista (Alfredo Bustos (CEO 360)) | 2024-12-18 | https://youtu.be/LzVaWKwIVL8 | Sí | Sí | Sí |
+| 10 | Adrian Herzkovich, CEO y Fundador de 40+ League | entrevista (CEO Talks) | 2025-01-10 | https://youtu.be/v3Ie5n6XnPc | Sí | Sí | Sí |
+| 11 | Un giro de vida radical que lo llevó al éxito de su marca personal | entrevista (Guillermo González Pimiento) | 2025-02-04 | https://youtu.be/IpkT6qyfETk | Sí | Sí | Sí |
+| 12 | Marca Personal para Ejecutivos: El Plan para Asegurar tu Futuro / Adrian Herzkovich | entrevista (Sebastián Lora) | 2025-09-29 | https://youtu.be/vpxJ7RVhNU4 | Sí | Sí | Sí |
+| 13 | Adrian Herzkovich   MediaHerz   Executive Coaching   South Summit | video | 2019-10-03 | https://youtu.be/Z0l-IxJT6qM | Sí | Sí | No |
+| 14 | How to improve your current profile picture, for free, right now, and in a very easy way? | video | 2019-10-07 | https://youtu.be/KmnwT2z-MVI | Sí | No | No |
+| 15 | Entrevista a Adrian Herzkovich, Executive Coach & Reinvention Expert, por Jorge Branger en LinkedIn. | video | 2020-05-08 | https://youtu.be/x66i_2ehxag | Sí | Sí | Sí |
+| 16 | How to become a rock star while you are in a Zoom call? 🎸🤟 | video | 2020-09-15 | https://youtu.be/CgnuGo-s8K8 | No (video en inglés; la traducción automática al español dio error 429) | No | No |
+| 17 | 💰 TODOS TENEMOS LA CAPACIDAD PARA FACTURAR, PERO POCOS EL MINDSET PARA HACERLO 💰 | video | 2022-06-29 | https://youtu.be/6K5UACDiZAI | Sí | Sí | No |
+| 18 | 🤔 ¿CUÁLES SON LAS 3 KEYWORDS QUE TE DEFINEN PROFESIONALMENTE? 🤔 | video | 2022-07-03 | https://youtu.be/WSy2rNWhyHs | Sí | Sí | No |
+| 19 | 🚫 ¡NO TRABAJES NUNCA A SOLO COMISIÓN! 🚫 | video | 2022-07-08 | https://youtu.be/xkK9cqbQWy4 | Sí | Sí | No |
+| 20 | 😲 CADA VEZ QUE CONOCES A ALGUIEN ESTÁS QUEMANDO UNA BALA DE PLATA 😲 | video | 2022-07-21 | https://youtu.be/kOimjzbQbwU | Sí | Sí | No |
+| 21 | Planta bandera en LinkedIn, aduéñate de UN SOLO TEMA y conviértete en el número 1️⃣ | video | 2022-08-22 | https://youtu.be/xb9v-Z2W4QU | Sí | Sí | No |
+| 22 | Para cerrar 1 venta, deberás realizar 99 NO ventas 🤦🏻‍♂️ | video | 2022-09-13 | https://youtu.be/X2FHUfUvnCU | Sí | Sí | Sí |
+| 23 | Sé tu propio asesor de TU marca personal 😉 | video | 2022-10-06 | https://youtu.be/A8yyZ83LgJM | Sí | Sí | No |
+| 24 | 👩‍💻 Al iniciar tu nuevo negocio, siempre empieza por vender horas ⌚ | video | 2022-10-11 | https://youtu.be/iJU-Km6QIHE | Sí | Sí | No |
+| 25 | Company of One: La solución a tus problemas presentes y futuros 😉 | video | 2022-10-27 | https://youtu.be/fNddgbU3vwM | Sí | No | No |
+| 26 | Si no puedes definirte en 3 palabras, estás perdiendo tiempo y dinero 😱 | video | 2022-11-09 | https://youtu.be/NK21QY0CkdM | Sí | Sí | No |
+| 27 | Si quieres ser reconocido como un EXPERTO en un tema, habla ÚNICAMENTE de ESE tema 💬 | video | 2022-11-30 | https://youtu.be/BNPLqamJ9FM | Sí | Sí | No |
+| 28 | Se experto en 1 tema | video | 2022-12-09 | https://youtu.be/qmPOC982y6g | Sí | Sí | No |
+| 29 | Cómo publicar con un objetivo concreto en LinkedIn | video | 2022-12-13 | https://youtu.be/t77q-idv9sI | Sí | Sí | No |
+| 30 | La diferencia está en los detalles | video | 2022-12-15 | https://youtu.be/nAi327mMsyc | Sí | Sí | No |
+| 31 | Cómo vender nuestro servicio en 2 minutos | video | 2022-12-16 | https://youtu.be/eD1Yp03J3xg | Sí | Sí | Sí |
+| 32 | Cómo demostrar tu valor usando solo tres palabras | video | 2022-12-19 | https://youtu.be/MpzsY3iVwcM | Sí | Sí | No |
+| 33 | Si no defines el valor de tus servicios, no tienes nada | video | 2022-12-21 | https://youtu.be/LT0WsAZ_pV8 | Sí | Sí | No |
+| 34 | Eres la imagen que das de ti mismo | video | 2022-12-22 | https://youtu.be/NTqv7-AdB6E | Sí | No | No |
+| 35 | Cómo convertirte en un profesional único y salir del molde | video | 2022-12-27 | https://youtu.be/ere75tpl94g | Sí | No | No |
+| 36 | Cómo venderte y superar las expectativas | video | 2022-12-28 | https://youtu.be/VC-5up3VvT8 | Sí | Sí | No |
+| 37 | Encuentra palabras que te definan como profesional | video | 2022-12-29 | https://youtu.be/PqNQE1ER03M | Sí | No | No |
+| 38 | La pregunta del millón: ¿Cómo lo ves? | video | 2023-01-09 | https://youtu.be/W4PSWhDT0bM | Sí | Sí | Sí |
+| 39 | Qué es el Newsletter y cómo aprovecharlo al máximo | video | 2023-01-12 | https://youtu.be/-6WAJG8Sffg | Sí | No | No |
+| 40 | Cómo hacer plata sin ser empleado | video | 2023-01-18 | https://youtu.be/8fdYMUnE-iU | Sí | No | No |
+| 41 | Las ventajas de ser un profesional diferente | video | 2023-01-20 | https://youtu.be/0y7m-obidtE | Sí | Sí | No |
+| 42 | Arma tu presentación como un relato perfecto | video | 2023-01-25 | https://youtu.be/S7JimMKb79E | Sí | Sí | No |
+| 43 | Cómo publicar como un PRO en LinkedIn | video | 2023-02-02 | https://youtu.be/7Uk4tGMkEAE | Sí | Sí | No |
+| 44 | Cómo cobrar por nuestros servicios | video | 2023-02-02 | https://youtu.be/VuOUs3cEOBE | Sí | Sí | No |
+| 45 | Por qué es esencial tener una marca personal para vender tus servicios | video | 2023-02-03 | https://youtu.be/lglb-jwYRnU | Sí | Sí | No |
+| 46 | Tu cliente ideal es quien le tira plata al problema | video | 2023-02-15 | https://youtu.be/2-3fQqZydo4 | Sí | Sí | Sí |
+| 47 | Tener una cuenta de LinkedIn Premium te da una gran ventaja | video | 2023-02-20 | https://youtu.be/h_YB8520NIw | Sí | Sí | No |
+| 48 | Las 3️⃣ reglas esenciales para tu Company of One | video | 2023-02-27 | https://youtu.be/vimP3ShEBvA | Sí | No | No |
+| 49 | La importancia de las conexiones en LinkedIn | video | 2023-03-02 | https://youtu.be/-PUizXwIVmo | Sí | Sí | No |
+| 50 | Vuélvete un experto y vende tus habilidades únicas | video | 2023-03-06 | https://youtu.be/mI0_8yQrP30 | Sí | No | No |
+| 51 | 3 formas de cubrir tu costo de vida anual | video | 2023-03-15 | https://youtu.be/Da8D7sQnmH4 | Sí | No | No |
+| 52 | Cuenta tu experiencia como una película de tu vida | video | 2023-03-21 | https://youtu.be/Zlb28vTlHA0 | Sí | Sí | No |
+| 53 | Armar tu Company of One implica prueba y error 🧪 | video | 2023-03-22 | https://youtu.be/9B7AXKGQTNc | Sí | No | No |
+| 54 | Planifica una estrategia en LinkedIn y cumple tus objetivos | video | 2023-03-27 | https://youtu.be/8vIP7FVZ0Zo | Sí | Sí | No |
+| 55 | En el mundo actual, debes ser y parecer para probar tu valor | video | 2023-04-12 | https://youtu.be/se9M__ui0Qg | Sí | Sí | No |
+| 56 | Es esencial que sepas cómo presentarte | video | 2023-06-08 | https://youtu.be/w6t46qUTDhs | Sí | Sí | No |
+| 57 | ¿Cómo presentarte en menos de un minuto? | video | 2023-07-07 | https://youtu.be/Jc9Lk3AUGVM | Sí | Sí | No |
+| 58 | Las 3 reglas para armar tu Company of One 👨‍💻 | video | 2023-07-07 | https://youtu.be/BxG_NbV8KQA | Sí | No | No |
+| 59 | ¡No trabajes gratis! Debes valorar tu talento | video | 2023-07-10 | https://youtu.be/Lf3nR10M4RE | Sí | Sí | No |
+| 60 | Encuentra el balance entre tu mayor talento y aquello que te apasiona | video | 2023-07-17 | https://youtu.be/2-qt32JX5l8 | Sí | No | No |
+| 61 | Define tu marca personal para ser reconocido por tu verdadero valor 🌟 | video | 2023-07-27 | https://youtu.be/EF09w_OTg00 | Sí | Sí | No |
+| 62 | Debes definirte en tres palabras clave | video | 2023-08-03 | https://youtu.be/2VWsd_EXY7I | Sí | Sí | No |
+| 63 | Expresa fácilmente en qué eres muy bueno | video | 2023-08-07 | https://youtu.be/NzkYKZ9qQec | Sí | Sí | No |
+| 64 | Planifica tus posteos de forma eficiente y atraerás a más clientes 🧲 | video | 2023-08-24 | https://youtu.be/SKtCvtKnuGM | Sí | Sí | No |
+| 65 | Cómo vender siendo un Knowmad 💻 | video | 2023-08-28 | https://youtu.be/h6--37llyI4 | Sí | Sí | No |
+| 66 | ¿Cómo facturar con tu Company of One? 💰 | video | 2023-09-04 | https://youtu.be/3XGPKaaKLTM | Sí | No | No |
+| 67 | ¿Cómo hacer para destacar tu contenido de LinkedIn? 🌟 | video | 2023-09-14 | https://youtu.be/o2BZm7dOtJQ | Sí | No | No |
+| 68 | Encuentra tus tres keywords para destacar tu Marca Personal ✨ | video | 2023-09-25 | https://youtu.be/WvjQiIONseI | Sí | Sí | No |
+| 69 | Si quieres ser exitoso, muéstrate como un Plus ⚡ | video | 2023-10-11 | https://youtu.be/7dkY6etEsaY | Sí | No | No |
+| 70 | Siempre anuncia tus victorias, pero nunca tus pérdidas | video | 2023-10-12 | https://youtu.be/TufOZVJzUYo | Sí | Sí | No |
+| 71 | Usa la misma foto en todas tus redes sociales 📷 | video | 2023-10-18 | https://youtu.be/OyElkpR7Ud4 | Sí | Sí | No |
+| 72 | Comparte contenido de valor y evita las polémicas 💬 | video | 2023-10-27 | https://youtu.be/AgKuPqP1Gyc | Sí | No | No |
+| 73 | Sé estratégico con tu contenido en redes 🎯 | video | 2023-10-27 | https://youtu.be/oDoEIhUaXug | Sí | No | No |
+| 74 | Incentiva la interacción en tus posteos y mejora tu engagement | video | 2023-11-02 | https://youtu.be/iGSqCL3t6fM | Sí | No | No |
+| 75 | 3 objetivos clave para vender más usando ChatGPT 🤖 | video | 2023-11-03 | https://youtu.be/9dbExi8zgbg | Sí | No | No |
+| 76 | Debes estar siempre listo para presentarte | video | 2023-11-20 | https://youtu.be/zk6N0oDSqqc | Sí | Sí | No |
+| 77 | Vas a tener muchos más clientes de los que piensas | video | 2023-11-21 | https://youtu.be/ZyuI04eOP6w | Sí | Sí | No |
+| 78 | Debes conocer la estructura de tu negocio a fondo para poder vender más | video | 2023-11-22 | https://youtu.be/TvkTAxjjEts | Sí | Sí | No |
+| 79 | Usa las redes sociales para demostrar tu valor ✨ | video | 2023-12-05 | https://youtu.be/8FGX20sFGnI | Sí | Sí | No |
+| 80 | Las nuevas tecnologías requieren un cambio de mindset | video | 2023-12-18 | https://youtu.be/fwMT0A_TEEE | Sí | No | No |
+| 81 | La forma más simple de generar engagement en tus redes 💬 | video | 2023-12-18 | https://youtu.be/7Qq-mfQ-Xug | Sí | No | No |
+| 82 | Brilla en redes sociales y consigue más leads con tu marca personal 👤 | video | 2023-12-20 | https://youtu.be/17zqFTwTCVo | Sí | Sí | No |
+| 83 | Aprovecha al máximo tu red de conexiones de LinkedIn | video | 2023-12-27 | https://youtu.be/5aSz_LSqcCw | Sí | Sí | No |
+| 84 | Define qué vendes, a quién y cuál es la transformación que ofreces 🌟 | video | 2023-12-27 | https://youtu.be/cF9eIGV4fEk | Sí | Sí | No |
+| 85 | Planifica tus posteos en LinkedIn para atraer a más clientes 🤩 | video | 2023-12-29 | https://youtu.be/DRnKtnbWrs8 | Sí | Sí | No |
+| 86 | ¿Por qué tu contenido debe estar asociado a tres tendencias? 🔀 | video | 2024-01-03 | https://youtu.be/pg28z9PqZfc | Sí | No | No |
+| 87 | ¿Cómo aprovechar tu network para vender más? 📊 | video | 2024-01-04 | https://youtu.be/lVSqZ4m-9dQ | Sí | Sí | No |
+| 88 | Por qué tu primera compañía va a ser de consultoría 💻 | video | 2024-01-05 | https://youtu.be/53N-YWAtLSo | Sí | Sí | No |
+| 89 | El secreto para vender con tu Company of One 💹 | video | 2024-01-09 | https://youtu.be/1_kAKwOVp3M | Sí | No | No |
+| 90 | La Company of One es tu billete a la independencia profesional ✨ | video | 2024-01-11 | https://youtu.be/eR2nK1pfv2s | Sí | Sí | Sí |
+| 91 | Tu mercado es el mundo entero 🌍 | video | 2024-01-16 | https://youtu.be/PYE11ikv9Bc | Sí | Sí | No |
+| 92 | La escalabilidad es la clave para el éxito de tu negocio 📊 | video | 2024-01-17 | https://youtu.be/P4lC9MetVDY | Sí | Sí | No |
+| 93 | Company of One: Ventajas, desafíos y principios | video | 2024-01-18 | https://youtu.be/ce38b6iA2iU | Sí | Sí | Sí |
+| 94 | Necesitas saber cuánto gastas para saber cuánto facturar 💰 | video | 2024-01-22 | https://youtu.be/bYTwnNSzKjE | Sí | Sí | No |
+| 95 | Crea posteos que generen curiosidad en tu audiencia 🧐 | video | 2024-01-23 | https://youtu.be/tLBkpe_g5Zs | Sí | Sí | No |
+| 96 | Si eres 40+, necesitas una Company of One si o si 👊 | video | 2024-01-24 | https://youtu.be/3iBhYs8Yr3M | Sí | Sí | No |
+| 97 | ¿Qué es y que no es una Company of One? ☑ | video | 2024-01-25 | https://youtu.be/g0eoX9erMbA | Sí | No | No |
+| 98 | 3 reglas para empezar a emprender con tu Company of One 💻 | video | 2024-01-26 | https://youtu.be/uri29zigPPA | Sí | Sí | No |
+| 99 | Véndete como el CEO de tu propia compañía y factura más 💹 | video | 2024-01-30 | https://youtu.be/VCQI42OgQYY | Sí | Sí | No |
+| 100 | Estos son los desafíos más comunes cuando empiezas tu Company of One | video | 2024-01-31 | https://youtu.be/7KuxpQlHlxU | Sí | Sí | No |
+| 101 | Siempre empieza tu compañía vendiendo servicios | video | 2024-02-01 | https://youtu.be/ge0rKCAHTVM | Sí | Sí | No |
+| 102 | Calcula el precio de tus servicios por cantidad de ventas anuales | video | 2024-02-05 | https://youtu.be/Xxv2r3I6w4I | Sí | Sí | No |
+| 103 | Por qué debes retener a tus clientes habituales | video | 2024-02-05 | https://youtu.be/KKI2sDIUFBI | Sí | Sí | No |
+| 104 | ¿Cómo asegurar el nombre de tu Company of One? ✔ | video | 2024-02-07 | https://youtu.be/xstCRX-paIY | Sí | No | No |
+| 105 | La Company of One te obliga a salir de tu zona de confort 💢 | video | 2024-02-09 | https://youtu.be/Hpa92ThRDTg | Sí | No | No |
+| 106 | No regales tu tiempo ni tu experiencia a cualquier cliente ✋ | video | 2024-02-21 | https://youtu.be/EwAbJa1WWYs | Sí | Sí | No |
+| 107 | Hoy es más fácil que nunca crear tu propia compañía 👍 | video | 2024-03-01 | https://youtu.be/DSDo0zfZNMY | Sí | Sí | No |
+| 108 | Las bases de una buena marca personal ✨ | video | 2024-03-04 | https://youtu.be/jDnpiNaf7Bw | Sí | Sí | No |
+| 109 | Debes estar en todas las redes sociales 💻 | video | 2024-03-06 | https://youtu.be/eSzjPorLojQ | Sí | Sí | No |
+| 110 | ¿Por qué vas a armar muchas compañías? | video | 2024-03-11 | https://youtu.be/nEztxTz6joA | Sí | No | No |
+| 111 | ¿Cómo hacer para evitar trabajos por comisión con tu Company of One? 🚫 | video | 2024-03-14 | https://youtu.be/3EtQDuUne6w | Sí | Sí | No |
+| 112 | Encuentra tu audiencia, comunica tus ideas e impulsa tu negocio 💹 | video | 2024-03-19 | https://youtu.be/j7CBG5SbPLs | Sí | No | No |
+| 113 | Define tu mercado y ofrece exclusividad ✨ | video | 2024-03-19 | https://youtu.be/FJ0aU9YDJwg | Sí | Sí | No |
+| 114 | Si tienes más de 40 años, la Company of One es tu camino al éxito 🚀 | video | 2024-03-27 | https://youtu.be/_hfoxLCAm1c | Sí | No | No |
+| 115 | Si eres bueno en algo ¡Nunca lo hagas gratis! 🆓 | video | 2024-03-27 | https://youtu.be/VBEAQ8lThq8 | Sí | Sí | No |
+| 116 | Necesitas aprender a cobrar por tus servicios 💰 | video | 2024-03-28 | https://youtu.be/uPqfZc3WVHk | Sí | Sí | No |
+| 117 | La Company of One tiene costos, pero son inversiones a futuro 💲 | video | 2024-03-28 | https://youtu.be/Wlk5BvqwQ3U | Sí | No | No |
+| 118 | Preséntate como el CEO & fundador de tu compañía, no como autónomo | video | 2024-04-09 | https://youtu.be/SFcBlvL5lXw | Sí | Sí | No |
+| 119 | La clave del emprendimiento: Metas y Objetivos 🎯 | video | 2024-04-10 | https://youtu.be/ChKj4Ert-eg | Sí | No | No |
+| 120 | No es tan caro empezar varias Companies of One | video | 2024-04-15 | https://youtu.be/N8byHO2Ejcc | Sí | No | No |
+| 121 | Ofrece un valor único y tus clientes vendrán a buscarte 🤩 | video | 2024-04-17 | https://youtu.be/5b8gSIUIiNY | Sí | Sí | No |
+| 122 | Tu experiencia se vende al precio justo 💲 | video | 2024-04-18 | https://youtu.be/dGyDPFrYITQ | Sí | Sí | No |
+| 123 | La gran ventaja de la Company of One: Libertad absoluta | video | 2024-04-22 | https://youtu.be/eMFGD0S3oKM | Sí | No | No |
+| 124 | Eres el reflejo viviente de lo que vendes 👤 | video | 2024-04-23 | https://youtu.be/jIF6gvdv9ZA | Sí | Sí | No |
+| 125 | ¿Cuánto cobrar por mis servicios? 🤔 | video | 2024-04-23 | https://youtu.be/Vf7878a_Ys4 | Sí | Sí | Sí |
+| 126 | Tu Company of One no va a tener sitio web 🚫 | video | 2024-04-29 | https://youtu.be/_gtOl8BZP3M | Sí | No | No |
+| 127 | Eres el único responsable del éxito de tu compañía | video | 2024-04-30 | https://youtu.be/Dxh9d_jZWc8 | Sí | Sí | No |
+| 128 | Asegura tu presencia en todas las redes sociales 💻 | video | 2024-05-02 | https://youtu.be/mNGJ9Vkwz_s | Sí | No | No |
+| 129 | Usa todas tus redes sociales de manera profesional y marca la diferencia 👊 | video | 2024-05-02 | https://youtu.be/3-U7ji0ZFSM | Sí | Sí | No |
+| 130 | Tu Company of One transforma tu experiencia pasada en un valor único 🌟 | video | 2024-05-06 | https://youtu.be/E45mgyX411c | Sí | Sí | No |
+| 131 | 📃 Sin lista de precios, tu compañía no existe 💥 | video | 2024-05-07 | https://youtu.be/v1vhKhIOmEU | Sí | Sí | No |
+| 132 | Tu Company of One funciona a TU manera 🙋‍♂️ | video | 2024-05-10 | https://youtu.be/m9w5GM01Dm8 | Sí | Sí | No |
+| 133 | Siempre cobra por adelantado | video | 2024-05-14 | https://youtu.be/ubQKgxQYPFw | Sí | Sí | Sí |
+| 134 | Nunca trabajes por comisión 🚫 | video | 2024-05-15 | https://youtu.be/pXCZ-6sfeTc | Sí | Sí | No |
+| 135 | La fórmula perfecta para generar cashflow constante 💹 | video | 2024-05-27 | https://youtu.be/7DSRNYjCeY8 | Sí | No | No |
+| 136 | ¿Cómo conseguir más "leads"? Aprende a comentar posteos de otras personas 💬 | video | 2024-05-30 | https://youtu.be/BANXtCDmYXU | Sí | Sí | No |
+| 137 | Esta es la mejor forma de redactar tus posteos 👨‍💻 | video | 2024-06-04 | https://youtu.be/fDVq8-g8mMo | Sí | No | No |
+| 138 | Preséntate de forma precisa ante tu audiencia 🙋‍♂️ | video | 2024-06-07 | https://youtu.be/3ujJbdOV3t0 | Sí | Sí | No |
+| 139 | Si vas a vender, empieza vendiendo servicios | video | 2024-06-10 | https://youtu.be/F_BCJr6WVuI | Sí | Sí | No |
+| 140 | No vas a ayudar a nadie, vas a cobrar por brindar soluciones 💵 | video | 2024-06-11 | https://youtu.be/VC-xFazV7Sc | Sí | Sí | No |
+| 141 | Tu nueva compañía necesita estar en todas las redes sociales 💻 | video | 2024-06-12 | https://youtu.be/-bknz4EecnQ | Sí | Sí | No |
+| 142 | Capitaliza tus posteos en redes sociales y consigue más ventas 🤑 | video | 2024-06-18 | https://youtu.be/nYidK8Hr2jQ | Sí | Sí | No |
+| 143 | La última evolución de las ventas está en TikTok 📱 | video | 2024-06-19 | https://youtu.be/CNaTcK9QVII | Sí | Sí | No |
+| 144 | Descríbete con estos tipos de keywords e impacta a tus clientes 🗣 | video | 2024-06-24 | https://youtu.be/-jr6EbpZaDA | Sí | Sí | No |
+| 145 | 💬 El idioma no te limita, es una oportunidad de negocio 🗣 | video | 2024-06-25 | https://youtu.be/4Z5il5W3ZO4 | Sí | Sí | No |
+| 146 | La mejor manera de captar clientes es "atacarlos" con tu experiencia 😉 | video | 2024-06-26 | https://youtu.be/6dpLvREigGM | Sí | Sí | Sí |
+| 147 | Aprende a identificar el problema de tus clientes 💢 | video | 2024-06-27 | https://youtu.be/UZrNJ8RuiE4 | Sí | Sí | No |
+| 148 | Cómo demostrar que eres el N°1 en lo que haces 🥇 | video | 2024-07-10 | https://youtu.be/KJphbhV3-K8 | Sí | Sí | No |
+| 149 | Tu audiencia define cómo debes venderte 🗣 | video | 2024-07-11 | https://youtu.be/dXdyOoBH2ow | Sí | Sí | No |
+| 150 | Cómo presentarte de manera eficaz para atraer a nuevos clientes 🌟 | video | 2024-07-17 | https://youtu.be/RulGNWjsG5M | Sí | Sí | No |
+| 151 | Cómo empezar tu reinvención profesional teniendo más de 40 años | video | 2024-07-18 | https://youtu.be/fHKA-QoJhy0 | Sí | Sí | No |
+| 152 | ¿La mejor manera de impresionar a tus clientes? Sabiendo más que ellos 🤓 | video | 2024-07-22 | https://youtu.be/1xCjnckUh6c | Sí | Sí | No |
+| 153 | Encuentra tu "long tail" y factura más 🤑 | video | 2024-07-25 | https://youtu.be/XxV1scX1WhE | Sí | Sí | No |
+| 154 | Hoy puede ser buena idea convertirte en consultor o freelancer 👨‍💻 | video | 2024-07-30 | https://youtu.be/Ndz7NTUnxvA | Sí | Sí | No |
+| 155 | Es tan importante ser bueno como parecerlo 😎 | video | 2024-08-02 | https://youtu.be/zt5eKDzlryA | Sí | Sí | No |
+| 156 | En LinkedIn, más siempre es mejor ➕ | video | 2024-08-06 | https://youtu.be/EEm8Pf31rMc | Sí | Sí | No |
+| 157 | Descubre dos modelos efectivos para generar ingresos después de los 40 | video | 2024-08-08 | https://youtu.be/86VUs0A35EI | Sí | Sí | No |
+| 158 | Revolución en LinkedIn: ¡Llega la era del video! 📹 | video | 2024-08-09 | https://youtu.be/K1aJpwhpL3c | Sí | Sí | No |
+| 159 | Aprende a crear contenido y compartirlo en diferentes redes sociales como un PRO 👊 | video | 2024-08-09 | https://youtu.be/84l3c6OnZ2s | Sí | Sí | No |
+| 160 | Por qué tu LinkedIn debería estar armado en inglés ☑ | video | 2024-08-13 | https://youtu.be/N_iMauEo8Rc | Sí | Sí | No |
+| 161 | Por qué deberías evitar trabajos a comisión ❌ | video | 2024-08-15 | https://youtu.be/xf03buWXhH0 | Sí | Sí | No |
+| 162 | El factor definitivo para crear oportunidades de negocio 💰 | video | 2024-08-19 | https://youtu.be/h8L6jganJ_w | Sí | Sí | No |
+| 163 | ¿Cómo atraer nuevos clientes en LinkedIn? Aporta valor en sus posteos ✨ | video | 2024-08-21 | https://youtu.be/4DQUcJQwYQo | Sí | Sí | No |
+| 164 | 🤔 ¿Cómo ganar dinero sin ser empleado? Con tu Company of One 🚀 | video | 2024-08-22 | https://youtu.be/-PKfpbCeGzY | Sí | Sí | No |
+| 165 | ¿Por qué hoy conviene estar en todas las redes sociales? 💻 | video | 2024-08-26 | https://youtu.be/N1tf9gS7mBs | Sí | Sí | No |
+| 166 | Aprovecha la nueva función colaborativa de LinkedIn 🤝 | video | 2024-08-27 | https://youtu.be/wEpt59_VvRI | Sí | No | No |
+| 167 | Rodearte de las personas adecuadas puede llevarte al Éxito Profesional - Executive Experience 2024 | video | 2024-08-29 | https://youtu.be/UJv84O9Os5Q | Sí | Sí | No |
+| 168 | Lo que necesitas saber antes de empezar a emprender con tu Company of One 👨‍💻 | video | 2024-08-30 | https://youtu.be/IbcheTaqc4s | Sí | Sí | No |
+| 169 | Hoy puedes (y deberías) tener lanzadas varias Companies of One 💻 | video | 2024-09-04 | https://youtu.be/0M1NGoOg66M | Sí | Sí | No |
+| 170 | Tu Company of One existe siempre que puedas facturar 💲 | video | 2024-09-05 | https://youtu.be/jqJZx0bWdBs | Sí | Sí | No |
+| 171 | ¿La parte más difícil de empezar tu Company of One? Hacer tu primera factura 📄 | video | 2024-09-12 | https://youtu.be/RvfQauTXCPc | Sí | Sí | No |
+| 172 | Monetizando Nuestra Marca Personal  - Adrian The Coach | video | 2024-09-20 | https://youtu.be/q2Fo2Fv5nbU | Sí | Sí | Sí |
+| 173 | 📈 ¿Cómo crecer tu audiencia fácilmente? Hazte notar en posts de otros 💬 | video | 2024-09-23 | https://youtu.be/mZKYoaSK8PQ | Sí | Sí | No |
+| 174 | Define tu posicionamiento en TikTok y aumenta tus ventas con contenido de valor ⏫ | video | 2024-09-24 | https://youtu.be/oiaAncKc8qY | Sí | Sí | No |
+| 175 | La estrategia ganadora para crecer tu negocio gracias a YouTube 📺 | video | 2024-09-26 | https://youtu.be/IfSBpJOGVrk | Sí | No | No |
+| 176 | ¿Quieres comerte al mundo? Arma tu propio personaje 🦸‍♂️ | video | 2024-10-17 | https://youtu.be/R_CqbRD_S4Y | Sí | Sí | No |
+| 177 | Cuando te presentes, evita el "sincericidio" y destaca lo que te hace único 🌟 | video | 2024-10-18 | https://youtu.be/3PwW8O6rZd4 | Sí | Sí | No |
+| 178 | 🗣 Cuenta tu historia profesional utilizando la fórmula del "viaje del héroe" ⚔ | video | 2024-10-21 | https://youtu.be/g2tXWaNvLqQ | Sí | Sí | No |
+| 179 | No hagas beneficencia con tus clientes, cóbrales por tu talento 💰 | video | 2024-10-28 | https://youtu.be/BMpuHBxrYxg | Sí | Sí | No |
+| 180 | En redes sociales, siempre muestra tu mejor faceta 😎 | video | 2024-11-06 | https://youtu.be/hyQBm744vYA | Sí | Sí | No |
+| 181 | ¿Por qué debes utilizar LinkedIn en un solo idioma? 🗣 | video | 2024-11-11 | https://youtu.be/lgxRj7vYCVw | Sí | Sí | No |
+| 182 | Las 4 variables que pueden potenciar tu perfil de LinkedIn | video | 2024-11-13 | https://youtu.be/c9jXWtyyHPE | Sí | No | No |
+| 183 | ¿Cómo destacar y ser influyente teniendo más de 40 años? | video | 2024-11-13 | https://youtu.be/osnf58PfTTw | Sí | Sí | No |
+| 184 | Esta es la forma más sencilla de conseguir nuevos clientes 🤝 | video | 2024-11-20 | https://youtu.be/gqm_wPY_-NU | Sí | Sí | Sí |
+| 185 | La técnica infalible para comentar posteos de otras personas 💬 | video | 2024-11-21 | https://youtu.be/bUMglGz7Zoc | Sí | Sí | No |
+| 186 | Cómo escribir posteos más atractivos para tu audiencia en redes sociales ✍ | video | 2024-11-22 | https://youtu.be/B8lhQ4JT9Hs | Sí | No | No |
+| 187 | Vende tu experiencia como dueño de tu Company of One y cobra más 😎 | video | 2024-12-05 | https://youtu.be/D3tDovTx_OA | Sí | Sí | Sí |
+| 188 | Esta es la mejor forma de monetizar tu experiencia 🌟 | video | 2024-12-09 | https://youtu.be/Im7myo6EyB4 | Sí | Sí | Sí |
+| 189 | ¿Qué se necesita para armar una Company of One exitosa? 🚀 | video | 2024-12-10 | https://youtu.be/SnkwpD5CGYs | Sí | Sí | Sí |
+| 190 | Al emprender, tu compañía o negocio va a cambiar según tus objetivos 🎯 | video | 2024-12-12 | https://youtu.be/Lvcl4OYRyA8 | Sí | Sí | Sí |
+| 191 | Piensa en una solución a un problema de tus clientes 🔧 | video | 2024-12-18 | https://youtu.be/AaR5VUWls84 | Sí | Sí | Sí |
+| 192 | ¿Cómo identificar a tus potenciales clientes? Define tu lista de precios 💲 | video | 2024-12-23 | https://youtu.be/fn4lw_dqAKE | Sí | Sí | Sí |
+| 193 | El error más grave al emprender es no valorar tu tiempo ni tu talento 🚩 | video | 2024-12-26 | https://youtu.be/VmiJ9SQ0dWs | Sí | Sí | Sí |
+| 194 | ¿Cómo facturar más y cubrir tu costo de vida anual? Diversifica tus servicios 💲 | video | 2024-12-30 | https://youtu.be/eUrRh4pQfDc | Sí | Sí | Sí |
+| 195 | Empieza cobrando poco y tendrás más clientes ✅ | video | 2024-12-30 | https://youtu.be/yLH3QN0lsAs | Sí | Sí | Sí |
+| 196 | ¿Quieres que tu nueva compañía se vea mucho más profesional? Cambia a un mail de empresa 📧 | video | 2024-12-31 | https://youtu.be/wIzEkopzgf4 | Sí | Sí | No |
+| 197 | Debes asegurar el dominio de tu negocio y tu "username" en redes sociales 👤 | video | 2025-01-02 | https://youtu.be/B9cJ9vOMZRU | Sí | No | No |
+| 198 | En tu Company of One, tú eres el único encargado de promocionarte y vender 🙋‍♂️ | video | 2025-01-08 | https://youtu.be/mXgsCBozHVA | Sí | Sí | Sí |
+| 199 | MVP: El arma secreta de tu Company of One 🚀 | video | 2025-01-13 | https://youtu.be/p1gBLEBhKBc | Sí | Sí | Sí |
+| 200 | Cómo transformé mi negocio y mejoré la forma de cobrar por mis servicios 🫰 | video | 2025-01-20 | https://youtu.be/Zd-ZkybOjvE | Sí | Sí | Sí |
+| 201 | ¿Cómo resolver o llegar al fondo del problema de tu cliente? 🔎 | video | 2025-01-21 | https://youtu.be/sGXqUnHjIdA | Sí | Sí | Sí |
+| 202 | Conecta con personas que te aporten valor 🤝 | video | 2025-01-22 | https://youtu.be/h-KfAfg3BUM | Sí | No | Sí |
+| 203 | Cómo identificar al cliente adecuado para tu negocio y cobrar lo que realmente mereces 💰 | video | 2025-03-11 | https://youtu.be/jma6teI3LN0 | Sí | Sí | Sí |
+| 204 | ¿Cómo presentarte en público para vender tus servicios como un PRO? 📣 | video | 2025-03-13 | https://youtu.be/gWjKEvupQ0U | Sí | Sí | Sí |
+| 205 | Necesitas solo 3 "keywords" para presentarte como profesional 🗣 | video | 2025-05-07 | https://youtu.be/88QjIyQogYs | Sí | Sí | No |
+| 206 | Tu experiencia pasada no limita lo que puedas vender HOY ☑ | video | 2025-05-09 | https://youtu.be/k-HYBghKJLU | Sí | Sí | No |
+| 207 | ¿Cómo hacer mejores posteos en redes sociales? 🤔 | video | 2025-06-23 | https://youtu.be/sjMz61-ln-k | Sí | No | No |
+| 208 | Cómo reinventarte a tus 40 sin perder el rumbo - Adrian The Coach x The Council Podcast | video | 2025-07-02 | https://youtu.be/_2CBpaeNxkQ | Sí | Sí | Sí |
+| 209 | Diseña tu Plan B antes de que tu trabajo desaparezca | video | 2025-07-17 | https://youtu.be/zw5vihOWeP0 | Sí | Sí | No |
+| 210 | Hoy, emprender nunca fue tan accesible (y tan barato) 🫰 | video | 2025-09-10 | https://youtu.be/63yXtz95W40 | Sí | Sí | Sí |
+| 211 | Debes ser claro al ofrecer tus servicios a tus clientes 🫰 | video | 2025-09-19 | https://youtu.be/5_FIpHYAXJc | Sí | Sí | Sí |
+| 212 | Por qué es tan importante definir tu marca personal para ser exitoso emprendiendo 👤 | video | 2025-09-25 | https://youtu.be/V-fo-9FINjE | Sí | Sí | Sí |
+| 213 | Plan PASO A PASO Después del DESPIDO 40+ (Guía Completa) | video | 2025-11-05 | https://youtu.be/Inqy-8WAGI8 | Sí | Sí | No |
+| 214 | Cómo REINVENTAR tu CARRERA PROFESIONAL con tu MARCA PERSONAL 40+ | video | 2025-11-17 | https://youtu.be/4wBagccIzvw | Sí | Sí | Sí |
+| 215 | Esta es la realidad de los profesionales 40+ que quieran emprender 👨‍💻 | video | 2026-02-04 | https://youtu.be/MFD4cdELOsQ | Sí | Sí | Sí |
+| 216 | La mejor forma para emprender a tus 40+ es con tu propia Company of One 👨‍💻 | video | 2026-05-16 | https://youtu.be/vjpuptISZRY | Sí | Sí | No |
+| 217 | Los 3️⃣ principios básicos para una Company of One exitosa | video | 2026-05-18 | https://youtu.be/am6Dlq_vu20 | Sí | No | Sí |
+| 218 | Acomoda tu estrategia de ventas a tu contexto de ventas y de tu cliente ideal 🔀☑️ | video | 2026-06-01 | https://youtu.be/PB56RKwj5L4 | Sí | Sí | Sí |
+| 219 | La mejor manera de atraer nuevos clientes en LinkedIn 🧲 | video | 2026-06-29 | https://youtu.be/NPfllSOwJII | Sí | Sí | Sí |
+| 220 | ¿Cómo saber si estoy cobrando bien por mis productos y/o servicios? 🫰 | video | 2026-09-09 | https://youtu.be/Z5YDnDDDpEQ | Sí | Sí | Sí |
+| 221 | 🚀 Define tu "Long Tail" y multiplica tus ventas 🚀 | video | NA | https://youtu.be/pxgW0o3y5-M | Sí | Sí | No |
+| 222 | Sé experto en un solo tema 1️⃣ #shorts | short | 2023-01-20 | https://youtu.be/nRaW8KNnOak | Sí | Sí | No |
+| 223 | Antes de postear en LinkedIn, definí tu objetivo 🎯 #shorts | short | 2023-01-31 | https://youtu.be/x1ZnNk2JTn8 | Sí | Sí | No |
+| 224 | Siempre empieza vendiendo horas ⌚ #shorts | short | 2023-02-01 | https://youtu.be/mwI-y4xt0CI | Sí | Sí | No |
+| 225 | Invierte tiempo y dinero en ti mismo 🕑💰 #shorts | short | 2023-02-08 | https://youtu.be/1xBK6Zow9GI | Sí | No | No |
+| 226 | Sé tu propio asesor de TÚ marca personal 👊 #shorts | short | 2023-02-09 | https://youtu.be/kadJ6PMSILI | Sí | Sí | No |
+| 227 | Disfruta y planifica tu estilo de vida gracias a tu Company of One 😎 #shorts | short | 2023-02-13 | https://youtu.be/T8ibDFyhL34 | Sí | No | No |
+| 228 | 💬 ¿Qué palabras te definen como profesional? 👨‍💼 #shorts | short | 2023-02-14 | https://youtu.be/0C80Y6cxQd4 | Sí | No | No |
+| 229 | Si tienes más de 40 años, “FAKE IT TILL YOU MAKE IT” 🔥 #shorts | short | 2023-02-16 | https://youtu.be/qtVTeQr1jbo | Sí | No | No |
+| 230 | Las 3️⃣ características de una Company of One exitosa #shorts | short | 2023-02-17 | https://youtu.be/RewMajvu1-Y | Sí | No | No |
+| 231 | Mejora tu presentación para asombrar y convencer a los demás 😲 #shorts | short | 2023-02-18 | https://youtu.be/YAE6ysHb9cw | Sí | Sí | No |
+| 232 | Crea un personaje propio pensado para tu target 🎯 #shorts | short | 2023-02-19 | https://youtu.be/QzTRc9bRr-0 | Sí | Sí | No |
+| 233 | Mi compañía, mis reglas ✅ #shorts | short | 2023-02-20 | https://youtu.be/KofmVLu_HaI | Sí | Sí | No |
+| 234 | 🚀 Define tu "Long Tail" y multiplica tus ventas 📈 #shorts | short | 2023-02-23 | https://youtu.be/Csrjgu51NG8 | Sí | Sí | No |
+| 235 | Encuentra la "keyword" perfecta para tu cliente 💬 #shorts | short | 2023-02-25 | https://youtu.be/wErmWUAfTh8 | Sí | Sí | No |
+| 236 | Bienvenido a la Company of One, el principio de tu futuro laboral 🙌 #shorts | short | 2023-02-28 | https://youtu.be/EOT537XmKCQ | Sí | No | No |
+| 237 | Transforma tus habilidades en ingresos ⚡💲 #shorts | short | 2023-03-01 | https://youtu.be/C-zIU2UjXDk | Sí | Sí | No |
+| 238 | Siempre ten preparada tu lista de servicios y precios 📝 #shorts | short | 2023-03-02 | https://youtu.be/gJDZenoydx8 | Sí | Sí | No |
+| 239 | La pregunta clave para cerrar ventas: ¿Cómo lo ves? 🤔 #shorts | short | 2023-03-03 | https://youtu.be/IBS06JGwGHQ | Sí | Sí | No |
+| 240 | Tienes una bala de plata ante cada persona que conoces 🗣 #shorts | short | 2023-03-07 | https://youtu.be/oW9w6bickK4 | Sí | Sí | No |
+| 241 | Encuentra aquellas aptitudes en las que seas mejor que otros ➕ #shorts | short | 2023-03-17 | https://youtu.be/CawDKn1gMIM | Sí | No | No |
+| 242 | Identifica el problema de tu target para ofrecerle tu servicio 🤝 #shorts | short | 2023-03-27 | https://youtu.be/pJXygBPBdiE | Sí | Sí | No |
+| 243 | La ventaja de tener LinkedIn Premium ⭐ #shorts | short | 2023-04-11 | https://youtu.be/kPz-UXO1q3c | Sí | Sí | No |
+| 244 | Adelántate al futuro antes que nadie y saca ventaja 🔮 #shorts | short | 2023-05-02 | https://youtu.be/NTT5NVNbDBQ | Sí | No | No |
+| 245 | Si quieres éxito en tu futuro, preocúpate y ¡ocúpate! ✋ #shorts | short | 2023-05-03 | https://youtu.be/mhbZX12G3NQ | Sí | No | No |
+| 246 | ¡Sácale provecho a tu experiencia! ⚡ #shorts | short | 2023-05-15 | https://youtu.be/SQrbVFHQsm0 | Sí | No | No |
+| 247 | Debes poder expresar en qué eres muy bueno 💪 #shorts | short | 2023-06-07 | https://youtu.be/pq5O_BfCLrA | Sí | Sí | No |
+| 248 | Elije 3️⃣ keywords por las que los demás te reconozcan #shorts | short | 2023-07-01 | https://youtu.be/BiVJ-zJITKw | Sí | Sí | No |
+| 249 | Diferencia eso en lo que eres muy bueno de tus hobbies 🚴‍♀️ #shorts | short | 2023-07-02 | https://youtu.be/kAxI0D7NwoE | Sí | No | No |
+| 250 | Define cómo quieres que te reconozcan 💁‍♂️ #shorts | short | 2023-07-06 | https://youtu.be/ASKDphwFzxI | Sí | Sí | No |
+| 251 | Debes estar siempre listo para presentarte 🎤 #shorts | short | 2023-07-20 | https://youtu.be/_ZygWBMFiEA | Sí | Sí | No |
+| 252 | Si pides ayuda a tu audiencia tendrás más engagement 💬 #shorts | short | 2023-07-24 | https://youtu.be/Lgs5gV0VwRc | Sí | No | No |
+| 253 | ¿Conviene ser Autónomo o una Compañía? | short | 2023-09-04 | https://youtu.be/Aze4kB8-J8s | Sí | Sí | No |
+| 254 | Cobra el precio justo por tus productos y servicios 💲 #shorts | short | 2023-09-14 | https://youtu.be/hxZfW6MmEKI | Sí | Sí | No |
+| 255 | Debes retener los clientes que ya tienes 👐 #shorts | short | 2023-10-05 | https://youtu.be/fpXZ_fF1pIk | Sí | Sí | No |
+| 256 | En tu propia compañía, tú te encargas de TODO 😬 #shorts | short | 2023-10-06 | https://youtu.be/3EYHmNkBL3w | Sí | No | No |
+| 257 | No hay excusas para no armar tu Company of One hoy mismo 👨‍💻 #shorts | short | 2023-10-07 | https://youtu.be/b1IlknAXIyY | Sí | No | No |
+| 258 | Véndete como el CEO de tu propia compañía y factura más 👨‍💼 #shorts | short | 2023-10-09 | https://youtu.be/dVwa8aT7JLk | Sí | Sí | No |
+| 259 | Cubre tu costo de vida calculando Precio x Cantidad 🧮 #shorts | short | 2023-10-10 | https://youtu.be/mKox0T8v5w8 | Sí | Sí | No |
+| 260 | Asegura el nombre y el dominio online de tu compañía 📧 #shorts | short | 2023-10-11 | https://youtu.be/gpoVJpppG8E | Sí | No | No |
+| 261 | Tu Company of One tiene que estar en todas las redes sociales 👩‍💻 #shorts | short | 2023-10-12 | https://youtu.be/uPXAqUaEGsU | Sí | No | No |
+| 262 | La Company of One te permite controlar tu destino 🔮 #shorts | short | 2023-10-25 | https://youtu.be/1AW76hQRTjM | Sí | No | No |
+| 263 | Una Company of One puede crecer más allá de tu control 📈 #shorts | short | 2023-10-26 | https://youtu.be/ofhhDz6KLpo | Sí | No | No |
+| 264 | La Company of One no te va a hacer millonario, pero te da cashflow 💰 #shorts | short | 2023-10-27 | https://youtu.be/dCjpEt1ke14 | Sí | No | No |
+| 265 | La Company of One no necesita socios ni inversores 🤝🚫 #shorts | short | 2023-10-28 | https://youtu.be/Pyx-GGLOQZk | Sí | No | No |
+| 266 | Tu compañía va a empezar vendiendo servicios 💇‍♂️ #shorts | short | 2023-10-30 | https://youtu.be/q57Z8Kjc22Y | Sí | Sí | No |
+| 267 | ¿Qué vas a vender y a quién le vas a vender? 🤔 #shorts | short | 2023-10-31 | https://youtu.be/ADKR9UozXEs | Sí | Sí | No |
+| 268 | Adapta tus productos y servicios para ofrecer opciones variadas a tus clientes 🔀 #shorts | short | 2023-11-14 | https://youtu.be/Kpds5G-Zv44 | Sí | Sí | No |
+| 269 | ¿En qué formato vas a vender servicios con tu Company of One? 👩‍💻 #shorts | short | 2023-11-14 | https://youtu.be/8Bw8OA7pEZ4 | Sí | Sí | No |
+| 270 | Si tienes una compañía, preocúpate por ti mismo y olvídate de tu ego ❌ #shorts | short | 2024-01-18 | https://youtu.be/Ha8TskJRblk | Sí | No | No |
+| 271 | ¿Cuál es el objetivo de tener una Company of One? 🎯 #shorts | short | 2024-01-23 | https://youtu.be/rCbyz5un8v8 | Sí | No | No |
+| 272 | La diferencia entre trabajar de empleado y la Company of One 🔀 #shorts | short | 2024-01-24 | https://youtu.be/P96jdaPF4FI | Sí | No | No |
+| 273 | Debes ser el reflejo viviente de lo que vendes 👥 #shorts | short | 2024-01-25 | https://youtu.be/mKfF2_BA2-w | Sí | No | No |
+| 274 | Necesitas tener todo esto resuelto para empezar tu propia compañía ❗ #shorts | short | 2024-01-26 | https://youtu.be/J6s56_iw-P0 | Sí | No | No |
+| 275 | ¿Cómo vender tus servicios con tu compañía siendo autónomo? #shorts | short | 2024-01-30 | https://youtu.be/6cdds_4MDaM | Sí | Sí | No |
+| 276 | Cómo alcanzar tu "velocity escape" y cubrir tu costo de vida💨 #shorts | short | 2024-01-31 | https://youtu.be/hJLLVycHfk8 | Sí | No | No |
+| 277 | Empieza vendiendo servicios, no productos ❌ #shorts | short | 2024-02-02 | https://youtu.be/2ZO3njhd4eI | Sí | Sí | No |
+| 278 | No vas a ayudar a nadie, vas a vender una solución 💡 #shorts | short | 2024-02-03 | https://youtu.be/yOhVEQxnJ3E | Sí | Sí | No |
+| 279 | Tu compañía debe estar en todas las redes sociales 🌐 #shorts | short | 2024-02-05 | https://youtu.be/2KOX4NuDxuI | Sí | Sí | No |
+| 280 | Postea regularmente y consigue más leads a largo plazo 💹 #shorts | short | 2024-02-06 | https://youtu.be/ebhP3woTkV4 | Sí | Sí | No |
+| 281 | Debes ser el "curador" de tu marca personal en todas tus redes 👤 #shorts | short | 2024-02-07 | https://youtu.be/EWuW5_kp2vQ | Sí | Sí | No |
+| 282 | Pásate a TikTok y mejora tu funnel de ventas 🤳 #shorts | short | 2024-02-14 | https://youtu.be/S_GdGchf9O4 | Sí | Sí | No |
+| 283 | La gente vive más, así que aprovecha ese nicho para tu negocio 👴 #shorts | short | 2024-02-15 | https://youtu.be/TKrnEcKv6AU | Sí | No | No |
+| 284 | Nunca regales tu experiencia, valora tu talento, porque nadie más lo hará 💪 #shorts | short | 2024-02-21 | https://youtu.be/5D0R94UG7z8 | Sí | Sí | No |
+| 285 | Un cliente es quien necesita tu servicio y tiene la plata para pagarte 💶 #shorts | short | 2024-03-08 | https://youtu.be/tPpMxW606mM | Sí | Sí | No |
+| 286 | Si decides volver a la corporación, vuelve como consultor 💼 #shorts | short | 2024-03-27 | https://youtu.be/iWHDddaCZaA | Sí | Sí | No |
+| 287 | ¿Quieres mejorar tu compañía? Copia a quienes admiras 🤩 #shorts | short | 2024-04-16 | https://youtu.be/-Otv4oM81tU | Sí | No | No |
+| 288 | Herramientas esenciales para emprender: Stripe + Calendly 📆 #shorts | short | 2024-04-17 | https://youtu.be/9ZNs36m1c28 | Sí | Sí | No |
+| 289 | Si vas a emprender, tienes que empezar como consultor 💬 #shorts | short | 2024-04-18 | https://youtu.be/VCuC0kVyNmQ | Sí | Sí | No |
+| 290 | Genera que tus clientes necesiten tus productos o servicios 🤩 #shorts | short | 2024-06-06 | https://youtu.be/8s4ee6GpFlo | Sí | Sí | No |
+| 291 | El formato va a cambiar, pero tu valor es lo que te van a comprar ✨ #shorts | short | 2024-06-10 | https://youtu.be/MT_8ehmoBh0 | Sí | Sí | No |
+| 292 | Vende sin miedo y querrán contratarte 😎 #shorts | short | 2024-07-11 | https://youtu.be/_tOaC9xxjig | Sí | Sí | No |
+| 293 | ¿Cómo vender tu experiencia? Así de fácil 👌 #shorts | short | 2024-07-16 | https://youtu.be/h-n71f1H16A | Sí | Sí | No |
+| 294 | Hay un océano de oportunidades en tu audiencia de +70 años 👴 #shorts | short | 2024-07-23 | https://youtu.be/SSnQfpnuBgo | Sí | No | No |
+| 295 | El desafío más grande de emprender: Cobrar la primera factura 💰 #shorts | short | 2024-07-27 | https://youtu.be/oIRPJLHiVmk | Sí | Sí | No |
+| 296 | Busca tu "long tail" y conviértete en el líder de tu mercado 😎 #shorts | short | 2024-07-30 | https://youtu.be/Qj0vSzR_51M | Sí | Sí | No |
+| 297 | ¿Cómo aportar valor a tu audiencia? ✨ #shorts | short | 2024-08-15 | https://youtu.be/1wl15pPcn0s | Sí | Sí | No |
+| 298 | Si quieres triunfar en redes, empieza a crear contenido de valor 📺 #shorts | short | 2024-08-27 | https://youtu.be/tb1vsTaegLk | Sí | No | No |
+| 299 | Define los ejes temáticos de tu contenido y crecerás tu audiencia 🗣 #shorts | short | 2024-08-29 | https://youtu.be/pnPyWefuaew | Sí | Sí | No |
+| 300 | Por qué NO deberías empezar vendiendo un producto ❌ #shorts | short | 2024-09-04 | https://youtu.be/78qBEbVuZQ4 | Sí | Sí | No |
+| 301 | Debes cobrar por tus servicos para validar tu talento 💲 #shorts | short | 2024-09-05 | https://youtu.be/YZqG2wJXjjw | Sí | Sí | No |
+| 302 | Elige las "keywords" más adecuadas para presentarte 💬 #shorts | short | 2024-09-09 | https://youtu.be/eumNixzCSTI | Sí | No | No |
+| 303 | LinkedIn Premium = ➕VENTAS #shorts | short | 2024-09-30 | https://youtu.be/qM_J6Bx3Kjw | Sí | Sí | No |
+| 304 | Tu perfil de LinkedIn NUNCA debe estar en dos idiomas 💬 #shorts | short | 2024-10-01 | https://youtu.be/Gjn3JsTwezg | Sí | No | No |
+| 305 | Evita el sincericidio al momento de vender tu expertise 🔚 #shorts | short | 2024-10-07 | https://youtu.be/7prVpDK0r5k | Sí | Sí | No |
+| 306 | Puedes lanzar varias compañías, pero debes tener una de back-up 💻 #shorts | short | 2024-10-16 | https://youtu.be/2jXjZqptngU | Sí | No | No |
+| 307 | Si eres bueno y no lo pareces, serás malo a los ojos del mundo 👁 #shorts | short | 2024-10-28 | https://youtu.be/iFh4R5PYgEE | Sí | Sí | No |
+| 308 | Preséntate demostrando en qué eres muy bueno y por qué eres el N.º 1 😎 #shorts | short | 2024-11-06 | https://youtu.be/DYG1OGtvq-c | Sí | Sí | No |
+| 309 | Mis 2️⃣ recomendaciones para una vida profesional exitosa ✨ #shorts | short | 2024-11-08 | https://youtu.be/2CByrPpW_v0 | Sí | No | No |
+| 310 | ¿Cómo monetizar tu experiencia fácilmente? Cuéntale al mundo en qué eres muy bueno 👍 | short | 2025-01-17 | https://youtu.be/LfX6hocL7uc | Sí | Sí | No |
+| 311 | Tu nueva compañía será la evolución de tu experiencia pasada 💪 | short | 2025-01-27 | https://youtu.be/ai9fpR9ucD4 | Sí | No | No |
+| 312 | Tus clientes te van a contratar por tu talento, no por tus hobbies 😉 | short | 2025-01-28 | https://youtu.be/RsyW02IiVuY | Sí | Sí | No |
+| 313 | Define tu nicho, ofrece exclusividad y cómete al mercado 🤑 | short | 2025-01-29 | https://youtu.be/Z-Rq-gM3t30 | Sí | Sí | No |
+| 314 | Hoy podemos emprender con muy poco dinero 💰 #companyofone #negocios #emprender | short | 2025-02-17 | https://youtu.be/G57mq2eSs2Q | Sí | No | No |
+| 315 | ¿Qué necesitas para cobrarle a alguien siendo emprendedor? 💰 | short | 2025-02-20 | https://youtu.be/NC_c0YYXKz8 | Sí | Sí | No |
+| 316 | ¡Ojo con el SINCERICIDIO! | short | 2025-02-23 | https://youtu.be/ljKnBR6RUnE | Sí | Sí | No |
+| 317 | Siempre muéstrate como el mejor del mundo en lo que sabes hacer 🥇 | short | 2025-02-24 | https://youtu.be/xfno8Kiwpww | Sí | Sí | No |
+| 318 | Seguir vs. Conectar en LinkedIn: ¿Estás aprovechando bien tu red? 🌐 | short | 2025-02-27 | https://youtu.be/sWVH4RSKhbI | Sí | Sí | No |
+| 319 | Tu conocimiento vale mucho 💰 ¡Véndelo! | short | 2025-03-02 | https://youtu.be/mHYJSxCfGyQ | Sí | No | No |
+| 320 | ¡NO CAIGAS EN ESTA TRAMPA! | short | 2025-03-03 | https://youtu.be/zEJDecRwSfw | Sí | Sí | No |
+| 321 | Si no haces esto, estás perdiendo mucho tiempo (y dinero) 😉 | short | 2025-04-05 | https://youtu.be/79gP_ZQEQqM | Sí | No | No |
+| 322 | Preséntate como el LÍDER de tu propia comunidad o audiencia 😎 | short | 2025-04-08 | https://youtu.be/dp03-H_oYnY | Sí | Sí | No |
+| 323 | 🎯 ¿Estás hablando al mercado correcto pero con el mensaje equivocado? 🗣️ | short | 2025-06-09 | https://youtu.be/HbUxd2uc-aU | Sí | Sí | No |
+| 324 | Cómo elegir a tu cliente ideal 👥 | short | 2025-06-14 | https://youtu.be/0nQkN0ChkgM | Sí | Sí | No |
+| 325 | Cómo proyectar tus ingresos y alcanzar la perpetuidad 🔁💰 | short | 2025-06-15 | https://youtu.be/wmWhfi0KWyA | Sí | No | No |
+| 326 | Trabaja en tu marca personal para saber venderte antes de armar tu plan 🅱️ | short | 2025-06-18 | https://youtu.be/oo2GNZeCBcA | Sí | No | No |
+| 327 | ¿Cómo armar un posteo atractivo en LinkedIn fácilmente? ✍️💻 | short | 2025-06-19 | https://youtu.be/9UWleQEX2Cs | Sí | Sí | No |
+| 328 | ¿Cómo comentar los posteos de otros de manera profesional? 💬 | short | 2025-06-23 | https://youtu.be/JkhIO-3TXcA | Sí | Sí | No |
+| 329 | Por qué nunca debes repostear publicaciones de otros en LinkedIn 🚫🔁 | short | 2025-06-24 | https://youtu.be/4WNwiwaeScQ | Sí | No | No |
+| 330 | Hoy es más fácil y barato que nunca lanzar tu nueva compañía 💻 | short | 2025-06-28 | https://youtu.be/p1nJ9XW7Xy0 | Sí | No | No |
+| 331 | Ser bueno en algo no alcanza, debes demostrarlo 😎✨ | short | 2025-07-01 | https://youtu.be/UIFGfZ9zWFs | Sí | Sí | No |
+| 332 | Apunta al mercado hispanohablante y vuélvete un líder en tu expertise 🥇 | short | 2025-07-03 | https://youtu.be/7QMX0lZ4fkI | Sí | Sí | No |
+| 333 | Por qué deberías poner tu LinkedIn en inglés 👤🆗 | short | 2025-07-04 | https://youtu.be/aUQGidkScpg | Sí | Sí | No |
+| 334 | No necesitas salir a buscar clientes, necesitas una marca personal que hable por ti 💬 | short | 2025-10-14 | https://youtu.be/Oxs5vliQnU0 | Sí | Sí | No |
+| 335 | Así puedes estructurar la lista de precios de tu Company of One 📄🫰 | short | 2025-10-16 | https://youtu.be/3noUMzFUp0o | Sí | Sí | No |
+| 336 | Si no tienes un Personal Brand Kit, no estás listo para salir al mercado 🙅 | short | 2025-11-27 | https://youtu.be/mUv_zd7vVN4 | Sí | No | No |
+| 337 | Tienes que armar tu Company of One si quieres monetizar tu experiencia 💰 | short | 2025-12-31 | https://youtu.be/aBf4mzUd2GE | Sí | No | No |
+| 338 | Así se compone la estructura ideal de tu Company of One 🧑‍💻 | short | 2026-01-02 | https://youtu.be/c0k9OMi6ngU | Sí | No | No |
+| 339 | Si eres bueno en algo, comunícalo ¡y te vendrán a buscar para contratarte! | short | 2026-01-14 | https://youtu.be/BUTy0SOAWZQ | Sí | Sí | No |
+| 340 | ¿Tienes más de 40 años? Es hora de monetizar tu experiencia 💰 | short | 2026-05-15 | https://youtu.be/cAXbVrFSyEQ | Sí | No | No |
+| 341 | Por qué la Company of One es un estilo de vida perfecto para los 40 pluses su➕ | short | 2026-05-17 | https://youtu.be/4q1lCXh6LH8 | Sí | No | No |
+| 342 | No seas "Open to Work", sé el CEO de tu Company of One 😎 | short | 2026-05-19 | https://youtu.be/tY1Rzv16VuI | Sí | Sí | No |
+| 343 | Preséntate y véndete como compañía, no como persona autónoma 👤 | short | 2026-05-20 | https://youtu.be/tYNY8Zbrimw | Sí | Sí | No |
+| 344 | Por qué comenzar vendiendo servicios en vez de productos | short | 2026-05-21 | https://youtu.be/4h-0fzlqRcM | Sí | Sí | No |
+| 345 | Te van a pisar como hormiga si no empiezas vendiendo B2C 🐜 | short | 2026-05-22 | https://youtu.be/_eBV0xkZdeg | Sí | Sí | No |
+| 346 | Aprende los “temores" o "dolores" de tus clientes para brindar mejores soluciones 💉 | short | 2026-05-23 | https://youtu.be/dXRE69ybs-c | Sí | Sí | No |
+| 347 | No necesitas una página web, necesitas presencia en redes sociales 💻✨ | short | 2026-05-27 | https://youtu.be/BCee0PSfQ7M | Sí | Sí | No |
+| 348 | A nadie le importa el nombre de tu compañía, pero sí el valor único que ofrezcas 🌟 | short | 2026-05-29 | https://youtu.be/DKzKWkSXqCk | Sí | Sí | No |
+| 349 | ¿En qué momento de tu vida deberías tener una Company of One? 🤔 | short | 2026-05-30 | https://youtu.be/eMLPz41B7aU | Sí | Sí | No |
+| 350 | Por qué vas a tener que empezar a vender saliendo de tu zona de confort 😳 | short | 2026-05-31 | https://youtu.be/Ju_GJ59Aze4 | Sí | Sí | No |
+| 351 | Tu presentación va a ser premeditada y planificiada 📝👤 | short | 2026-06-16 | https://youtu.be/AtvjRmwrnI4 | Sí | Sí | No |
+| 352 | ¿Cómo promocionarte en LinkedIn cuando todavía eres empleado? | short | 2026-06-22 | https://youtu.be/J4QY1AfcqrY | Sí | No | No |
+| 353 | Cómo controlar la información que Google muestra de ti mismo 🕵️ | short | 2026-06-23 | https://youtu.be/1nAq9qeFUd0 | Sí | No | No |
+| 354 | Siempre busca tener más conexiones en LinkedIn 🌐 | short | 2026-06-24 | https://youtu.be/dUm_33j3qXU | Sí | No | No |
+| 355 | Expande tu audiencia al presentar tu perfil en inglés en redes sociales | short | 2026-06-25 | https://youtu.be/xsMgedvmHv4 | Sí | No | No |
+| 356 | Debes poder definirte profesionalmente en solo 3️⃣ palabras clave | short | 2026-06-26 | https://youtu.be/BM-x1As56iU | Sí | Sí | No |
+| 357 | ¿Eres un profesional necesitado o tus clientes te vienen a buscar? | short | 2026-06-30 | https://youtu.be/lXStZjPmHJw | Sí | Sí | No |
+| 358 | No uses más tu currículum, empieza a compartir valor en redes 🤳✨ | short | 2026-09-04 | https://youtu.be/9X-XtHDN2P0 | Sí | Sí | No |
+| 359 | Mi recomendación para empezar a emprender a tus 40 años 🧑‍💻 | short | 2026-09-08 | https://youtu.be/2uY7QRSO-bY | Sí | Sí | No |
+| 360 | ¿En qué eres tan bueno que otros te pagarían por eso que ofreces? | short | 2026-09-19 | https://youtu.be/99l6PpBL5vE | Sí | Sí | No |
+| 361 | Tu valor está en brindar una solución a un problema concreto de un nicho de personas 🔧👥 | short | 2026-09-20 | https://youtu.be/lIJGDjKya9k | Sí | Sí | No |
+| 362 | Cómo lidiar con las propuestas de negocios rechazadas ✋ | short | 2026-09-21 | https://youtu.be/_yTca--7Qr0 | Sí | Sí | No |
+| 363 | Cómo manejar tu Company of One tú solo sin complicarte la vida ✅ | short | 2026-09-24 | https://youtu.be/sc37ap6OfY4 | Sí | Sí | No |
+| 364 | Así puedes ajustar el precio de tus productos o servicios según tus objetivos de cashflow 💹 | short | 2026-09-25 | https://youtu.be/Es_Rdifii9Y | Sí | Sí | No |
+| 365 | Por qué insisto con crear y subir contenido en todas las redes sociales 🤳 | short | 2026-09-29 | https://youtu.be/PKaTnmhQR1Q | Sí | Sí | No |
+| 366 | Cada profesional tiene un personaje propio 👤 | short | 2026-09-30 | https://youtu.be/HBr3F1NmeuE | Sí | Sí | No |
 
 ### Videos descartados
 
 | # | Título | Tipo | URL | Motivo |
 |---|---|---|---|---|
-| 1 | Puedes y debes aprender todo lo que puedas de los mejores expertos totalmente gratis en YouTube 📺🧠 | video | https://www.youtube.com/watch?v=A6gdi3A1vog | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 2 | Si no quieres que tu cashflow pase a cero, la solución es emprender 🧑‍💻 | video | https://www.youtube.com/watch?v=IW-Rc31mTNo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 3 | ¿Cuánto tiempo tarda reinventarse profesionalmente después de los 40 años? 🔁 | video | https://www.youtube.com/watch?v=3BBX3l0yfFc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 4 | 3 paradigmas que te harán cambiar tu mindset sobre el empleo 🧠💼 | video | https://www.youtube.com/watch?v=LJZ7vofIOVI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 5 | El barco corporativo siempre se hunde así que prepara tu salvavidas al empezar a emprender 🛟 | video | https://www.youtube.com/watch?v=0ZTnSawXRKc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 6 | Los 3 cambios de paradigmas que van a cambiar tu vida profesional 🙀 | video | https://www.youtube.com/watch?v=1Ace0Z8ljKg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 7 | ¡No tengo tiempo! 🤦🏻 (¿te suena conocido?) | video | https://www.youtube.com/watch?v=OsDmKvy9HvU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 8 | Ser empleado corporativo es como ser un yogur: tienes fecha de vencimiento ❌ | video | https://www.youtube.com/watch?v=3mT7Upg47lQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 9 | Por qué la expectativa de vida se está alargando 👴 | video | https://www.youtube.com/watch?v=Ks2H9i38HYc | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 10 | Crear tu propio GPT puede ser tu nueva ventaja competitiva 💪 | video | https://www.youtube.com/watch?v=XraFFIezSPE | Herramientas, IA o tecnología, sin foco en ventas |
-| 11 | El mejor momento para emprender es cuando aún estás en la corporación 🧑‍💻 | video | https://www.youtube.com/watch?v=cs8V_GYLY7U | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 12 | ¿Y si te dijera que hoy puedes aprender lo que quieras? 🎓 | video | https://www.youtube.com/watch?v=wDejMWJeCMs | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 13 | La razón por la que el empleo está en extinción 💥 | video | https://www.youtube.com/watch?v=yYpUfYnnzcQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 14 | Si tienes más de 40, vas a tener que generar cashflow para tus próximos 50 años 💰 | video | https://www.youtube.com/watch?v=cvK3fnHBysA | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 15 | Esta es la clave del éxito profesional 🙌 | video | https://www.youtube.com/watch?v=ytisZHGihUQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 16 | Adapta tus conocimientos y actualiza tus habilidades a cada etapa de tu vida profesional 🔁 | video | https://www.youtube.com/watch?v=iEiuxYcgqkk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 17 | No quemes tu energía ni tu tiempo trabajando de más en la corporación 🔥 | video | https://www.youtube.com/watch?v=L-_Q4b_ZlCw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 18 | Notion: La única herramienta digital que vas a necesitar | video | https://www.youtube.com/watch?v=aMnFITGz2ck | Herramientas, IA o tecnología, sin foco en ventas |
-| 19 | 🔥 Tomar el control de tu carrera no es una utopía, es una decisión 💪 | video | https://www.youtube.com/watch?v=S4CQFiKd7ZY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 20 | Hoy tienes que aprender más antes que los demás para alcanzar el éxito 🎓 | video | https://www.youtube.com/watch?v=qTOuLnLtjuM | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 21 | Los 3 cambios de paradigma que harán que te reinventes YA | video | https://www.youtube.com/watch?v=zie_47yXzcU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 22 | El mercado está cambiando y no espera a nadie, pero tu experiencia te salvará 👊 | video | https://www.youtube.com/watch?v=wYsKXxWo6bI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 23 | La vida en la corporación se acaba, pero la reinvención es para siempre ✅ | video | https://www.youtube.com/watch?v=sCfJunjheZU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 24 | Por qué NO deberías financiar una nueva "start-up" ❌ | video | https://www.youtube.com/watch?v=7uvfkDB81uc | Finanzas personales / inversión |
-| 25 | Hoy puedes liderar en TikTok teniendo +40 años 🤳 | video | https://www.youtube.com/watch?v=3XxobFbh78A | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 26 | Cómo empecé mi reinvención y pasé de ser corporativo a emprendedor 👨‍💻 | video | https://www.youtube.com/watch?v=5COSZ16Pv6M | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 27 | Si eres un empleado corporativo de más de 40, necesitas empezar tu reinvención profesional ⚡ | video | https://www.youtube.com/watch?v=fVLVebjZEi8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 28 | Escapa a la obsolescencia estudiando y aprendiendo todos los días 🧠 | video | https://www.youtube.com/watch?v=js4Nw6t-8YE | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 29 | Invierte en hardware y equipos profesionales para destacar en el mercado 💻 | video | https://www.youtube.com/watch?v=2S8xZgv4Ei4 | Herramientas, IA o tecnología, sin foco en ventas |
-| 30 | Si comienzas a emprender, tus ingresos no tendrán límite 🚀 | video | https://www.youtube.com/watch?v=Q-7P6Vf1lRY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 31 | El futuro de la creación de contenido en redes sociales son los videos 🎥 | video | https://www.youtube.com/watch?v=hEZfU2Sr6KQ | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 32 | ¿Sabías que hoy vivimos en la era de la abundancia? ¡Cambia tu mindset y sal a buscarla! 💰 | video | https://www.youtube.com/watch?v=URXGJeByusw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 33 | 💰 ¿Cómo generar ingresos si te despiden después de los 40 años? 🤔 | video | https://www.youtube.com/watch?v=_3gjlnKA-eQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 34 | La fórmula para ganar mucha plata sin tener que trabajar 😳 | video | https://www.youtube.com/watch?v=0AMULSO1GyM | Finanzas personales / inversión |
-| 35 | El único trabajo del que no te van a despedir luego de los 40 años 👊 | video | https://www.youtube.com/watch?v=hJNyktgH1iU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 36 | Potencia tu negocio con el poder de las automatizaciones 💪 | video | https://www.youtube.com/watch?v=S7BDp4Eaf4I | Herramientas, IA o tecnología, sin foco en ventas |
-| 37 | ¿Qué te depara después de los 40 años? Empezar a planificar tus próximos 50 💪 | video | https://www.youtube.com/watch?v=znt9EKY2zS8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 38 | Si eres corporativo o empresario, tienes que emprender y aprender 🎓 | video | https://www.youtube.com/watch?v=oOPFfKjZmk4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 39 | 📱 Gestionar UNA cuenta de TikTok ya es una odisea… Dos es casi una misión imposible ❌ | video | https://www.youtube.com/watch?v=IFFXPxbaGP0 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 40 | La señal más obvia de que eres exitoso en una red social | video | https://www.youtube.com/watch?v=ewN3MAWgqmk | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 41 | Si eres 40+, ahora es el mejor momento para estar en TikTok 📱 | video | https://www.youtube.com/watch?v=4Nm-ShmKysk | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 42 | Cómo funciona el algoritmo de TikTok y por qué deberías aprovecharlo para potenciar tu contenido ⚡ | video | https://www.youtube.com/watch?v=X6DQ_oc9q-s | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 43 | Conviértete en la estrella de TikTok en tu campo de expertise 🌟 | video | https://www.youtube.com/watch?v=bbbe04dYB0k | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 44 | La estrategia clave que me permitió crecer en TikTok 💪 | video | https://www.youtube.com/watch?v=aJfoQYC5IvY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 45 | TikTok está cambiando y ahora es el mejor momento para unirte 📱 | video | https://www.youtube.com/watch?v=uX87iGM_bbY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 46 | Qué debes hacer cuando la corporación te quiere de vuelta 🔙 | video | https://www.youtube.com/watch?v=RPXtqI_6g8E | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 47 | Esta es la mejor forma de invertir tus ahorros 💰 | video | https://www.youtube.com/watch?v=FNz8Jwfmg6I | Finanzas personales / inversión |
-| 48 | Soy Adrian Herzkovich, The Coach ¡Bienvenidos a mi canal! Aquí te voy a cambiar la vida 👊 | video | https://www.youtube.com/watch?v=ZT-Xt_7Tsqs | Otro: presentación del canal, resumen o tema ajeno |
-| 49 | Descubre una nueva forma de aprender 🎓✨ | video | https://www.youtube.com/watch?v=AMmeymNIn9A | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 50 | No importa quién hayas sido en tu pasado, hoy puedes aprender lo que quieras 👨‍🎓 | video | https://www.youtube.com/watch?v=U5aW494LWFo | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 51 | Invierte más en tecnología útil y haz la diferencia 👨‍💻 | video | https://www.youtube.com/watch?v=x0HTKWop8bU | Herramientas, IA o tecnología, sin foco en ventas |
-| 52 | ChatGPT puede mejorar tu aprendizaje fácilmente 🧠 | video | https://www.youtube.com/watch?v=b42CtqFYfKw | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 53 | ¿Estás preparado para vivir 100 años? Porque te va a costar más 💲 | video | https://www.youtube.com/watch?v=WLugPgSg97I | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 54 | La experiencia te da el Plus para ser un emprendedor exitoso 🚀 | video | https://www.youtube.com/watch?v=sin5cGAwwgk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 55 | La vida corporativa tiene fecha de vencimiento, y por eso debes emprender 💻 | video | https://www.youtube.com/watch?v=ws-ICNdiILo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 56 | No temas a las nuevas tecnologías, aprovéchalas para mejorar tu negocio 👨‍💻 | video | https://www.youtube.com/watch?v=QSxCyH5dVlg | Herramientas, IA o tecnología, sin foco en ventas |
-| 57 | Vas a vivir más y vas a tener que generar más dinero por más tiempo ⏳ | video | https://www.youtube.com/watch?v=a9MdIgppYdQ | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 58 | ¿Qué ventaja tienes por sobre la gente más joven? La experiencia ✨ | video | https://www.youtube.com/watch?v=RgMx90wFLoc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 59 | Si eres empleado, ¿Tienes un Plan 🅱? | video | https://www.youtube.com/watch?v=X2dVJ7hMeRI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 60 | ¿Cómo puedes cubrir tu costo de vida? Invierte tu dinero 💰 | video | https://www.youtube.com/watch?v=Ig-zCiFhds8 | Finanzas personales / inversión |
-| 61 | Si eres corporativo, empresario o emprendedor, tienes que estar en TikTok 📱 | video | https://www.youtube.com/watch?v=VjcaOQLPvMI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 62 | Hoy eres una víctima de la Gig Economy 📉 | video | https://www.youtube.com/watch?v=bxnv__PSx2M | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 63 | Hoy puedes vivir hasta los 100 años ¿Estás preparado? 💯 | video | https://www.youtube.com/watch?v=bH-33p_gw0Q | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 64 | 👔 Corporativos vs. Empresarios 👨‍💻 | video | https://www.youtube.com/watch?v=daCsOAkso-0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 65 | 🎯 Rodéate de personas que ya lograron lo que tú quieres 🎯 | video | https://www.youtube.com/watch?v=TSbHJZsCAfE | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 66 | Las personas son el recurso más útil (y costoso) de tu compañía 👨‍💼 | video | https://www.youtube.com/watch?v=eAQj_lscKQY | Contratación de empleados |
-| 67 | Si dejas la corporación, reduce tus gastos YA 💸 | video | https://www.youtube.com/watch?v=TUKulwGHT54 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 68 | Por qué debes rodearte de personas diversas que te inspiren a mejorar 🤝 | video | https://www.youtube.com/watch?v=RAj-0EtUTB4 | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 69 | Corporativos 🆚 empresarios | video | https://www.youtube.com/watch?v=4EThsTSGYsI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 70 | La reinvención profesional implica cambiar tus objetivos y prioridades | video | https://www.youtube.com/watch?v=KJuCKASJz5o | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 71 | Las herramientas esenciales para empezar a emprender 👨‍💻 | video | https://www.youtube.com/watch?v=wGvL-uYvoII | Herramientas, IA o tecnología, sin foco en ventas |
-| 72 | Demuestra tu verdadero valor, no te aferres al pasado 🔙 | video | https://www.youtube.com/watch?v=48E4WqWI_Io | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 73 | ¿Cómo cambiar tu mindset siendo 40+? 🧠 | video | https://www.youtube.com/watch?v=xsRg6tI8-tk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 74 | Luego de los 40 años, no hay futuro en la corporación 🛑 | video | https://www.youtube.com/watch?v=crvzYwraKiI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 75 | Hoy en día es crucial saber reinventarse 🔁 | video | https://www.youtube.com/watch?v=knyofRbJBzc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 76 | No esperes más para empezar a emprender 🙌 | video | https://www.youtube.com/watch?v=JRAOwOEqA70 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 77 | ¿Hasta qué edad vas a tener que trabajar si vives 100 años? 🤔 | video | https://www.youtube.com/watch?v=HwaANnz3ThI | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 78 | Si eres mayor de 40 años, es esencial rodearte de personas que te motiven 💪 | video | https://www.youtube.com/watch?v=_8LRiv8uxho | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 79 | El verdadero valor está en aprender a superarte 🏋️‍♂️ | video | https://www.youtube.com/watch?v=fxIa_DMaGJg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 80 | Calcula tus gastos, planifica y diversifica tus ahorros e inversiones a futuro 📈 | video | https://www.youtube.com/watch?v=weWZ1TwQ9Vk | Finanzas personales / inversión |
-| 81 | Empieza hoy tu reinvención y vive hasta los 100 años 💯 | video | https://www.youtube.com/watch?v=RYksLtkoMX4 | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 82 | Conviértete en el CEO de tu propia vida | video | https://www.youtube.com/watch?v=8fvexo4XOFI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 83 | Los empleados que contrates se van a ir tarde o temprano (y debes prepararte) | video | https://www.youtube.com/watch?v=35l2BVZ9MVc | Contratación de empleados |
-| 84 | Eres el promedio de las personas que te rodean 🤝 | video | https://www.youtube.com/watch?v=IshYAk3fRZc | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 85 | Compra el tiempo de otros para ganar más tiempo y más plata | video | https://www.youtube.com/watch?v=-UnalfymNWA | Contratación de empleados |
-| 86 | Adopta la mentalidad de abundancia y captura el dinero que necesitas | video | https://www.youtube.com/watch?v=OHa60MdXzZ0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 87 | Tu experiencia pasada no define tu futuro. Tú decides cómo aprovecharla 🔜 | video | https://www.youtube.com/watch?v=epPZvypnGhk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 88 | Si tienes más de 40 años, las compañías ya no te quieren 😰 #shorts | video | https://www.youtube.com/watch?v=Q3WggxR13jg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 89 | Usar ChatGPT es tan fácil como hablar con una persona 🗣 | video | https://www.youtube.com/watch?v=OTRueQo5Gto | Herramientas, IA o tecnología, sin foco en ventas |
-| 90 | Ser un experto no alcanza, necesitas actualizarte constantemente 🧠 | video | https://www.youtube.com/watch?v=KoO6Do2uERg | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 91 | Combina tus habilidades únicas con el poder de la inteligencia artificial 👩‍💻 | video | https://www.youtube.com/watch?v=4n1SyhQD-H0 | Herramientas, IA o tecnología, sin foco en ventas |
-| 92 | Crea imágenes desde cero con inteligencia artificial y potencia tu marca personal | video | https://www.youtube.com/watch?v=wk7yvRCk4nc | Herramientas, IA o tecnología, sin foco en ventas |
-| 93 | Haz la diferencia al utilizar múltiples herramientas digitales para impulsar tu negocio | video | https://www.youtube.com/watch?v=ZxOoVHHLa-A | Herramientas, IA o tecnología, sin foco en ventas |
-| 94 | 100 años de vida implica más inversiones y ahorros | video | https://www.youtube.com/watch?v=UbjZGT6Jk8Q | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 95 | De alto ejecutivo a emprendedor 👊 | video | https://www.youtube.com/watch?v=7Hn8RE8RF2s | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 96 | Usa ChatGPT Plus y vuélvete más eficiente ⚡ | video | https://www.youtube.com/watch?v=yYzRYi9k8pY | Herramientas, IA o tecnología, sin foco en ventas |
-| 97 | Vas a vivir mucho más de lo que imaginas ¿Estás preparado? | video | https://www.youtube.com/watch?v=aR-3p0WWTfY | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 98 | Hoy puedes aprender lo que quieras, cuando quieras, desde donde sea | video | https://www.youtube.com/watch?v=8XGOeANGGC4 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 99 | Los dos cambios más importantes que anticipan el futuro del trabajo | video | https://www.youtube.com/watch?v=slzPrUDaJvE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 100 | Tus empleados se van a ir, adáptate o estáncate 🔁 | video | https://www.youtube.com/watch?v=ohTeaPjfnwI | Contratación de empleados |
-| 101 | El lado oscuro de la vida corporativa 🏢 | video | https://www.youtube.com/watch?v=ymea2pfwDzA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 102 | Usa tu tiempo en la corporación para invertir en ti mismo | video | https://www.youtube.com/watch?v=aFmo2om76sY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 103 | El recurso más importante de un 40+ es la voluntad de aprender | video | https://www.youtube.com/watch?v=7FYguUhiYX8 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 104 | ¿Cómo escapar de la matrix luego de los 40? | video | https://www.youtube.com/watch?v=4u7wlh5J3co | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 105 | Rodéate de personas diversas que te guíen y te inspiren 💡 | video | https://www.youtube.com/watch?v=tdeHKheavVs | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 106 | Haz el extra esfuerzo en aprender y diagrama tu futuro | video | https://www.youtube.com/watch?v=qaV4zO8Z5nM | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 107 | La importancia del "reskilling" | video | https://www.youtube.com/watch?v=jFJNr7H65CM | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 108 | La vida corporativa tiene obsolescencia programada 😱 | video | https://www.youtube.com/watch?v=HtbXPANhxoc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 109 | La experiencia es tu mayor recurso para llegar al éxito | video | https://www.youtube.com/watch?v=_tTPXiKTAp4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 110 | Estudiar y aprender algo nuevo todos los días es tu camino al éxito | video | https://www.youtube.com/watch?v=SGJhZaWWVkQ | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 111 | Nunca es tarde para aprender sobre nuevas tecnologías | video | https://www.youtube.com/watch?v=ZYo62baW6i8 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 112 | Empieza a usar Slack y mejora tu comunicación | video | https://www.youtube.com/watch?v=nhFXsWnheAU | Herramientas, IA o tecnología, sin foco en ventas |
-| 113 | 40+ League LinkedIn Live - Una vida de 100 años ¡Prepárate para el desafío! | video | https://www.youtube.com/watch?v=wAC69t8ia7g | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 114 | Dibuja imágenes con tus palabras | video | https://www.youtube.com/watch?v=rtoj04nlZ8k | Herramientas, IA o tecnología, sin foco en ventas |
-| 115 | Introducción a ChatGPT y cómo puede transformar tu negocio - 2da Parte | video | https://www.youtube.com/watch?v=LL3-H6wHF9E | Herramientas, IA o tecnología, sin foco en ventas |
-| 116 | Midjourney: Crea imágenes con inteligencia artificial | video | https://www.youtube.com/watch?v=kRF7JBxP3uQ | Herramientas, IA o tecnología, sin foco en ventas |
-| 117 | ChatGPT es tu nuevo empleado ¡Aprovéchalo al máximo! | video | https://www.youtube.com/watch?v=wou41xtLfXY | Herramientas, IA o tecnología, sin foco en ventas |
-| 118 | ChatGPT 3.5 VS. ChatGPT 4 ¿Cuál es la mejor opción? | video | https://www.youtube.com/watch?v=G7K2VhJBwho | Herramientas, IA o tecnología, sin foco en ventas |
-| 119 | Combina ChatGPT con otras herramientas y mejora tu contenido | video | https://www.youtube.com/watch?v=5-aSHmjSaw4 | Herramientas, IA o tecnología, sin foco en ventas |
-| 120 | Ser curioso e inquieto es tu mayor ventaja | video | https://www.youtube.com/watch?v=hrJOUpUiPyE | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 121 | En el mundo actual, la reinvención es una necesidad | video | https://www.youtube.com/watch?v=SXB-SbhSEs0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 122 | Introducción a ChatGPT y cómo puede transformar tu negocio | video | https://www.youtube.com/watch?v=G0XgJEL-aIU | Herramientas, IA o tecnología, sin foco en ventas |
-| 123 | Preocúpate y ¡Ocúpate! Por qué debes mantenerte activo y actualizado | video | https://www.youtube.com/watch?v=Z0Jg5DCJ__I | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 124 | El dinero como lo conocemos es cosa del pasado | video | https://www.youtube.com/watch?v=IouB7g6FbNk | Finanzas personales / inversión |
-| 125 | ¿Cómo prepararte para una vida de 100 años? | video | https://www.youtube.com/watch?v=_EKFmxpmo4A | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 126 | Si se corta el cashflow ¿Tienes un Plan B? | video | https://www.youtube.com/watch?v=UfuH5ckAG64 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 127 | El empleo como lo conocemos está por desaparecer | video | https://www.youtube.com/watch?v=4DkpXsNtGLI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 128 | Adelántate a los cambios del futuro | video | https://www.youtube.com/watch?v=SnlZ5N6vlrI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 129 | Utiliza ChatGPT en su justa medida | video | https://www.youtube.com/watch?v=o4nwGAYTpng | Herramientas, IA o tecnología, sin foco en ventas |
-| 130 | Las ventajas de ser early adopter de ChatGPT | video | https://www.youtube.com/watch?v=7UXHJM7UKdg | Herramientas, IA o tecnología, sin foco en ventas |
-| 131 | Todo cambio en tu vida profesional es una oportunidad para crecer | video | https://www.youtube.com/watch?v=Niqe0XoKDTk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 132 | ChatGPT es tan adaptable como accesible | video | https://www.youtube.com/watch?v=6OF77K9b32M | Herramientas, IA o tecnología, sin foco en ventas |
-| 133 | ¿Cambiar el auto o comprar un Bitcoin? | video | https://www.youtube.com/watch?v=tQGjdBKFIs0 | Finanzas personales / inversión |
-| 134 | Empieza tu propio negocio con ChatGPT | video | https://www.youtube.com/watch?v=V3fIs-u-KpA | Herramientas, IA o tecnología, sin foco en ventas |
-| 135 | Si vas a vivir 100 años, anímate a reinventarte 🔄 | video | https://www.youtube.com/watch?v=OsOY91uyCuY | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 136 | ¿Qué es y cómo funciona ChatGPT? | video | https://www.youtube.com/watch?v=XgFxC5vjRlM | Herramientas, IA o tecnología, sin foco en ventas |
-| 137 | Rodéate de personas con ganas de aprender algo nuevo todo el tiempo | video | https://www.youtube.com/watch?v=ppKO-g6cS4I | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 138 | Para armar tu compañía, debes cambiar tu mindset | video | https://www.youtube.com/watch?v=FJtvghOZlgo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 139 | La experiencia te hace invencible | video | https://www.youtube.com/watch?v=3rxAhBxCJGA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 140 | Company of One: Tu bote salvavidas | video | https://www.youtube.com/watch?v=6zEY6ul7nHY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 141 | No importa ir rápido, sino ir en la dirección correcta | video | https://www.youtube.com/watch?v=by9y7dWkjNQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 142 | El mejor momento para emprender es ¡AHORA! 🔥 | video | https://www.youtube.com/watch?v=5HJdWfQq3uw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 143 | ¿Cómo financiar tu Plan B? | video | https://www.youtube.com/watch?v=Lm8uyJE3Uto | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 144 | Conviértete en una máquina de aprender | video | https://www.youtube.com/watch?v=G3h3kuh8yy4 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 145 | Si eres corporativo/a, ten en mente un Plan 🅱 | video | https://www.youtube.com/watch?v=ij0CZmpAD1I | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 146 | Experiencia + Nuevas Skills = Éxito | video | https://www.youtube.com/watch?v=NVS9d8fUcBw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 147 | Rodéate de ganadores y te llevarán al éxito | video | https://www.youtube.com/watch?v=4hA-_GXfkAk | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 148 | Si tienes más de 40 años, no seas un dinosaurio 🦖 | video | https://www.youtube.com/watch?v=6HVfH6dXEyk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 149 | Si el mundo no para, no pares de aprender | video | https://www.youtube.com/watch?v=KOqAAf_twS4 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 150 | ¡Planifica tu futuro YA! 🕓 | video | https://www.youtube.com/watch?v=e4FTzxgUfy8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 151 | ¿Sabés que puedes convertirte en un superhéroe? 🦸🏻‍♂️ | video | https://www.youtube.com/watch?v=0yLw5_BcVm0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 152 | Tienes que contratar a empleados jóvenes, aunque te duela | video | https://www.youtube.com/watch?v=qxrqxETPdYo | Contratación de empleados |
-| 153 | Combina tu experiencia con nuevas skills y serás imparable | video | https://www.youtube.com/watch?v=ZwPl6O-OWt4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 154 | Cómo cambiar tu mindset y diseñar tu vida | video | https://www.youtube.com/watch?v=dIwqXwl0LqE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 155 | Si eres 40+, esto te interesa | video | https://www.youtube.com/watch?v=0MfK4vcOWOk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 156 | Cómo aprender cosas nuevas te convierte en ganador 😎 | video | https://www.youtube.com/watch?v=Axzdt6D7s3c | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 157 | Vamos a vivir 100 años 🤯 | video | https://www.youtube.com/watch?v=TWPfpKt5mc4 | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 158 | Deja de compararte con otros 🫵 | video | https://www.youtube.com/watch?v=6d19y0KNTmE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 159 | Si no inviertes tiempo y plata en ti, ¡no lograrás nada! | video | https://www.youtube.com/watch?v=_Kx2W9hrBAY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 160 | Tu cashflow se va a cortar tarde o temprano 💸 | video | https://www.youtube.com/watch?v=3Sx3nekr9HQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 161 | Es hora de empoderarte y ganar tu lugar 👊 | video | https://www.youtube.com/watch?v=V-JSYFB_dxI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 162 | 💯 Si vamos a vivir 100 años, necesitamos cashflow 💰 | video | https://www.youtube.com/watch?v=7DnF99AeQrs | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 163 | A empate de skills, ¡LA EXPERIENCIA GANA! 👊 | video | https://www.youtube.com/watch?v=oAU_YI7XkRU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 164 | 🤔 ¿CÓMO EVITAR ESTAR MÁS VIEJO, MÁS CARO Y MÁS OBSOLETO? 🤔 | video | https://www.youtube.com/watch?v=WRBM2sqvyvA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 165 | ✂️ SI TRABAJAS EN UNA CORPORACIÓN, EN ALGÚN MOMENTO SE CORTA ✂️ | video | https://www.youtube.com/watch?v=B8M_wpeHfLs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 166 | 🤓 SEA LO QUE SEA QUE QUIERAS APRENDER, ESTÁ GRATIS EN YOUTUBE 🤑 | video | https://www.youtube.com/watch?v=l9NupSt6n0I | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 167 | 🤔 ¿POR QUÉ ALGUIEN COMPRARÍA UN NFT? 🤔 | video | https://www.youtube.com/watch?v=4G-uw_x5p8M | Finanzas personales / inversión |
-| 168 | 🤦🏻‍♂️ NO TE DEFINAS POR TU PASADO 🤦🏻‍♂️ | video | https://www.youtube.com/watch?v=1-p7tp65rgM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 169 | ⏱ ES HORA DE CAMBIAR TU MINDSET ⏱ | video | https://www.youtube.com/watch?v=M2D2jlRFXIQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 170 | The 100-year life: ¿Cómo enfrentarnos al desafío de vivir 100 años? | video | https://www.youtube.com/watch?v=JXwa7RH5ISY | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 171 | "Te van a despedir y lo sabes!" y "Las Top 100" - Adrian Herzkovich weekly recap - November 2019 | video | https://www.youtube.com/watch?v=Fkx29ykzkyU | Otro: presentación del canal, resumen o tema ajeno |
-| 172 | Why do you need to become an entrepreneur, whether you like it or not? | video | https://www.youtube.com/watch?v=cc5CWyWsJsw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 173 | Adrian Herzkovich Weekly Summary | video | https://www.youtube.com/watch?v=LSCh1hLoVSs | Otro: presentación del canal, resumen o tema ajeno |
-| 174 | Be open to different situations! | video | https://www.youtube.com/watch?v=Q0X08u68Ktk | Otro: presentación del canal, resumen o tema ajeno |
-| 175 | Si quieres aprender algo en serio, tienes que pagar por ello 🫰 | short | https://www.youtube.com/watch?v=Xf3Nmn2_NrE | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 176 | Al emprender nunca tienes una dirección clara, pero siempre debes tomar tú las decisiones 🔀 | short | https://www.youtube.com/watch?v=R4_5oQJwnC0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 177 | Por qué necesitas una Company of One para maximizar tus ahorros 💰🧑‍💻 | short | https://www.youtube.com/watch?v=Y1RuPnAs78o | Finanzas personales / inversión |
-| 178 | Aprovecha el tiempo que tienes ahora como empleado para armar tu Plan B | short | https://www.youtube.com/watch?v=NNuTUzQ8CoQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 179 | ¿Cuándo deberías realmente contratar empleados para tu Company of One? 🤝 | short | https://www.youtube.com/watch?v=7iA8Vx475A0 | Contratación de empleados |
-| 180 | Si tienes más de 40, las empresas ya no te quieren contratar | short | https://www.youtube.com/watch?v=t_I9pK6IlYc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 181 | ¿Tu dinero trabaja para ti o solo lo guardas? Por qué deberías estar invirtiéndolo 💹 | short | https://www.youtube.com/watch?v=61tb-D93LSE | Finanzas personales / inversión |
-| 182 | El dinero que no inviertas a partir de hoy, es dinero perdido 💸 | short | https://www.youtube.com/watch?v=6Em2vcgP-cs | Finanzas personales / inversión |
-| 183 | Por qué los CEOs y altos ejecutivos no están realmente preparados para irse de las empresas 👋 | short | https://www.youtube.com/watch?v=bcgXRzZotoM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 184 | La dura realidad: El mercado ya no está fomentando el empleo tradicional ❌🧑‍💼 | short | https://www.youtube.com/watch?v=V0g9UdQ1UyE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 185 | Si tu trabajo de empleado se acabara mañana, ¿Tienes un Plan B? | short | https://www.youtube.com/watch?v=H5F4ZxabO04 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 186 | El modelo de trabajo ya cambió, y a tus +40 estás más que preparado para afrontarlo 💪 | short | https://www.youtube.com/watch?v=nNDzDwS3juo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 187 | Por qué tus posts no llegan a tus seguidores 📉🤔 | short | https://www.youtube.com/watch?v=bvvB8CcnsMI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 188 | Si hoy no usas ChatGPT, estás en desventaja 👎 | short | https://www.youtube.com/watch?v=vz1PcqzLs48 | Herramientas, IA o tecnología, sin foco en ventas |
-| 189 | ¿Sabes quién eres en tu vida profesional más allá de la corporación después de los 40 años? 🤔 | short | https://www.youtube.com/watch?v=00xGbu7bisk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 190 | Tu puesto de CEO te lo pueden quitar, tu experiencia no te la quita nadie ✔️ | short | https://www.youtube.com/watch?v=qv6BnxYHGaQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 191 | Independencia financiera, tu próximo y más importante objetivo 🎯💰 | short | https://www.youtube.com/watch?v=wTIKcZQ5UVk | Finanzas personales / inversión |
-| 192 | No vas a volver a la corporación una vez que te sacan, así que ponte en marcha con tu Plan B 💪 | short | https://www.youtube.com/watch?v=W0eKYh_zEZg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 193 | Toggl, la herramienta perfecta para medir tu rentabilidad 📊 | short | https://www.youtube.com/watch?v=HL892OYli08 | Herramientas, IA o tecnología, sin foco en ventas |
-| 194 | Por qué es importante volvernos emprendedores 40+ y rodearnos de personas similares 🤝 | short | https://www.youtube.com/watch?v=1IRrGH_wmaM | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 195 | La Company of One es 100% tuya pero debes aprender a emplear colaboradores 🤝 | short | https://www.youtube.com/watch?v=0l-cjzuZgzE | Contratación de empleados |
-| 196 | Si dedicas tiempo a aprender algo nuevo todos los días, ya estás ganando 🧠🏆 | short | https://www.youtube.com/watch?v=WkzF49cVvos | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 197 | La corporación es como los Juegos del Hambre, sin ganadores ⚔️ | short | https://www.youtube.com/watch?v=cqWqEwuK9s4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 198 | Pasados tus 40, es esencial mantenerte vital y activo 💪 | short | https://www.youtube.com/watch?v=30qmSE9baJ0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 199 | 🧠 ChatGPT en tu Company of One: ¿apalancamiento inteligente o dependencia silenciosa? 🤖 | short | https://www.youtube.com/watch?v=KVvES2AdKmQ | Herramientas, IA o tecnología, sin foco en ventas |
-| 200 | ¿Quieres ser un emprendedor exitoso? Nunca dejes de aprender cosas nuevas 🧠⚡ | short | https://www.youtube.com/watch?v=wUv9nEahziw | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 201 | La jubilación se está por terminar, pero la reinvención es para siempre ✨ | short | https://www.youtube.com/watch?v=cJJG9zatQcU | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 202 | Necesitas invertir en software y hardware para emprender como un PRO 📹 | short | https://www.youtube.com/watch?v=vUXymcoNnYs | Herramientas, IA o tecnología, sin foco en ventas |
-| 203 | Este es el mejor momento para decir adiós a la vida corporativa y reinventarte profesionalmente 🧑‍💼🔁 | short | https://www.youtube.com/watch?v=yvRxuoKoer4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 204 | De mamut 🦣 a Plus ➕: ya estás en otra liga | short | https://www.youtube.com/watch?v=cLFZcnG6tiE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 205 | ¿La inteligencia artificial podría reemplazar al empleado? 🤔 | short | https://www.youtube.com/watch?v=OUIxRKdU0GU | Herramientas, IA o tecnología, sin foco en ventas |
-| 206 | 🎓 Aprende constantemente y conviértete en líder o referente para otros 😎 | short | https://www.youtube.com/watch?v=1YzCQ7wcOkE | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 207 | 🤝 ¿Contratar más empleados o comprar herramientas digitales? 👨‍💻 | short | https://www.youtube.com/watch?v=ZZYy6_oSaGU | Herramientas, IA o tecnología, sin foco en ventas |
-| 208 | Invierte en IA generativa para potenciar tu creación de contenido ✨📽️ | short | https://www.youtube.com/watch?v=CEkKZ2cMimE | Herramientas, IA o tecnología, sin foco en ventas |
-| 209 | Hoy más que nunca tienes que aprender sobre inteligencia artificial 📚🤖 | short | https://www.youtube.com/watch?v=bK6g_dD1xX8 | Herramientas, IA o tecnología, sin foco en ventas |
-| 210 | ¡Ya no hay excusa! Ahora es mucho más fácil emprender gracias a la IA 🤖 | short | https://www.youtube.com/watch?v=cC8dDEU0nbE | Herramientas, IA o tecnología, sin foco en ventas |
-| 211 | ¿Por qué el empleo no sigue después de los 40? Por la "Gig Economy" 📉🧑‍💼 | short | https://www.youtube.com/watch?v=i6rBxQF7S5c | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 212 | Siempre deberías usar la última versión de ChatGPT 🤖🆙 | short | https://www.youtube.com/watch?v=lR74udau6hU | Herramientas, IA o tecnología, sin foco en ventas |
-| 213 | No estás haciendo bien tus "prompts" de ChatGPT ❌🤖 | short | https://www.youtube.com/watch?v=lbAhAJfMq68 | Herramientas, IA o tecnología, sin foco en ventas |
-| 214 | Por qué debes invertir en buenos equipos de AUDIO para tu negocio 🎧🎙️ | short | https://www.youtube.com/watch?v=l7DNLjLjHtc | Herramientas, IA o tecnología, sin foco en ventas |
-| 215 | ¿Cómo puedes potenciar tu contenido? Creando títulos con ayuda de IA⚡ | short | https://www.youtube.com/watch?v=iBH7gxBS_WE | Herramientas, IA o tecnología, sin foco en ventas |
-| 216 | Mateo Maffia analizando el perfil de TikTok de Adrian The Coach | short | https://www.youtube.com/watch?v=ibXWSoeaRwA | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 217 | Deja de buscar trabajo en la corporación 🛑✋ | short | https://www.youtube.com/watch?v=gLrXtUiwOoQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 218 | Si tienes TikTok, estás un paso adelante del resto 🚀 | short | https://www.youtube.com/watch?v=5jRHOgX0jEY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 219 | Si te despiden, hay un NÚMERO que debes conocer. | short | https://www.youtube.com/watch?v=6PFI-DAxtCg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 220 | El ÉXITO nace del fracaso 🏋️‍♂️ #shorts | short | https://www.youtube.com/watch?v=zLVR2VdBDIQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 221 | Ser empleado tiene fecha de vencimiento 📅 #shorts | short | https://www.youtube.com/watch?v=ac8kfyps78k | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 222 | Para tener éxito en redes sociales, hagan videos hasta el hartazgo 🎦 | short | https://www.youtube.com/watch?v=QlT47q9Vfb4 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 223 | Hoy compites contra todo el mundo, por eso hay que aprender y adelantarse al resto 🎓 | short | https://www.youtube.com/watch?v=nIzySrpWf-8 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 224 | Si no quieres que te despidan a los 40 años, EMPRENDE 💻 | short | https://www.youtube.com/watch?v=rNepHlzFQgE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 225 | Las razones por las que SI O SI necesitas un Plan 🅱 #shorts | short | https://www.youtube.com/watch?v=dOFVYI2ganU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 226 | Haz videos, te guste o no 🎥 #shorts | short | https://www.youtube.com/watch?v=h9UEExNnz74 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 227 | Por qué debes armar tu Plan B mientras todavía eres empleado 👨‍💼 #shorts | short | https://www.youtube.com/watch?v=3jSu4MUwtJE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 228 | ¿Cómo genera información ChatGPT? 🤖 #shorts | short | https://www.youtube.com/watch?v=7RJg2q8Do2M | Herramientas, IA o tecnología, sin foco en ventas |
-| 229 | El cerebro "mágico" detrás de ChatGPT 🧠 #shorts | short | https://www.youtube.com/watch?v=rdw4QxBFtwc | Herramientas, IA o tecnología, sin foco en ventas |
-| 230 | Si eres empleado/a nunca vas a ser millonario 💰 #shorts | short | https://www.youtube.com/watch?v=BrfLBVF0YRg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 231 | Conviértete en un experto en lo que quieras en solo 3 meses 🎓 #shorts | short | https://www.youtube.com/watch?v=2OvuSuQXYSI | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 232 | Hoy vivimos en abundancia, ¡sal a buscar ese dinero! 💰 #shorts | short | https://www.youtube.com/watch?v=BxkVC75CJaM | Finanzas personales / inversión |
-| 233 | Herramientas esenciales para emprender: Zoom Clips 📼 #shorts | short | https://www.youtube.com/watch?v=UnPa67aWVx4 | Herramientas, IA o tecnología, sin foco en ventas |
-| 234 | La combinación de herramientas es la clave para el éxito de tu negocio 👨‍💻 #shorts | short | https://www.youtube.com/watch?v=B1t8N3whgAc | Herramientas, IA o tecnología, sin foco en ventas |
-| 235 | Herramientas esenciales para emprender: Notion ☑ #shorts | short | https://www.youtube.com/watch?v=WBlgvUhSNWU | Herramientas, IA o tecnología, sin foco en ventas |
-| 236 | Si eres un profesional de más de 40 años, tu momento es ahora 👊 #shorts | short | https://www.youtube.com/watch?v=8b_tWTFyLH4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 237 | El futuro del contenido en redes sociales 📺 #shorts | short | https://www.youtube.com/watch?v=AlCtlPmc5Po | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 238 | Por qué debes cambiar tu mindset y armar tu propia compañía 👩‍💻 #shorts | short | https://www.youtube.com/watch?v=h-jJsC1Vts4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 239 | Si eres ex-corporativo, no te aferres al pasado, destaca tus habilidades 💪 #shorts | short | https://www.youtube.com/watch?v=V5r8LuSX6aM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 240 | Tu experiencia profesional no te la quita nadie 🎓 #shorts | short | https://www.youtube.com/watch?v=1FhUNQdsaDQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 241 | Por qué tu tiempo en la corporación se va a ACABAR 🔚 #shorts | short | https://www.youtube.com/watch?v=Li59MtXqWPs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 242 | No trabajes de más y resérvate un tiempo para planificar tu próximo paso 💭 #shorts | short | https://www.youtube.com/watch?v=8LWdYvO9Rfo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 243 | Arma tu plan B mientras estás en la corporación 💼 #shorts | short | https://www.youtube.com/watch?v=Afrc5g0R1oU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 244 | ¿Por qué NO necesitas empleados cuando arrancas tu compañía? 🙅‍♂️ #shorts | short | https://www.youtube.com/watch?v=ZRC6DaMBljU | Contratación de empleados |
-| 245 | A empate de habilidades, la experiencia siempre gana 💪 #shorts | short | https://www.youtube.com/watch?v=Ru7Svs0Qogs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 246 | ¿Eres un boomer o un Plus? 🤔 #shorts | short | https://www.youtube.com/watch?v=Mdyl1do8xnA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 247 | Comunidades como 40+ League son la puerta al futuro del trabajo 💻 #shorts | short | https://www.youtube.com/watch?v=_QCHccLsD-Q | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 248 | Aprender a usar ChatGPT es tan importante como saber escribir ⌨ #shorts | short | https://www.youtube.com/watch?v=GCJEVGI0bZ8 | Herramientas, IA o tecnología, sin foco en ventas |
-| 249 | Estudia temáticas como la longevidad y adelántate al futuro 🎓 #shorts | short | https://www.youtube.com/watch?v=p0wjmOVaoCU | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 250 | Vas a vivir mucho más tiempo del que te imaginas ⌛ #shorts | short | https://www.youtube.com/watch?v=6wTRr9mRaHo | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 251 | Hoy puedes aprender lo que sea, cuando quieras, desde donde sea 👨‍💻 #shorts | short | https://www.youtube.com/watch?v=2mqNuStpjMA | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 252 | ¿Cómo aprender sobre blockchain de forma rápida? 🔗 #shorts | short | https://www.youtube.com/watch?v=069PFySUoHg | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 253 | Las últimas tendencias están en Instagram, TikTok y YouTube 📱 #shorts | short | https://www.youtube.com/watch?v=Ji6z-jGOADI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
-| 254 | Una vez que pasas de boomer a Plus, nada te detiene 🔥 #shorts | short | https://www.youtube.com/watch?v=bg4p04cAq8g | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 255 | Ya nadie usa email, empieza a usar Slack 💬 #shorts | short | https://www.youtube.com/watch?v=gcMyab-6oIA | Herramientas, IA o tecnología, sin foco en ventas |
-| 256 | Ser experto en algo no alcanza ¡Actualízate! 🆙 #shorts | short | https://www.youtube.com/watch?v=pHaXnBySpLs | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 257 | El verdadero desafío de la reinvención profesional 💡 #shorts | short | https://www.youtube.com/watch?v=9G5MHRsMnrc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 258 | Nunca dejes de aprender y estarás preparado para el futuro 🧠 #shorts | short | https://www.youtube.com/watch?v=ImtNdQfaweo | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 259 | Si eres 40+, adopta los nuevos modelos de empleo 💻 #shorts | short | https://www.youtube.com/watch?v=l_aHiOxiCaE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 260 | Aprovecha tu trabajo para planificar tu futura compañía 💭 #shorts | short | https://www.youtube.com/watch?v=pZKcJv44pkI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 261 | Aprendamos a aprender 🎓 #shorts | short | https://www.youtube.com/watch?v=XH8jmFzJ_es | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 262 | Vas a tener que contratar empleados más jóvenes 👦 #shorts | short | https://www.youtube.com/watch?v=MGpY9C65wHo | Contratación de empleados |
-| 263 | El dinero tal como lo conocemos, es cosa del pasado 💶 #shorts | short | https://www.youtube.com/watch?v=kzj8Oy6d3U0 | Finanzas personales / inversión |
-| 264 | El efecto 40+ League 🌟 #shorts | short | https://www.youtube.com/watch?v=FltssnPfnlo | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 265 | Actualiza tu experiencia como si fueras un coche clásico 🚗 #shorts | short | https://www.youtube.com/watch?v=rcrAszI4Yfg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 266 | ⏩ Es preferible avanzar lento, pero ir en la dirección correcta 🔀 #shorts | short | https://www.youtube.com/watch?v=cxFJtrdOFog | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 267 | 💨 Tus empleados se van a ir, prepárate para ello ✋ #shorts | short | https://www.youtube.com/watch?v=d7uRSA1Cc1M | Contratación de empleados |
-| 268 | Aprende cosas que aumenten tu valor y el de tu negocio 🔝 #shorts | short | https://www.youtube.com/watch?v=d3uvczAF3u0 | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 269 | ➕ Combina tu experiencia laboral con nuevas habilidades 💪 #shorts | short | https://www.youtube.com/watch?v=OZUSpMawUAw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 270 | Diseña tu vida y tu futuro 🖌🔜 #shorts | short | https://www.youtube.com/watch?v=kMCYzj31F2Y | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 271 | Cambia tu mindset y conviértete en un PLUS ⚡➕ #shorts | short | https://www.youtube.com/watch?v=z7EBYaD_O4w | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 272 | Si estás con perdedores, perdés 😔 Si estás con ganadores, ganás ✊ #shorts | short | https://www.youtube.com/watch?v=ltUaN2Rmw1U | Networking motivacional (rodearse de personas), sin foco en clientes |
-| 273 | Reinventémonos tantas veces como sea necesario 🔄 #shorts | short | https://www.youtube.com/watch?v=gBgIfv7Dm9E | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 274 | Un nuevo paradigma global, nuevas oportunidades laborales #shorts | short | https://www.youtube.com/watch?v=X8rZeDNoLvI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 275 | ¡NO te definas por tu posición en la empresa! #shorts | short | https://www.youtube.com/watch?v=JgGdJMAUCfI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
-| 276 | Estemos informados y entrenados en esos temas que nadie más conoce 🤓 #shorts | short | https://www.youtube.com/watch?v=YZNmpy_CrYA | Aprendizaje / reskilling, no trata ventas ni clientes |
-| 277 | Si vamos a vivir 100 años, necesitamos cashflow 💰 #shorts | short | https://www.youtube.com/watch?v=zxkIcn2xB6M | Longevidad / vida de 100 años, no trata ventas ni clientes |
-| 278 | Cómo Cerrar Clientes Millonarios (Manual de Ventas B2B) | entrevista (Startupeable) | https://www.youtube.com/watch?v=-ZNJtMgKEg8 | No es él: el entrevistado es Mateo Cavasotto |
-| 279 | Esto No me gusta pero me da 10.000€ al mes | video (Víctor Heras Media) | https://www.youtube.com/watch?v=IAJgs20_p2U | No es él: lo devolvió el deep research de NotebookLM pero es de otra persona |
-| 280 | UN MENSAJE PARA LOS JÓVENES: ÉSTO NOS HARÁ MÁS FUERTES Y MÁS PACIENTES | entrevista (Corresponsal de Paz) | https://www.youtube.com/watch?v=Hh78cgyw0-o | Es él, pero habla de la pandemia y los jóvenes; no trata ventas ni clientes |
-| 281 | Radium FM - Cumbre Internacional Jóvenes Líderes: Adrian Herzkovich | entrevista (FMRadium, 2011) | https://www.youtube.com/watch?v=YZk24f2hOAM | Es él como ejecutivo de Fox (2011); habla de valores y metas, no de ventas ni clientes |
+| 1 | Puedes y debes aprender todo lo que puedas de los mejores expertos totalmente gratis en YouTube 📺🧠 | video | https://youtu.be/A6gdi3A1vog | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 2 | Si no quieres que tu cashflow pase a cero, la solución es emprender 🧑‍💻 | video | https://youtu.be/IW-Rc31mTNo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 3 | ¿Cuánto tiempo tarda reinventarse profesionalmente después de los 40 años? 🔁 | video | https://youtu.be/3BBX3l0yfFc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 4 | 3 paradigmas que te harán cambiar tu mindset sobre el empleo 🧠💼 | video | https://youtu.be/LJZ7vofIOVI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 5 | El barco corporativo siempre se hunde así que prepara tu salvavidas al empezar a emprender 🛟 | video | https://youtu.be/0ZTnSawXRKc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 6 | Los 3 cambios de paradigmas que van a cambiar tu vida profesional 🙀 | video | https://youtu.be/1Ace0Z8ljKg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 7 | ¡No tengo tiempo! 🤦🏻 (¿te suena conocido?) | video | https://youtu.be/OsDmKvy9HvU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 8 | Ser empleado corporativo es como ser un yogur: tienes fecha de vencimiento ❌ | video | https://youtu.be/3mT7Upg47lQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 9 | Por qué la expectativa de vida se está alargando 👴 | video | https://youtu.be/Ks2H9i38HYc | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 10 | Crear tu propio GPT puede ser tu nueva ventaja competitiva 💪 | video | https://youtu.be/XraFFIezSPE | Herramientas, IA o tecnología, sin foco en ventas |
+| 11 | El mejor momento para emprender es cuando aún estás en la corporación 🧑‍💻 | video | https://youtu.be/cs8V_GYLY7U | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 12 | ¿Y si te dijera que hoy puedes aprender lo que quieras? 🎓 | video | https://youtu.be/wDejMWJeCMs | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 13 | La razón por la que el empleo está en extinción 💥 | video | https://youtu.be/yYpUfYnnzcQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 14 | Si tienes más de 40, vas a tener que generar cashflow para tus próximos 50 años 💰 | video | https://youtu.be/cvK3fnHBysA | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 15 | Esta es la clave del éxito profesional 🙌 | video | https://youtu.be/ytisZHGihUQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 16 | Adapta tus conocimientos y actualiza tus habilidades a cada etapa de tu vida profesional 🔁 | video | https://youtu.be/iEiuxYcgqkk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 17 | No quemes tu energía ni tu tiempo trabajando de más en la corporación 🔥 | video | https://youtu.be/L-_Q4b_ZlCw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 18 | Notion: La única herramienta digital que vas a necesitar | video | https://youtu.be/aMnFITGz2ck | Herramientas, IA o tecnología, sin foco en ventas |
+| 19 | 🔥 Tomar el control de tu carrera no es una utopía, es una decisión 💪 | video | https://youtu.be/S4CQFiKd7ZY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 20 | Hoy tienes que aprender más antes que los demás para alcanzar el éxito 🎓 | video | https://youtu.be/qTOuLnLtjuM | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 21 | Los 3 cambios de paradigma que harán que te reinventes YA | video | https://youtu.be/zie_47yXzcU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 22 | El mercado está cambiando y no espera a nadie, pero tu experiencia te salvará 👊 | video | https://youtu.be/wYsKXxWo6bI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 23 | La vida en la corporación se acaba, pero la reinvención es para siempre ✅ | video | https://youtu.be/sCfJunjheZU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 24 | Por qué NO deberías financiar una nueva "start-up" ❌ | video | https://youtu.be/7uvfkDB81uc | Finanzas personales / inversión |
+| 25 | Hoy puedes liderar en TikTok teniendo +40 años 🤳 | video | https://youtu.be/3XxobFbh78A | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 26 | Cómo empecé mi reinvención y pasé de ser corporativo a emprendedor 👨‍💻 | video | https://youtu.be/5COSZ16Pv6M | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 27 | Si eres un empleado corporativo de más de 40, necesitas empezar tu reinvención profesional ⚡ | video | https://youtu.be/fVLVebjZEi8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 28 | Escapa a la obsolescencia estudiando y aprendiendo todos los días 🧠 | video | https://youtu.be/js4Nw6t-8YE | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 29 | Invierte en hardware y equipos profesionales para destacar en el mercado 💻 | video | https://youtu.be/2S8xZgv4Ei4 | Herramientas, IA o tecnología, sin foco en ventas |
+| 30 | Si comienzas a emprender, tus ingresos no tendrán límite 🚀 | video | https://youtu.be/Q-7P6Vf1lRY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 31 | El futuro de la creación de contenido en redes sociales son los videos 🎥 | video | https://youtu.be/hEZfU2Sr6KQ | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 32 | ¿Sabías que hoy vivimos en la era de la abundancia? ¡Cambia tu mindset y sal a buscarla! 💰 | video | https://youtu.be/URXGJeByusw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 33 | 💰 ¿Cómo generar ingresos si te despiden después de los 40 años? 🤔 | video | https://youtu.be/_3gjlnKA-eQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 34 | La fórmula para ganar mucha plata sin tener que trabajar 😳 | video | https://youtu.be/0AMULSO1GyM | Finanzas personales / inversión |
+| 35 | El único trabajo del que no te van a despedir luego de los 40 años 👊 | video | https://youtu.be/hJNyktgH1iU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 36 | Potencia tu negocio con el poder de las automatizaciones 💪 | video | https://youtu.be/S7BDp4Eaf4I | Herramientas, IA o tecnología, sin foco en ventas |
+| 37 | ¿Qué te depara después de los 40 años? Empezar a planificar tus próximos 50 💪 | video | https://youtu.be/znt9EKY2zS8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 38 | Si eres corporativo o empresario, tienes que emprender y aprender 🎓 | video | https://youtu.be/oOPFfKjZmk4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 39 | 📱 Gestionar UNA cuenta de TikTok ya es una odisea… Dos es casi una misión imposible ❌ | video | https://youtu.be/IFFXPxbaGP0 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 40 | La señal más obvia de que eres exitoso en una red social | video | https://youtu.be/ewN3MAWgqmk | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 41 | Si eres 40+, ahora es el mejor momento para estar en TikTok 📱 | video | https://youtu.be/4Nm-ShmKysk | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 42 | Cómo funciona el algoritmo de TikTok y por qué deberías aprovecharlo para potenciar tu contenido ⚡ | video | https://youtu.be/X6DQ_oc9q-s | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 43 | Conviértete en la estrella de TikTok en tu campo de expertise 🌟 | video | https://youtu.be/bbbe04dYB0k | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 44 | La estrategia clave que me permitió crecer en TikTok 💪 | video | https://youtu.be/aJfoQYC5IvY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 45 | TikTok está cambiando y ahora es el mejor momento para unirte 📱 | video | https://youtu.be/uX87iGM_bbY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 46 | Qué debes hacer cuando la corporación te quiere de vuelta 🔙 | video | https://youtu.be/RPXtqI_6g8E | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 47 | Esta es la mejor forma de invertir tus ahorros 💰 | video | https://youtu.be/FNz8Jwfmg6I | Finanzas personales / inversión |
+| 48 | Soy Adrian Herzkovich, The Coach ¡Bienvenidos a mi canal! Aquí te voy a cambiar la vida 👊 | video | https://youtu.be/ZT-Xt_7Tsqs | Otro: presentación del canal, resumen o tema ajeno |
+| 49 | Descubre una nueva forma de aprender 🎓✨ | video | https://youtu.be/AMmeymNIn9A | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 50 | No importa quién hayas sido en tu pasado, hoy puedes aprender lo que quieras 👨‍🎓 | video | https://youtu.be/U5aW494LWFo | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 51 | Invierte más en tecnología útil y haz la diferencia 👨‍💻 | video | https://youtu.be/x0HTKWop8bU | Herramientas, IA o tecnología, sin foco en ventas |
+| 52 | ChatGPT puede mejorar tu aprendizaje fácilmente 🧠 | video | https://youtu.be/b42CtqFYfKw | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 53 | ¿Estás preparado para vivir 100 años? Porque te va a costar más 💲 | video | https://youtu.be/WLugPgSg97I | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 54 | La experiencia te da el Plus para ser un emprendedor exitoso 🚀 | video | https://youtu.be/sin5cGAwwgk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 55 | La vida corporativa tiene fecha de vencimiento, y por eso debes emprender 💻 | video | https://youtu.be/ws-ICNdiILo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 56 | No temas a las nuevas tecnologías, aprovéchalas para mejorar tu negocio 👨‍💻 | video | https://youtu.be/QSxCyH5dVlg | Herramientas, IA o tecnología, sin foco en ventas |
+| 57 | Vas a vivir más y vas a tener que generar más dinero por más tiempo ⏳ | video | https://youtu.be/a9MdIgppYdQ | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 58 | ¿Qué ventaja tienes por sobre la gente más joven? La experiencia ✨ | video | https://youtu.be/RgMx90wFLoc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 59 | Si eres empleado, ¿Tienes un Plan 🅱? | video | https://youtu.be/X2dVJ7hMeRI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 60 | ¿Cómo puedes cubrir tu costo de vida? Invierte tu dinero 💰 | video | https://youtu.be/Ig-zCiFhds8 | Finanzas personales / inversión |
+| 61 | Si eres corporativo, empresario o emprendedor, tienes que estar en TikTok 📱 | video | https://youtu.be/VjcaOQLPvMI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 62 | Hoy eres una víctima de la Gig Economy 📉 | video | https://youtu.be/bxnv__PSx2M | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 63 | Hoy puedes vivir hasta los 100 años ¿Estás preparado? 💯 | video | https://youtu.be/bH-33p_gw0Q | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 64 | 👔 Corporativos vs. Empresarios 👨‍💻 | video | https://youtu.be/daCsOAkso-0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 65 | 🎯 Rodéate de personas que ya lograron lo que tú quieres 🎯 | video | https://youtu.be/TSbHJZsCAfE | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 66 | Las personas son el recurso más útil (y costoso) de tu compañía 👨‍💼 | video | https://youtu.be/eAQj_lscKQY | Contratación de empleados |
+| 67 | Si dejas la corporación, reduce tus gastos YA 💸 | video | https://youtu.be/TUKulwGHT54 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 68 | Por qué debes rodearte de personas diversas que te inspiren a mejorar 🤝 | video | https://youtu.be/RAj-0EtUTB4 | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 69 | Corporativos 🆚 empresarios | video | https://youtu.be/4EThsTSGYsI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 70 | La reinvención profesional implica cambiar tus objetivos y prioridades | video | https://youtu.be/KJuCKASJz5o | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 71 | Las herramientas esenciales para empezar a emprender 👨‍💻 | video | https://youtu.be/wGvL-uYvoII | Herramientas, IA o tecnología, sin foco en ventas |
+| 72 | Demuestra tu verdadero valor, no te aferres al pasado 🔙 | video | https://youtu.be/48E4WqWI_Io | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 73 | ¿Cómo cambiar tu mindset siendo 40+? 🧠 | video | https://youtu.be/xsRg6tI8-tk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 74 | Luego de los 40 años, no hay futuro en la corporación 🛑 | video | https://youtu.be/crvzYwraKiI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 75 | Hoy en día es crucial saber reinventarse 🔁 | video | https://youtu.be/knyofRbJBzc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 76 | No esperes más para empezar a emprender 🙌 | video | https://youtu.be/JRAOwOEqA70 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 77 | ¿Hasta qué edad vas a tener que trabajar si vives 100 años? 🤔 | video | https://youtu.be/HwaANnz3ThI | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 78 | Si eres mayor de 40 años, es esencial rodearte de personas que te motiven 💪 | video | https://youtu.be/_8LRiv8uxho | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 79 | El verdadero valor está en aprender a superarte 🏋️‍♂️ | video | https://youtu.be/fxIa_DMaGJg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 80 | Calcula tus gastos, planifica y diversifica tus ahorros e inversiones a futuro 📈 | video | https://youtu.be/weWZ1TwQ9Vk | Finanzas personales / inversión |
+| 81 | Empieza hoy tu reinvención y vive hasta los 100 años 💯 | video | https://youtu.be/RYksLtkoMX4 | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 82 | Conviértete en el CEO de tu propia vida | video | https://youtu.be/8fvexo4XOFI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 83 | Los empleados que contrates se van a ir tarde o temprano (y debes prepararte) | video | https://youtu.be/35l2BVZ9MVc | Contratación de empleados |
+| 84 | Eres el promedio de las personas que te rodean 🤝 | video | https://youtu.be/IshYAk3fRZc | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 85 | Compra el tiempo de otros para ganar más tiempo y más plata | video | https://youtu.be/-UnalfymNWA | Contratación de empleados |
+| 86 | Adopta la mentalidad de abundancia y captura el dinero que necesitas | video | https://youtu.be/OHa60MdXzZ0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 87 | Tu experiencia pasada no define tu futuro. Tú decides cómo aprovecharla 🔜 | video | https://youtu.be/epPZvypnGhk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 88 | Si tienes más de 40 años, las compañías ya no te quieren 😰 #shorts | video | https://youtu.be/Q3WggxR13jg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 89 | Usar ChatGPT es tan fácil como hablar con una persona 🗣 | video | https://youtu.be/OTRueQo5Gto | Herramientas, IA o tecnología, sin foco en ventas |
+| 90 | Ser un experto no alcanza, necesitas actualizarte constantemente 🧠 | video | https://youtu.be/KoO6Do2uERg | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 91 | Combina tus habilidades únicas con el poder de la inteligencia artificial 👩‍💻 | video | https://youtu.be/4n1SyhQD-H0 | Herramientas, IA o tecnología, sin foco en ventas |
+| 92 | Crea imágenes desde cero con inteligencia artificial y potencia tu marca personal | video | https://youtu.be/wk7yvRCk4nc | Herramientas, IA o tecnología, sin foco en ventas |
+| 93 | Haz la diferencia al utilizar múltiples herramientas digitales para impulsar tu negocio | video | https://youtu.be/ZxOoVHHLa-A | Herramientas, IA o tecnología, sin foco en ventas |
+| 94 | 100 años de vida implica más inversiones y ahorros | video | https://youtu.be/UbjZGT6Jk8Q | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 95 | De alto ejecutivo a emprendedor 👊 | video | https://youtu.be/7Hn8RE8RF2s | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 96 | Usa ChatGPT Plus y vuélvete más eficiente ⚡ | video | https://youtu.be/yYzRYi9k8pY | Herramientas, IA o tecnología, sin foco en ventas |
+| 97 | Vas a vivir mucho más de lo que imaginas ¿Estás preparado? | video | https://youtu.be/aR-3p0WWTfY | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 98 | Hoy puedes aprender lo que quieras, cuando quieras, desde donde sea | video | https://youtu.be/8XGOeANGGC4 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 99 | Los dos cambios más importantes que anticipan el futuro del trabajo | video | https://youtu.be/slzPrUDaJvE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 100 | Tus empleados se van a ir, adáptate o estáncate 🔁 | video | https://youtu.be/ohTeaPjfnwI | Contratación de empleados |
+| 101 | El lado oscuro de la vida corporativa 🏢 | video | https://youtu.be/ymea2pfwDzA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 102 | Usa tu tiempo en la corporación para invertir en ti mismo | video | https://youtu.be/aFmo2om76sY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 103 | El recurso más importante de un 40+ es la voluntad de aprender | video | https://youtu.be/7FYguUhiYX8 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 104 | ¿Cómo escapar de la matrix luego de los 40? | video | https://youtu.be/4u7wlh5J3co | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 105 | Rodéate de personas diversas que te guíen y te inspiren 💡 | video | https://youtu.be/tdeHKheavVs | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 106 | Haz el extra esfuerzo en aprender y diagrama tu futuro | video | https://youtu.be/qaV4zO8Z5nM | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 107 | La importancia del "reskilling" | video | https://youtu.be/jFJNr7H65CM | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 108 | La vida corporativa tiene obsolescencia programada 😱 | video | https://youtu.be/HtbXPANhxoc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 109 | La experiencia es tu mayor recurso para llegar al éxito | video | https://youtu.be/_tTPXiKTAp4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 110 | Estudiar y aprender algo nuevo todos los días es tu camino al éxito | video | https://youtu.be/SGJhZaWWVkQ | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 111 | Nunca es tarde para aprender sobre nuevas tecnologías | video | https://youtu.be/ZYo62baW6i8 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 112 | Empieza a usar Slack y mejora tu comunicación | video | https://youtu.be/nhFXsWnheAU | Herramientas, IA o tecnología, sin foco en ventas |
+| 113 | 40+ League LinkedIn Live - Una vida de 100 años ¡Prepárate para el desafío! | video | https://youtu.be/wAC69t8ia7g | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 114 | Dibuja imágenes con tus palabras | video | https://youtu.be/rtoj04nlZ8k | Herramientas, IA o tecnología, sin foco en ventas |
+| 115 | Introducción a ChatGPT y cómo puede transformar tu negocio - 2da Parte | video | https://youtu.be/LL3-H6wHF9E | Herramientas, IA o tecnología, sin foco en ventas |
+| 116 | Midjourney: Crea imágenes con inteligencia artificial | video | https://youtu.be/kRF7JBxP3uQ | Herramientas, IA o tecnología, sin foco en ventas |
+| 117 | ChatGPT es tu nuevo empleado ¡Aprovéchalo al máximo! | video | https://youtu.be/wou41xtLfXY | Herramientas, IA o tecnología, sin foco en ventas |
+| 118 | ChatGPT 3.5 VS. ChatGPT 4 ¿Cuál es la mejor opción? | video | https://youtu.be/G7K2VhJBwho | Herramientas, IA o tecnología, sin foco en ventas |
+| 119 | Combina ChatGPT con otras herramientas y mejora tu contenido | video | https://youtu.be/5-aSHmjSaw4 | Herramientas, IA o tecnología, sin foco en ventas |
+| 120 | Ser curioso e inquieto es tu mayor ventaja | video | https://youtu.be/hrJOUpUiPyE | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 121 | En el mundo actual, la reinvención es una necesidad | video | https://youtu.be/SXB-SbhSEs0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 122 | Introducción a ChatGPT y cómo puede transformar tu negocio | video | https://youtu.be/G0XgJEL-aIU | Herramientas, IA o tecnología, sin foco en ventas |
+| 123 | Preocúpate y ¡Ocúpate! Por qué debes mantenerte activo y actualizado | video | https://youtu.be/Z0Jg5DCJ__I | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 124 | El dinero como lo conocemos es cosa del pasado | video | https://youtu.be/IouB7g6FbNk | Finanzas personales / inversión |
+| 125 | ¿Cómo prepararte para una vida de 100 años? | video | https://youtu.be/_EKFmxpmo4A | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 126 | Si se corta el cashflow ¿Tienes un Plan B? | video | https://youtu.be/UfuH5ckAG64 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 127 | El empleo como lo conocemos está por desaparecer | video | https://youtu.be/4DkpXsNtGLI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 128 | Adelántate a los cambios del futuro | video | https://youtu.be/SnlZ5N6vlrI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 129 | Utiliza ChatGPT en su justa medida | video | https://youtu.be/o4nwGAYTpng | Herramientas, IA o tecnología, sin foco en ventas |
+| 130 | Las ventajas de ser early adopter de ChatGPT | video | https://youtu.be/7UXHJM7UKdg | Herramientas, IA o tecnología, sin foco en ventas |
+| 131 | Todo cambio en tu vida profesional es una oportunidad para crecer | video | https://youtu.be/Niqe0XoKDTk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 132 | ChatGPT es tan adaptable como accesible | video | https://youtu.be/6OF77K9b32M | Herramientas, IA o tecnología, sin foco en ventas |
+| 133 | ¿Cambiar el auto o comprar un Bitcoin? | video | https://youtu.be/tQGjdBKFIs0 | Finanzas personales / inversión |
+| 134 | Empieza tu propio negocio con ChatGPT | video | https://youtu.be/V3fIs-u-KpA | Herramientas, IA o tecnología, sin foco en ventas |
+| 135 | Si vas a vivir 100 años, anímate a reinventarte 🔄 | video | https://youtu.be/OsOY91uyCuY | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 136 | ¿Qué es y cómo funciona ChatGPT? | video | https://youtu.be/XgFxC5vjRlM | Herramientas, IA o tecnología, sin foco en ventas |
+| 137 | Rodéate de personas con ganas de aprender algo nuevo todo el tiempo | video | https://youtu.be/ppKO-g6cS4I | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 138 | Para armar tu compañía, debes cambiar tu mindset | video | https://youtu.be/FJtvghOZlgo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 139 | La experiencia te hace invencible | video | https://youtu.be/3rxAhBxCJGA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 140 | Company of One: Tu bote salvavidas | video | https://youtu.be/6zEY6ul7nHY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 141 | No importa ir rápido, sino ir en la dirección correcta | video | https://youtu.be/by9y7dWkjNQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 142 | El mejor momento para emprender es ¡AHORA! 🔥 | video | https://youtu.be/5HJdWfQq3uw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 143 | ¿Cómo financiar tu Plan B? | video | https://youtu.be/Lm8uyJE3Uto | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 144 | Conviértete en una máquina de aprender | video | https://youtu.be/G3h3kuh8yy4 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 145 | Si eres corporativo/a, ten en mente un Plan 🅱 | video | https://youtu.be/ij0CZmpAD1I | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 146 | Experiencia + Nuevas Skills = Éxito | video | https://youtu.be/NVS9d8fUcBw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 147 | Rodéate de ganadores y te llevarán al éxito | video | https://youtu.be/4hA-_GXfkAk | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 148 | Si tienes más de 40 años, no seas un dinosaurio 🦖 | video | https://youtu.be/6HVfH6dXEyk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 149 | Si el mundo no para, no pares de aprender | video | https://youtu.be/KOqAAf_twS4 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 150 | ¡Planifica tu futuro YA! 🕓 | video | https://youtu.be/e4FTzxgUfy8 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 151 | ¿Sabés que puedes convertirte en un superhéroe? 🦸🏻‍♂️ | video | https://youtu.be/0yLw5_BcVm0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 152 | Tienes que contratar a empleados jóvenes, aunque te duela | video | https://youtu.be/qxrqxETPdYo | Contratación de empleados |
+| 153 | Combina tu experiencia con nuevas skills y serás imparable | video | https://youtu.be/ZwPl6O-OWt4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 154 | Cómo cambiar tu mindset y diseñar tu vida | video | https://youtu.be/dIwqXwl0LqE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 155 | Si eres 40+, esto te interesa | video | https://youtu.be/0MfK4vcOWOk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 156 | Cómo aprender cosas nuevas te convierte en ganador 😎 | video | https://youtu.be/Axzdt6D7s3c | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 157 | Vamos a vivir 100 años 🤯 | video | https://youtu.be/TWPfpKt5mc4 | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 158 | Deja de compararte con otros 🫵 | video | https://youtu.be/6d19y0KNTmE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 159 | Si no inviertes tiempo y plata en ti, ¡no lograrás nada! | video | https://youtu.be/_Kx2W9hrBAY | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 160 | Tu cashflow se va a cortar tarde o temprano 💸 | video | https://youtu.be/3Sx3nekr9HQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 161 | Es hora de empoderarte y ganar tu lugar 👊 | video | https://youtu.be/V-JSYFB_dxI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 162 | 💯 Si vamos a vivir 100 años, necesitamos cashflow 💰 | video | https://youtu.be/7DnF99AeQrs | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 163 | A empate de skills, ¡LA EXPERIENCIA GANA! 👊 | video | https://youtu.be/oAU_YI7XkRU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 164 | 🤔 ¿CÓMO EVITAR ESTAR MÁS VIEJO, MÁS CARO Y MÁS OBSOLETO? 🤔 | video | https://youtu.be/WRBM2sqvyvA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 165 | ✂️ SI TRABAJAS EN UNA CORPORACIÓN, EN ALGÚN MOMENTO SE CORTA ✂️ | video | https://youtu.be/B8M_wpeHfLs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 166 | 🤓 SEA LO QUE SEA QUE QUIERAS APRENDER, ESTÁ GRATIS EN YOUTUBE 🤑 | video | https://youtu.be/l9NupSt6n0I | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 167 | 🤔 ¿POR QUÉ ALGUIEN COMPRARÍA UN NFT? 🤔 | video | https://youtu.be/4G-uw_x5p8M | Finanzas personales / inversión |
+| 168 | 🤦🏻‍♂️ NO TE DEFINAS POR TU PASADO 🤦🏻‍♂️ | video | https://youtu.be/1-p7tp65rgM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 169 | ⏱ ES HORA DE CAMBIAR TU MINDSET ⏱ | video | https://youtu.be/M2D2jlRFXIQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 170 | The 100-year life: ¿Cómo enfrentarnos al desafío de vivir 100 años? | video | https://youtu.be/JXwa7RH5ISY | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 171 | "Te van a despedir y lo sabes!" y "Las Top 100" - Adrian Herzkovich weekly recap - November 2019 | video | https://youtu.be/Fkx29ykzkyU | Otro: presentación del canal, resumen o tema ajeno |
+| 172 | Why do you need to become an entrepreneur, whether you like it or not? | video | https://youtu.be/cc5CWyWsJsw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 173 | Adrian Herzkovich Weekly Summary | video | https://youtu.be/LSCh1hLoVSs | Otro: presentación del canal, resumen o tema ajeno |
+| 174 | Be open to different situations! | video | https://youtu.be/Q0X08u68Ktk | Otro: presentación del canal, resumen o tema ajeno |
+| 175 | Si quieres aprender algo en serio, tienes que pagar por ello 🫰 | short | https://youtu.be/Xf3Nmn2_NrE | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 176 | Al emprender nunca tienes una dirección clara, pero siempre debes tomar tú las decisiones 🔀 | short | https://youtu.be/R4_5oQJwnC0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 177 | Por qué necesitas una Company of One para maximizar tus ahorros 💰🧑‍💻 | short | https://youtu.be/Y1RuPnAs78o | Finanzas personales / inversión |
+| 178 | Aprovecha el tiempo que tienes ahora como empleado para armar tu Plan B | short | https://youtu.be/NNuTUzQ8CoQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 179 | ¿Cuándo deberías realmente contratar empleados para tu Company of One? 🤝 | short | https://youtu.be/7iA8Vx475A0 | Contratación de empleados |
+| 180 | Si tienes más de 40, las empresas ya no te quieren contratar | short | https://youtu.be/t_I9pK6IlYc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 181 | ¿Tu dinero trabaja para ti o solo lo guardas? Por qué deberías estar invirtiéndolo 💹 | short | https://youtu.be/61tb-D93LSE | Finanzas personales / inversión |
+| 182 | El dinero que no inviertas a partir de hoy, es dinero perdido 💸 | short | https://youtu.be/6Em2vcgP-cs | Finanzas personales / inversión |
+| 183 | Por qué los CEOs y altos ejecutivos no están realmente preparados para irse de las empresas 👋 | short | https://youtu.be/bcgXRzZotoM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 184 | La dura realidad: El mercado ya no está fomentando el empleo tradicional ❌🧑‍💼 | short | https://youtu.be/V0g9UdQ1UyE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 185 | Si tu trabajo de empleado se acabara mañana, ¿Tienes un Plan B? | short | https://youtu.be/H5F4ZxabO04 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 186 | El modelo de trabajo ya cambió, y a tus +40 estás más que preparado para afrontarlo 💪 | short | https://youtu.be/nNDzDwS3juo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 187 | Por qué tus posts no llegan a tus seguidores 📉🤔 | short | https://youtu.be/bvvB8CcnsMI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 188 | Si hoy no usas ChatGPT, estás en desventaja 👎 | short | https://youtu.be/vz1PcqzLs48 | Herramientas, IA o tecnología, sin foco en ventas |
+| 189 | ¿Sabes quién eres en tu vida profesional más allá de la corporación después de los 40 años? 🤔 | short | https://youtu.be/00xGbu7bisk | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 190 | Tu puesto de CEO te lo pueden quitar, tu experiencia no te la quita nadie ✔️ | short | https://youtu.be/qv6BnxYHGaQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 191 | Independencia financiera, tu próximo y más importante objetivo 🎯💰 | short | https://youtu.be/wTIKcZQ5UVk | Finanzas personales / inversión |
+| 192 | No vas a volver a la corporación una vez que te sacan, así que ponte en marcha con tu Plan B 💪 | short | https://youtu.be/W0eKYh_zEZg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 193 | Toggl, la herramienta perfecta para medir tu rentabilidad 📊 | short | https://youtu.be/HL892OYli08 | Herramientas, IA o tecnología, sin foco en ventas |
+| 194 | Por qué es importante volvernos emprendedores 40+ y rodearnos de personas similares 🤝 | short | https://youtu.be/1IRrGH_wmaM | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 195 | La Company of One es 100% tuya pero debes aprender a emplear colaboradores 🤝 | short | https://youtu.be/0l-cjzuZgzE | Contratación de empleados |
+| 196 | Si dedicas tiempo a aprender algo nuevo todos los días, ya estás ganando 🧠🏆 | short | https://youtu.be/WkzF49cVvos | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 197 | La corporación es como los Juegos del Hambre, sin ganadores ⚔️ | short | https://youtu.be/cqWqEwuK9s4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 198 | Pasados tus 40, es esencial mantenerte vital y activo 💪 | short | https://youtu.be/30qmSE9baJ0 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 199 | 🧠 ChatGPT en tu Company of One: ¿apalancamiento inteligente o dependencia silenciosa? 🤖 | short | https://youtu.be/KVvES2AdKmQ | Herramientas, IA o tecnología, sin foco en ventas |
+| 200 | ¿Quieres ser un emprendedor exitoso? Nunca dejes de aprender cosas nuevas 🧠⚡ | short | https://youtu.be/wUv9nEahziw | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 201 | La jubilación se está por terminar, pero la reinvención es para siempre ✨ | short | https://youtu.be/cJJG9zatQcU | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 202 | Necesitas invertir en software y hardware para emprender como un PRO 📹 | short | https://youtu.be/vUXymcoNnYs | Herramientas, IA o tecnología, sin foco en ventas |
+| 203 | Este es el mejor momento para decir adiós a la vida corporativa y reinventarte profesionalmente 🧑‍💼🔁 | short | https://youtu.be/yvRxuoKoer4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 204 | De mamut 🦣 a Plus ➕: ya estás en otra liga | short | https://youtu.be/cLFZcnG6tiE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 205 | ¿La inteligencia artificial podría reemplazar al empleado? 🤔 | short | https://youtu.be/OUIxRKdU0GU | Herramientas, IA o tecnología, sin foco en ventas |
+| 206 | 🎓 Aprende constantemente y conviértete en líder o referente para otros 😎 | short | https://youtu.be/1YzCQ7wcOkE | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 207 | 🤝 ¿Contratar más empleados o comprar herramientas digitales? 👨‍💻 | short | https://youtu.be/ZZYy6_oSaGU | Herramientas, IA o tecnología, sin foco en ventas |
+| 208 | Invierte en IA generativa para potenciar tu creación de contenido ✨📽️ | short | https://youtu.be/CEkKZ2cMimE | Herramientas, IA o tecnología, sin foco en ventas |
+| 209 | Hoy más que nunca tienes que aprender sobre inteligencia artificial 📚🤖 | short | https://youtu.be/bK6g_dD1xX8 | Herramientas, IA o tecnología, sin foco en ventas |
+| 210 | ¡Ya no hay excusa! Ahora es mucho más fácil emprender gracias a la IA 🤖 | short | https://youtu.be/cC8dDEU0nbE | Herramientas, IA o tecnología, sin foco en ventas |
+| 211 | ¿Por qué el empleo no sigue después de los 40? Por la "Gig Economy" 📉🧑‍💼 | short | https://youtu.be/i6rBxQF7S5c | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 212 | Siempre deberías usar la última versión de ChatGPT 🤖🆙 | short | https://youtu.be/lR74udau6hU | Herramientas, IA o tecnología, sin foco en ventas |
+| 213 | No estás haciendo bien tus "prompts" de ChatGPT ❌🤖 | short | https://youtu.be/lbAhAJfMq68 | Herramientas, IA o tecnología, sin foco en ventas |
+| 214 | Por qué debes invertir en buenos equipos de AUDIO para tu negocio 🎧🎙️ | short | https://youtu.be/l7DNLjLjHtc | Herramientas, IA o tecnología, sin foco en ventas |
+| 215 | ¿Cómo puedes potenciar tu contenido? Creando títulos con ayuda de IA⚡ | short | https://youtu.be/iBH7gxBS_WE | Herramientas, IA o tecnología, sin foco en ventas |
+| 216 | Mateo Maffia analizando el perfil de TikTok de Adrian The Coach | short | https://youtu.be/ibXWSoeaRwA | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 217 | Deja de buscar trabajo en la corporación 🛑✋ | short | https://youtu.be/gLrXtUiwOoQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 218 | Si tienes TikTok, estás un paso adelante del resto 🚀 | short | https://youtu.be/5jRHOgX0jEY | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 219 | Si te despiden, hay un NÚMERO que debes conocer. | short | https://youtu.be/6PFI-DAxtCg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 220 | El ÉXITO nace del fracaso 🏋️‍♂️ #shorts | short | https://youtu.be/zLVR2VdBDIQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 221 | Ser empleado tiene fecha de vencimiento 📅 #shorts | short | https://youtu.be/ac8kfyps78k | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 222 | Para tener éxito en redes sociales, hagan videos hasta el hartazgo 🎦 | short | https://youtu.be/QlT47q9Vfb4 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 223 | Hoy compites contra todo el mundo, por eso hay que aprender y adelantarse al resto 🎓 | short | https://youtu.be/nIzySrpWf-8 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 224 | Si no quieres que te despidan a los 40 años, EMPRENDE 💻 | short | https://youtu.be/rNepHlzFQgE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 225 | Las razones por las que SI O SI necesitas un Plan 🅱 #shorts | short | https://youtu.be/dOFVYI2ganU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 226 | Haz videos, te guste o no 🎥 #shorts | short | https://youtu.be/h9UEExNnz74 | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 227 | Por qué debes armar tu Plan B mientras todavía eres empleado 👨‍💼 #shorts | short | https://youtu.be/3jSu4MUwtJE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 228 | ¿Cómo genera información ChatGPT? 🤖 #shorts | short | https://youtu.be/7RJg2q8Do2M | Herramientas, IA o tecnología, sin foco en ventas |
+| 229 | El cerebro "mágico" detrás de ChatGPT 🧠 #shorts | short | https://youtu.be/rdw4QxBFtwc | Herramientas, IA o tecnología, sin foco en ventas |
+| 230 | Si eres empleado/a nunca vas a ser millonario 💰 #shorts | short | https://youtu.be/BrfLBVF0YRg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 231 | Conviértete en un experto en lo que quieras en solo 3 meses 🎓 #shorts | short | https://youtu.be/2OvuSuQXYSI | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 232 | Hoy vivimos en abundancia, ¡sal a buscar ese dinero! 💰 #shorts | short | https://youtu.be/BxkVC75CJaM | Finanzas personales / inversión |
+| 233 | Herramientas esenciales para emprender: Zoom Clips 📼 #shorts | short | https://youtu.be/UnPa67aWVx4 | Herramientas, IA o tecnología, sin foco en ventas |
+| 234 | La combinación de herramientas es la clave para el éxito de tu negocio 👨‍💻 #shorts | short | https://youtu.be/B1t8N3whgAc | Herramientas, IA o tecnología, sin foco en ventas |
+| 235 | Herramientas esenciales para emprender: Notion ☑ #shorts | short | https://youtu.be/WBlgvUhSNWU | Herramientas, IA o tecnología, sin foco en ventas |
+| 236 | Si eres un profesional de más de 40 años, tu momento es ahora 👊 #shorts | short | https://youtu.be/8b_tWTFyLH4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 237 | El futuro del contenido en redes sociales 📺 #shorts | short | https://youtu.be/AlCtlPmc5Po | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 238 | Por qué debes cambiar tu mindset y armar tu propia compañía 👩‍💻 #shorts | short | https://youtu.be/h-jJsC1Vts4 | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 239 | Si eres ex-corporativo, no te aferres al pasado, destaca tus habilidades 💪 #shorts | short | https://youtu.be/V5r8LuSX6aM | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 240 | Tu experiencia profesional no te la quita nadie 🎓 #shorts | short | https://youtu.be/1FhUNQdsaDQ | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 241 | Por qué tu tiempo en la corporación se va a ACABAR 🔚 #shorts | short | https://youtu.be/Li59MtXqWPs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 242 | No trabajes de más y resérvate un tiempo para planificar tu próximo paso 💭 #shorts | short | https://youtu.be/8LWdYvO9Rfo | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 243 | Arma tu plan B mientras estás en la corporación 💼 #shorts | short | https://youtu.be/Afrc5g0R1oU | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 244 | ¿Por qué NO necesitas empleados cuando arrancas tu compañía? 🙅‍♂️ #shorts | short | https://youtu.be/ZRC6DaMBljU | Contratación de empleados |
+| 245 | A empate de habilidades, la experiencia siempre gana 💪 #shorts | short | https://youtu.be/Ru7Svs0Qogs | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 246 | ¿Eres un boomer o un Plus? 🤔 #shorts | short | https://youtu.be/Mdyl1do8xnA | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 247 | Comunidades como 40+ League son la puerta al futuro del trabajo 💻 #shorts | short | https://youtu.be/_QCHccLsD-Q | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 248 | Aprender a usar ChatGPT es tan importante como saber escribir ⌨ #shorts | short | https://youtu.be/GCJEVGI0bZ8 | Herramientas, IA o tecnología, sin foco en ventas |
+| 249 | Estudia temáticas como la longevidad y adelántate al futuro 🎓 #shorts | short | https://youtu.be/p0wjmOVaoCU | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 250 | Vas a vivir mucho más tiempo del que te imaginas ⌛ #shorts | short | https://youtu.be/6wTRr9mRaHo | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 251 | Hoy puedes aprender lo que sea, cuando quieras, desde donde sea 👨‍💻 #shorts | short | https://youtu.be/2mqNuStpjMA | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 252 | ¿Cómo aprender sobre blockchain de forma rápida? 🔗 #shorts | short | https://youtu.be/069PFySUoHg | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 253 | Las últimas tendencias están en Instagram, TikTok y YouTube 📱 #shorts | short | https://youtu.be/Ji6z-jGOADI | Plataforma (TikTok/redes): algoritmo o alcance, sin foco en clientes |
+| 254 | Una vez que pasas de boomer a Plus, nada te detiene 🔥 #shorts | short | https://youtu.be/bg4p04cAq8g | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 255 | Ya nadie usa email, empieza a usar Slack 💬 #shorts | short | https://youtu.be/gcMyab-6oIA | Herramientas, IA o tecnología, sin foco en ventas |
+| 256 | Ser experto en algo no alcanza ¡Actualízate! 🆙 #shorts | short | https://youtu.be/pHaXnBySpLs | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 257 | El verdadero desafío de la reinvención profesional 💡 #shorts | short | https://youtu.be/9G5MHRsMnrc | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 258 | Nunca dejes de aprender y estarás preparado para el futuro 🧠 #shorts | short | https://youtu.be/ImtNdQfaweo | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 259 | Si eres 40+, adopta los nuevos modelos de empleo 💻 #shorts | short | https://youtu.be/l_aHiOxiCaE | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 260 | Aprovecha tu trabajo para planificar tu futura compañía 💭 #shorts | short | https://youtu.be/pZKcJv44pkI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 261 | Aprendamos a aprender 🎓 #shorts | short | https://youtu.be/XH8jmFzJ_es | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 262 | Vas a tener que contratar empleados más jóvenes 👦 #shorts | short | https://youtu.be/MGpY9C65wHo | Contratación de empleados |
+| 263 | El dinero tal como lo conocemos, es cosa del pasado 💶 #shorts | short | https://youtu.be/kzj8Oy6d3U0 | Finanzas personales / inversión |
+| 264 | El efecto 40+ League 🌟 #shorts | short | https://youtu.be/FltssnPfnlo | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 265 | Actualiza tu experiencia como si fueras un coche clásico 🚗 #shorts | short | https://youtu.be/rcrAszI4Yfg | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 266 | ⏩ Es preferible avanzar lento, pero ir en la dirección correcta 🔀 #shorts | short | https://youtu.be/cxFJtrdOFog | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 267 | 💨 Tus empleados se van a ir, prepárate para ello ✋ #shorts | short | https://youtu.be/d7uRSA1Cc1M | Contratación de empleados |
+| 268 | Aprende cosas que aumenten tu valor y el de tu negocio 🔝 #shorts | short | https://youtu.be/d3uvczAF3u0 | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 269 | ➕ Combina tu experiencia laboral con nuevas habilidades 💪 #shorts | short | https://youtu.be/OZUSpMawUAw | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 270 | Diseña tu vida y tu futuro 🖌🔜 #shorts | short | https://youtu.be/kMCYzj31F2Y | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 271 | Cambia tu mindset y conviértete en un PLUS ⚡➕ #shorts | short | https://youtu.be/z7EBYaD_O4w | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 272 | Si estás con perdedores, perdés 😔 Si estás con ganadores, ganás ✊ #shorts | short | https://youtu.be/ltUaN2Rmw1U | Networking motivacional (rodearse de personas), sin foco en clientes |
+| 273 | Reinventémonos tantas veces como sea necesario 🔄 #shorts | short | https://youtu.be/gBgIfv7Dm9E | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 274 | Un nuevo paradigma global, nuevas oportunidades laborales #shorts | short | https://youtu.be/X8rZeDNoLvI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 275 | ¡NO te definas por tu posición en la empresa! #shorts | short | https://youtu.be/JgGdJMAUCfI | Vida corporativa, Plan B, despido o mindset de reinvención; no trata ventas ni clientes |
+| 276 | Estemos informados y entrenados en esos temas que nadie más conoce 🤓 #shorts | short | https://youtu.be/YZNmpy_CrYA | Aprendizaje / reskilling, no trata ventas ni clientes |
+| 277 | Si vamos a vivir 100 años, necesitamos cashflow 💰 #shorts | short | https://youtu.be/zxkIcn2xB6M | Longevidad / vida de 100 años, no trata ventas ni clientes |
+| 278 | Cómo Cerrar Clientes Millonarios (Manual de Ventas B2B) | entrevista (Startupeable) | https://youtu.be/-ZNJtMgKEg8 | No es él: el entrevistado es Mateo Cavasotto |
+| 279 | Esto No me gusta pero me da 10.000€ al mes | video (Víctor Heras Media) | https://youtu.be/IAJgs20_p2U | No es él: lo devolvió el deep research de NotebookLM pero es de otra persona |
+| 280 | UN MENSAJE PARA LOS JÓVENES: ÉSTO NOS HARÁ MÁS FUERTES Y MÁS PACIENTES | entrevista (Corresponsal de Paz) | https://youtu.be/Hh78cgyw0-o | Es él, pero habla de la pandemia y los jóvenes; no trata ventas ni clientes |
+| 281 | Radium FM - Cumbre Internacional Jóvenes Líderes: Adrian Herzkovich | entrevista (FMRadium, 2011) | https://youtu.be/YZk24f2hOAM | Es él como ejecutivo de Fox (2011); habla de valores y metas, no de ventas ni clientes |
